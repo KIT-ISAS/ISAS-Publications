@@ -9,6 +9,23 @@
   pdf = {IFAC20_Rosenthal.pdf},
 }
 
+@INPROCEEDINGS{9110149,
+  author={Benjamin Siebler and Oliver Heirich and Stephan Sand and Uwe D. Hanebeck},
+  booktitle={2020 IEEE/ION Position, Location and Navigation Symposium (PLANS)}, 
+  title={Joint Train Localization and Track Identification based on Earth Magnetic Field Distortions}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={941-948},
+  abstract={In this paper a train localization method is proposed that uses local variations of the earth magnetic field to determine the topological position of a train in a track network. The approach requires a magnetometer triad, an accelerometer, and a map of the magnetic field along the railway tracks. The estimated topological position comprises the along-track position that defines the position of the train within a certain track and the track ID that specifies the track the train is driving on. The along-track position is estimated by a a recursive Bayesian filter and the track ID is found from a hypothesis test. In particular the use of multiple particle filter, each estimating the position on different track hypothesis, is proposed. Whenever the estimated train position crosses a switch, a particle filter for each possible track is created. With the position estimates of the different filters, the likelihood for each track hypothesis is calculated from the measured magnetic field and the expected magnetic field in the map. A comparison of the likelihoods is subsequently used to decide which track is the most likely. After a decision for a track is made, the unnecessary filters are deleted. The feasibility of the proposed localization method is evaluated with measurement data recorded on a regional train. In the evaluation, the localization method was running in real time and overall an RMSE below five meter could be achieved and all tracks were correctly identified.},
+  keywords={accelerometers;Bayes methods;distortion;magnetometers;particle filtering (numerical methods);position measurement;rail traffic control;railways;recursive filters;target tracking;recursive Bayesian filter;track ID;multiple particle filter;track hypothesis;position estimates;measured magnetic field;expected magnetic field;regional train;joint train localization;earth magnetic field distortions;train localization method;track network;railway tracks;estimated topological position;along-track position;track identification;magnetometer triad;accelerometer;hypothesis test;particle filter;measurement data},
+  doi={10.1109/PLANS46316.2020.9110149},
+  ISSN={2153-3598},
+  month={April},
+  pdf = {PLANS20_Siebler.pdf},
+  }
+
+
 @InProceedings{IFAC20_Frisch,
   author    = {Daniel Frisch and Kailai Li and Uwe D. Hanebeck},
   title     = {{Optimal Reduction of Dirac Mixture Densities on the 2-Sphere}},
