@@ -1022,15 +1022,15 @@ month={},}
   month = nov,
 }
 
-@INPROCEEDINGS{MFI17_Kurz,
-  author = {Gerhard Kurz and Florian Pfaff and Uwe D. Hanebeck},
-  title = {{Discretization of SO(3) Using Recursive Tesseract Subdivision}},
+@InProceedings{MFI17_Kurz,
+  author    = {Gerhard Kurz and Florian Pfaff and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 2017 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2017)},
-  year = {2017},
-  pdf = {MFI17_Kurz-Tesseract.pdf},
-  address = {Daegu, Republic of Korea},
-  month = nov,
-  abstract = {	The group of rotations in three dimensions SO(3) plays a crucial role in applications ranging from robotics and aeronautics to computer graphics. Rotations have three degrees of freedom, but representing rotations is a nontrivial matter and different methods, such as Euler angles, quaternions, rotation matrices, and Rodrigues vectors are commonly used. Unfortunately, none of these representations allows easy discretization of orientations on evenly spaced grids. We present a novel discretization method that is based on a quaternion representation in conjunction with a recursive subdivision scheme of the four-dimensional hypercube, also known as the tesseract.},
+  title     = {{Discretization of SO(3) Using Recursive Tesseract Subdivision}},
+  year      = {2017},
+  address   = {Daegu, Republic of Korea},
+  month     = nov,
+  abstract  = {The group of rotations in three dimensions SO(3) plays a crucial role in applications ranging from robotics and aeronautics to computer graphics. Rotations have three degrees of freedom, but representing rotations is a nontrivial matter and different methods, such as Euler angles, quaternions, rotation matrices, and Rodrigues vectors are commonly used. Unfortunately, none of these representations allows easy discretization of orientations on evenly spaced grids. We present a novel discretization method that is based on a quaternion representation in conjunction with a recursive subdivision scheme of the four-dimensional hypercube, also known as the tesseract.},
+  pdf       = {MFI17_Kurz-Tesseract.pdf},
 }
 
 @INPROCEEDINGS{MFI17_Rosenthal,
@@ -1525,15 +1525,14 @@ the separation phase is considered in a post processing step. Different operatin
   by considering a flow of probability mass from the prior to the posterior state estimate. We propose a novel particle flow by utilizing a simple linear model. This model predicts the movement of single particles over the course of the filter progression. The predicted trajectory is corrected using importance sampling and moment matching. The proposed method is evaluated in comparison with other state-of-the-art nonlinear Bayesian filters.},
 }
 
-@INPROCEEDINGS{Fusion16_Duan,
-  author = {Zhansheng Duan and Qi Zhou and Uwe D. Hanebeck},
-  title = {{Extended Kernel-Based Location Fingerprinting in Wireless Sensor Networks}},
+@InProceedings{Fusion16_Duan,
+  author    = {Zhansheng Duan and Qi Zhou and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 19th International Conference on Information Fusion (Fusion 2016)},
-  year = {2016},
-  address = {Heidelberg, Germany},
-  month = jul,
-  pdf = {Fusion16_Duan_Fingerprinting.pdf },
-  abstract = {Fingerprinting localization is to estimate a mobile
+  title     = {{Extended Kernel-Based Location Fingerprinting in Wireless Sensor Networks}},
+  year      = {2016},
+  address   = {Heidelberg, Germany},
+  month     = jul,
+  abstract  = {Fingerprinting localization is to estimate a mobile
   terminal's location using its online received signal strength (RSS)
   measurement and offline RSS database originated from multiple
   access points (APs). Kernel-based fingerprinting localization is
@@ -1554,17 +1553,17 @@ the separation phase is considered in a post processing step. Different operatin
   fingerprinting localization using clustering and principal
   component compression have better location estimation accuracy
   and less computational load.},
+  pdf       = {Fusion16_Duan_Fingerprinting.pdf},
 }
 
-@INPROCEEDINGS{Fusion16_Faion,
-  author = {Florian Faion and Maxim Dolgov and Antonio Zea and Uwe D. Hanebeck},
-  title = {{Closed-form Bias Reduction for Shape Estimation with Polygon Models}},
+@InProceedings{Fusion16_Faion,
+  author    = {Florian Faion and Maxim Dolgov and Antonio Zea and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 19th International Conference on Information Fusion (Fusion 2016)},
-  year = {2016},
-  address = {Heidelberg, Germany},
-  month = jul,
-  pdf = {Fusion16_Faion.pdf },
-  abstract = {We look at the task of estimating the parameters
+  title     = {{Closed-form Bias Reduction for Shape Estimation with Polygon Models}},
+  year      = {2016},
+  address   = {Heidelberg, Germany},
+  month     = jul,
+  abstract  = {We look at the task of estimating the parameters
 of a geometric constraint from noisy points in 2D. The classical
 approach of minimizing the Euclidean distance error between
 points and constraint generally yields biased estimates for
@@ -1581,6 +1580,7 @@ polygons, which can be calculated in closed-form as well. We
 demonstrate that the quality of our approach can compete with
 its sampling-based alternatives, but only demands a fraction of
 their computational cost.},
+  pdf       = {Fusion16_Faion.pdf},
 }
 
 @INPROCEEDINGS{Fusion16_Gilitschenski,
@@ -1814,20 +1814,18 @@ their computational cost.},
   abstract = {Nonlinear Kalman Filters (KFs) are powerful and widely-used techniques when trying to estimate the hidden state of a stochastic nonlinear dynamic system. A novel sample-based KF is the Smart Sampling Kalman Filter (S²KF). It is based on deterministic Gaussian samples which are obtained from an offline optimization procedure. Although this sampling technique is quite effective, it does not preserve the point symmetry of the Gaussian distribution. In this paper, we overcome this issue by extending the S²KF with a new point-symmetric Gaussian sampling scheme to improve its estimation quality. Moreover, we also improve the numerical stability of the sample computation. This allows us to accurately approximate thousand-dimensional Gaussian distributions using tens of thousands of optimally placed and equally weighted samples. We evaluate the new symmetric S²KF by computing higher-order moments of standard normal distributions and investigate the estimation quality of the S²KF when dealing with symmetric measurement equations. Additionally, extended object tracking based on many measurements per time step is considered. This high-dimensional estimation problem shows the advantage of the S²KF being able to use an arbitrary number of samples independent of the state dimension, in contrast to other state-of-the-art sample-based Kalman Filters. Finally, other estimators also relying on the S²KF’s Gaussian sampling technique, e.g., the Progressive Gaussian Filter (PGF), will benefit from the new point-symmetric sampling as well.},
 }
 
-@article{SPL16_Kurz,
-  author = {Gerhard Kurz and Igor Gilitschenski and Uwe D. Hanebeck},
-  title = {{Unscented von Mises--Fisher Filtering}},
-  journal = {IEEE Signal Processing Letters},
-  volume={23},
-  number={4},
-  pages={463-467},
-  doi={10.1109/LSP.2016.2529854},
-  year = {2016},
-  month= apr,
-  pdf = {Kurz-UnscentedVMF.pdf},
-  abstract = {
-  We introduce the unscented von Mises–Fisher filter (UvMFF), a nonlinear filtering algorithm for dynamic state estimation on the n-dimensional unit hypersphere. Estimation problems on the unit hypersphere occur in computer vision, e.g., when using omnidirectional cameras, as well as in signal processing. As approaches in literature are limited to very simple system and measurement models, we propose a deterministic sampling scheme on the unit hypersphere, which allows us to handle nonlinear system and measurement models. The proposed approach can be seen as a hyperspherical variant of the unscented Kalman filter (UKF). The advantages of the novel method are shown by means of simulations.
-  },
+@Article{SPL16_Kurz,
+  author   = {Gerhard Kurz and Igor Gilitschenski and Uwe D. Hanebeck},
+  journal  = {IEEE Signal Processing Letters},
+  title    = {{Unscented von Mises--Fisher Filtering}},
+  year     = {2016},
+  month    = apr,
+  number   = {4},
+  pages    = {463-467},
+  volume   = {23},
+  abstract = {We introduce the unscented von Mises–Fisher filter (UvMFF), a nonlinear filtering algorithm for dynamic state estimation on the n-dimensional unit hypersphere. Estimation problems on the unit hypersphere occur in computer vision, e.g., when using omnidirectional cameras, as well as in signal processing. As approaches in literature are limited to very simple system and measurement models, we propose a deterministic sampling scheme on the unit hypersphere, which allows us to handle nonlinear system and measurement models. The proposed approach can be seen as a hyperspherical variant of the unscented Kalman filter (UKF). The advantages of the novel method are shown by means of simulations.},
+  doi      = {10.1109/LSP.2016.2529854},
+  pdf      = {Kurz-UnscentedVMF.pdf},
 }
 
 @ARTICLE{AES16_Kurz,
@@ -2871,16 +2869,14 @@ their computational cost.},
   month = oct,
 }
 
-@INPROCEEDINGS{SDF14_Zea,
-  author = {Antonio Zea and Florian Faion and Uwe D. Hanebeck},
-  title = {{Tracking Extended Objects using Extrusion Random Hypersurface Models}},
+@InProceedings{SDF14_Zea,
+  author    = {Antonio Zea and Florian Faion and Uwe D. Hanebeck},
   booktitle = {{Proceedings of the IEEE ISIF Workshop on Sensor Data Fusion: Trends, Solutions, Applications (SDF 2014)}},
-  year = {2014},
-  address = {Bonn, Germany},
-  pdf = {SDF14_Zea.pdf},
-  month = oct,
-  annote = {<b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/SDF14_best_paper_award.pdf" target="_blank">Certificate (PDF)</a>},
-  abstract = { As sensor resolution increases, the accuracy and robustness
+  title     = {{Tracking Extended Objects using Extrusion Random Hypersurface Models}},
+  year      = {2014},
+  address   = {Bonn, Germany},
+  month     = oct,
+  abstract  = {As sensor resolution increases, the accuracy and robustness
   of tracking algorithms can be improved by incorporating
   more information about the shape of the target object. This raises
   the need for simple and robust shape models capable of describing
@@ -2892,6 +2888,8 @@ their computational cost.},
   or containers can be extensively found in everyday situations,
   this approach can be applied for tracking in a large variety of
   environments.},
+  annote    = {<b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/SDF14_best_paper_award.pdf" target="_blank">Certificate (PDF)</a>},
+  pdf       = {SDF14_Zea.pdf},
 }
 
 @INPROCEEDINGS{MFI14_Gilitschenski,
@@ -4812,14 +4810,14 @@ surface estimates. We show a thorough evaluation of the proposed approach in sim
   pdf = {ACC12_Lyons.pdf},
 }
 
-@INPROCEEDINGS{SPIE12_FischerBaum,
-  author = {Yvonne Fischer and Marcus Baum and Fabian Flohr and Uwe D. Hanebeck and J{\"{u}}rgen Beyerer},
-  title = {{Evaluation of Tracking Methods for Maritime Surveillance }},
+@InProceedings{SPIE12_FischerBaum,
+  author    = {Yvonne Fischer and Marcus Baum and Fabian Flohr and Uwe D. Hanebeck and J{\"{u}}rgen Beyerer},
   booktitle = {Signal Processing, Sensor Fusion, and Target Recognition XXI (Proceedings of SPIE)},
-  year = {2012},
-  address = {Baltimore, Maryland, USA},
-  month = apr,
-  abstract = { In this article we present an evaluation of different target tracking
+  title     = {{Evaluation of Tracking Methods for Maritime Surveillance }},
+  year      = {2012},
+  address   = {Baltimore, Maryland, USA},
+  month     = apr,
+  abstract  = {In this article we present an evaluation of different target tracking
 	methods based on various simulated scenarios in the maritime domain.
 	We implemented well known algorithms (JIPDA, Linear Multi Target
 	PDA, Linear Joint PDA, Monte Carlo Markov Chain Data Association)
@@ -4829,8 +4827,8 @@ surface estimates. We show a thorough evaluation of the proposed approach in sim
 	get a single score for each algorithm. As no single algorithm is
 	equally well fitted to all tested scenarios, our results show which
 	algorithms fits best for specific scenarios.},
-  doi = {10.1117/12.919234},
-  url = {https://dx.doi.org/10.1117/12.919234},
+  doi       = {10.1117/12.919234},
+  url       = {https://dx.doi.org/10.1117/12.919234},
 }
 
 
@@ -5068,14 +5066,14 @@ surface estimates. We show a thorough evaluation of the proposed approach in sim
   pdf = {TGF11_Kretz.pdf},
 }
 
-@INPROCEEDINGS{IFAC11_Huber,
-  author = {Marco F. Huber and Frederik Beutler and Uwe D. Hanebeck},
-  title = {{(Semi-)Analytic Gaussian Mixture Filter}},
+@InProceedings{IFAC11_Huber,
+  author    = {Marco F. Huber and Frederik Beutler and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 18th IFAC World Congress (IFAC 2011)},
-  year = {2011},
-  address = {Milan, Italy},
-  month = aug,
-  abstract = {In nonlinear filtering, special types of Gaussian mixture filters
+  title     = {{(Semi-)Analytic Gaussian Mixture Filter}},
+  year      = {2011},
+  address   = {Milan, Italy},
+  month     = aug,
+  abstract  = {In nonlinear filtering, special types of Gaussian mixture filters
 	are a straightforward extension of Gaussian filters, where linearizing
 	the system model is performed individually for each Gaussian component.
 	In this paper, two novel types of linearization are combined with
@@ -5086,8 +5084,8 @@ surface estimates. We show a thorough evaluation of the proposed approach in sim
 	linearization is not possible, the second approach decomposes the
 	nonlinear system into a set of nonlinear subsystems that are conditionally
 	integrable in closed form. These approaches are more accurate than
-	fully applying classical linearization. },
-  pdf = {IFAC11_Huber.pdf},
+	fully applying classical linearization.},
+  pdf       = {IFAC11_Huber.pdf},
 }
 
 @INPROCEEDINGS{IFAC11_Noack,
@@ -5675,16 +5673,14 @@ for a humanoid robot using a telepresent household scenario.},
   pdf = {IROS10_Krauthausen.pdf},
 }
 
-@INPROCEEDINGS{SDF10_Baum,
-  author = {Marcus Baum and Michael Feldmann and Dietrich Fr{\"{a}}nken and Uwe D. Hanebeck and Wolfgang Koch},
-  title = {{Extended Object and Group Tracking: A Comparison of Random Matrices and Random Hypersurface Models}},
+@InProceedings{SDF10_Baum,
+  author    = {Marcus Baum and Michael Feldmann and Dietrich Fr{\"{a}}nken and Uwe D. Hanebeck and Wolfgang Koch},
   booktitle = {{Proceedings of the IEEE ISIF Workshop on Sensor Data Fusion: Trends, Solutions, Applications (SDF 2010)}},
-  year = {2010},
-  address = {Leipzig, Germany},
-  month = oct,
-  pdf = {SDF10_BaumFeldmann.pdf},
-  abstract = {
-Based on previous work of the authors, this paper provides a comparison
+  title     = {{Extended Object and Group Tracking: A Comparison of Random Matrices and Random Hypersurface Models}},
+  year      = {2010},
+  address   = {Leipzig, Germany},
+  month     = oct,
+  abstract  = {Based on previous work of the authors, this paper provides a comparison
 of two different tracking methodologies for extended objects and
 group targets, where the true shape of the extent is approximated by
 an ellipsoid. Although both methods exploit usual sensor data, i.e.,
@@ -5695,8 +5691,8 @@ hypersurface model on the other. Besides analyzing the fundamental
 assumptions and a comparison of the properties of these tracking methods,
 simulation results are presented based on a static tracking environment
 to highlight especially the differences in the update step for the
-extension estimate.
-},
+extension estimate.},
+  pdf       = {SDF10_BaumFeldmann.pdf},
 }
 
 @ARTICLE{IJCARS10_Bogatyrenko,
@@ -5802,16 +5798,14 @@ Also the lightweight design and small dimensions contribute to
 ergonomics, as the whole assembly fits well into a small backpack.},
 }
 
-@INPROCEEDINGS{VECIMS10_Baum,
-author = {Ioana Gheta and Marcus Baum and Andrey Belkin and J{\"{u}}rgen Beyerer and Uwe D. Hanebeck},
-title = {{Three Pillar Information Management System for Modeling the Environment of Autonomous Systems}},
-booktitle = {{Proceedings of the 2010 IEEE International Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems (VECIMS 2010)}},
-address = {Taranto, Italy},
-month = sep,
-year= {2010},
-pdf = {VECIMS10_GhetaBaum.pdf},
-abstract = {
-This contribution is about an information management and storage system for modeling the
+@InProceedings{VECIMS10_Baum,
+  author    = {Ioana Gheta and Marcus Baum and Andrey Belkin and J{\"{u}}rgen Beyerer and Uwe D. Hanebeck},
+  booktitle = {{Proceedings of the 2010 IEEE International Conference on Virtual Environments, Human-Computer Interfaces and Measurement Systems (VECIMS 2010)}},
+  title     = {{Three Pillar Information Management System for Modeling the Environment of Autonomous Systems}},
+  year      = {2010},
+  address   = {Taranto, Italy},
+  month     = sep,
+  abstract  = {This contribution is about an information management and storage system for modeling the
 environment of autonomous systems. The three pillars of the system consist of prior
 knowledge, environment model and sensory information. The main pillar is the environment model,
 which supplies the autonomous system with relevant information about its current environment.
@@ -5825,6 +5819,7 @@ for creating and maintaining the environment model. The concept of the three pil
 has previously been published. Therefore this contribution focuses on further central properties
 of the system. Furthermore, the development status and possible applications as well as evaluation
 scenarios are discussed.},
+  pdf       = {VECIMS10_GhetaBaum.pdf},
 }
 
 @INPROCEEDINGS{ASE10_Baum,
@@ -6001,14 +5996,14 @@ computational cost, i.e., the density representations are sparser.},
   pdf = {MFI10_Krauthausen.pdf},
 }
 
-@INPROCEEDINGS{MFI10_LyonsHekler,
-  author = {Daniel Lyons and Achim Hekler and Markus Kuderer and Uwe D. Hanebeck},
-  title = {{Robust Model Predictive Control with Least Favorable Measurements}},
+@InProceedings{MFI10_LyonsHekler,
+  author    = {Daniel Lyons and Achim Hekler and Markus Kuderer and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 2010 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2010)},
-  year = {2010},
-  address = {Salt Lake City, Utah, USA},
-  month = sep,
-  abstract = { Closed-loop model predictive control of nonlinear systems,
+  title     = {{Robust Model Predictive Control with Least Favorable Measurements}},
+  year      = {2010},
+  address   = {Salt Lake City, Utah, USA},
+  month     = sep,
+  abstract  = {Closed-loop model predictive control of nonlinear systems,
 whose internal states are not completely accessible, incorporates
 the impact of possible future measurements into the planning
 process. When planning ahead in time, those measurements
@@ -6022,8 +6017,8 @@ even in the face of high disturbances acting upon the system. Moreover,
 by considering only a single dedicated measurement, the complexity of
 closed-loop control is reduced significantly. The capabilities of our
 approach are evaluated by means of a path planning problem for a mobile robot.},
-  pdf = {MFI10_LyonsHekler.pdf},
-  annote = {<b>Nominee Best Paper Award</b>},
+  annote    = {<b>Nominee Best Paper Award</b>},
+  pdf       = {MFI10_LyonsHekler.pdf},
 }
 
 @INPROCEEDINGS{MSC10_HeklerLyonsNoack,
@@ -6053,14 +6048,14 @@ miniature walking robots.},
   pdf = {MSC10_HeklerLyonsNoack.pdf},
 }
 
-@INPROCEEDINGS{Fusion10_BaumKlumpp,
-  author = {Marcus Baum and Vesa Klumpp and Uwe D. Hanebeck},
-  title = {{A Novel Bayesian Method for Fitting a Circle to Noisy Points}},
+@InProceedings{Fusion10_BaumKlumpp,
+  author    = {Marcus Baum and Vesa Klumpp and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 13th International Conference on Information Fusion (Fusion 2010)},
-  address = {Edinburgh, United Kingdom},
-  year = {2010},
-  month = jul,
-  abstract = { This paper introduces a novel recursive Bayesian
+  title     = {{A Novel Bayesian Method for Fitting a Circle to Noisy Points}},
+  year      = {2010},
+  address   = {Edinburgh, United Kingdom},
+  month     = jul,
+  abstract  = {This paper introduces a novel recursive Bayesian
 estimator for the center and radius of a circle based on
 noisy points. Each given point is assumed to be a noisy measurement
 of an unknown true point on the circle that is corrupted with known
@@ -6070,17 +6065,17 @@ the circle, where the measurements stem from. Closed-form expressions
 for the measurement update step are derived. Simulations show that
 the novel method outperforms standard Bayesian approaches for
 circle fitting.},
-  pdf = {Fusion10_BaumKlumpp.pdf},
+  pdf       = {Fusion10_BaumKlumpp.pdf},
 }
 
-@INPROCEEDINGS{Fusion10_BaumNoack,
-  author = {Marcus Baum and Benjamin Noack and Uwe D. Hanebeck},
-  title = {{Extended Object and Group Tracking with Elliptic Random Hypersurface Models}},
+@InProceedings{Fusion10_BaumNoack,
+  author    = {Marcus Baum and Benjamin Noack and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 13th International Conference on Information Fusion (Fusion 2010)},
-  address = {Edinburgh, United Kingdom},
-  year = {2010},
-  month = jul,
-  abstract = { This paper provides new results and
+  title     = {{Extended Object and Group Tracking with Elliptic Random Hypersurface Models}},
+  year      = {2010},
+  address   = {Edinburgh, United Kingdom},
+  month     = jul,
+  abstract  = {This paper provides new results and
 insights for tracking an  extended target object
 modeled with an  Elliptic Random Hypersurface Model (RHM).
 An Elliptic RHM specifies the relative squared Mahalanobis
@@ -6092,8 +6087,8 @@ squared scaling factor. Furthermore, a Bayesian inference
 mechanisms tailored to elliptic shapes is introduced, which
 is also suitable for scenarios with high measurement noise.
 Closed-form expressions for the measurement update in case
-of Gaussian and uniformly distributed squared scaling factors are derived. },
-  pdf = {Fusion10_BaumNoack.pdf},
+of Gaussian and uniformly distributed squared scaling factors are derived.},
+  pdf       = {Fusion10_BaumNoack.pdf},
 }
 
 @INPROCEEDINGS{Fusion10_Beutler,
@@ -6147,13 +6142,14 @@ efficient calculation.},
   month = jul,
 }
 
-@INPROCEEDINGS{Fusion10_EberhardtKlumpp,
-  author = {Henning Eberhardt and Vesa Klumpp and Uwe D. Hanebeck},
-  title = {{Density Trees for Efficient Nonlinear State Estimation}},
+@InProceedings{Fusion10_EberhardtKlumpp,
+  author    = {Henning Eberhardt and Vesa Klumpp and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 13th International Conference on Information Fusion (Fusion 2010)},
-  address = {Edinburgh, United Kingdom},
-  year = {2010},
-  abstract = { In this paper, a new class of nonlinear Bayesian
+  title     = {{Density Trees for Efficient Nonlinear State Estimation}},
+  year      = {2010},
+  address   = {Edinburgh, United Kingdom},
+  month     = jul,
+  abstract  = {In this paper, a new class of nonlinear Bayesian
 estimators based on a special space partitioning structure, generalized
 Octrees, is presented. This structure minimizes memory and calculation
 overhead. It is used as a container framework for a set of node functions
@@ -6163,9 +6159,8 @@ estimators. The presented estimators are especially well suited for
 multi-modal nonlinear estimation problems. The running time performance
 of the resulting estimators is first analyzed theoretically and then backed
 by means of simulations. All operations have a linear running time in
-the number of tree nodes. },
-  pdf = {Fusion10_EberhardtKlumpp.pdf},
-  month = jul,
+the number of tree nodes.},
+  pdf       = {Fusion10_EberhardtKlumpp.pdf},
 }
 
 @INPROCEEDINGS{Fusion10_Klumpp-SGMF,
@@ -6235,21 +6230,21 @@ ties and good accuracy of the proposed filter.},
   month = jul,
 }
 
-@INPROCEEDINGS{Fusion10_Noack,
-  author = {Benjamin Noack and Vesa Klumpp and Nikolay Petkov and Uwe D. Hanebeck},
-  title = {{Bounding Linearization Errors with Sets of Densities in Approximate Kalman Filtering}},
+@InProceedings{Fusion10_Noack,
+  author    = {Benjamin Noack and Vesa Klumpp and Nikolay Petkov and Uwe D. Hanebeck},
   booktitle = {Proceedings of the 13th International Conference on Information Fusion (Fusion 2010)},
-  address = {Edinburgh, United Kingdom},
-  year = {2010},
-  pdf = {Fusion10_Noack.pdf},
-  abstract = {Applying the Kalman filtering scheme to linearized system dynamics and observation models does in general not yield optimal state estimates.
+  title     = {{Bounding Linearization Errors with Sets of Densities in Approximate Kalman Filtering}},
+  year      = {2010},
+  address   = {Edinburgh, United Kingdom},
+  month     = jul,
+  abstract  = {Applying the Kalman filtering scheme to linearized system dynamics and observation models does in general not yield optimal state estimates.
 More precisely, inconsistent state estimates and covariance matrices are caused by neglected linearization errors.
 This paper introduces a concept for systematically predicting and updating bounds for the linearization errors within the Kalman filtering framework.
 To achieve this, an uncertain quantity is not characterized by a single probability density anymore, but rather by a set of densities and accordingly,
 the linear estimation framework is generalized in order to process sets of probability densities. By means of this generalization,
 the Kalman filter may then not only be applied to stochastic quantities, but also to unknown but bounded quantities.
-In order to improve the reliability of Kalman filtering results, the last-mentioned quantities are utilized to bound the typically neglected nonlinear parts of a linearized mapping. },
-  month = jul,
+In order to improve the reliability of Kalman filtering results, the last-mentioned quantities are utilized to bound the typically neglected nonlinear parts of a linearized mapping.},
+  pdf       = {Fusion10_Noack.pdf},
 }
 
 @INPROCEEDINGS{SUTC10_Lyons,
@@ -7786,15 +7781,15 @@ simulation results.},
   pdf = {ACC07_Huber-GMLikelihood.pdf},
 }
 
-@INPROCEEDINGS{ACC07_Schrempf-DiracMixt,
-  author = {Oliver C. Schrempf and Uwe D. Hanebeck},
-  title = {{R}ecursive {P}rediction of {S}tochastic {N}onlinear {S}ystems {B}ased on {O}ptimal {D}irac {M}ixture {A}pproximations},
-  booktitle = {Proceedings of the 2007 American Control Conference (ACC 2007)},
-  year = {2007},
-  pages = {1768--1774},
-  address = {New York, New York, USA},
-  month = jul,
-  abstract = {This paper introduces a new approach to the recursive propagation
+@InProceedings{ACC07_Schrempf-DiracMixt,
+  author       = {Oliver C. Schrempf and Uwe D. Hanebeck},
+  booktitle    = {Proceedings of the 2007 American Control Conference (ACC 2007)},
+  title        = {{R}ecursive {P}rediction of {S}tochastic {N}onlinear {S}ystems {B}ased on {O}ptimal {D}irac {M}ixture {A}pproximations},
+  year         = {2007},
+  address      = {New York, New York, USA},
+  month        = jul,
+  pages        = {1768--1774},
+  abstract     = {This paper introduces a new approach to the recursive propagation
 	of probability density functions through discrete-time stochastic
 	nonlinear dynamic systems. An efficient recursive procedure is proposed
 	that is based on the optimal approximation of the posterior densities
@@ -7803,9 +7798,9 @@ simulation results.},
 	a suitable distance measure in such a way that the future evolution
 	of the approximate densities is as close to the exact densities as
 	possible.},
-  howpublished = { submitted },
-  keywords = {Dirac Mixtures},
-  pdf = {ACC07_Schrempf-DiracMixt.pdf},
+  howpublished = {submitted},
+  keywords     = {Dirac Mixtures},
+  pdf          = {ACC07_Schrempf-DiracMixt.pdf},
 }
 
 @INPROCEEDINGS{ACC07_WeisselHuber,
