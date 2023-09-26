@@ -144,6 +144,33 @@
 </td>
 </tr>
 
+<tr id="JAIF23_Frisch" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>The Generalized Fibonacci Grid as Low-Discrepancy Point Set for Optimal Deterministic Gaussian Sampling</b>,</br>Journal of Advances in Information Fusion, 18(1):16–34, June, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF23_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/Pages%20from%20JAIF-v18-i1-2-16-34_0.pdf" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_JAIF23_Frisch" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{JAIF23_Frisch,
+ author = {Daniel Frisch and Uwe D. Hanebeck},
+ issn = {1557-6418},
+ journal = {Journal of Advances in Information Fusion},
+ month = {June},
+ number = {1},
+ pages = {16--34},
+ title = {The Generalized Fibonacci Grid as Low-Discrepancy Point Set for Optimal Deterministic Gaussian Sampling},
+ url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/Pages%20from%20JAIF-v18-i1-2-16-34_0.pdf},
+ volume = {18},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="FUSION23_Hanebeck" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
