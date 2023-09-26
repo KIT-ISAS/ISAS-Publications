@@ -1,0 +1,40 @@
+name: Generate and Update publications.table
+
+on:
+  push:
+    branches:
+      - '**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the current repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Concatenate the .bib files
+      - name: Concatenate .bib files
+        run: cat ISASPublikationen.bib ISASPublikationen_laufend.bib ISASPreprints.bib > ISASFused.bib
+
+      # Clone the bibtexToTable repository
+      - name: Checkout bibtexToTable repository
+        run: git clone https://github.com/FlorianPfaff/bibtexToTable.git
+
+      # Install Python package dependencies
+      - name: Install Python packages
+        run: pip install bibtexparser
+
+      # Run the code from bibtexToTable
+      - name: Run bibtexToTable
+        run: python bibtexToTable/bibtex_to_table.py ISASFused.bib publications.table --verify-name "Uwe D. Hanebeck"
+
+      # Commit and push using git-auto-commit-action
+      - name: Commit and push publications.table
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: ${{ github.ref }}
+          commit_message: "Update publications.table"
+          commit_user_name: publication-bot
+          commit_user_email: publication-bot@iar.kit.edu
