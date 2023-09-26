@@ -1,4 +1,4 @@
-name: Generate and Update publications.table
+name: Generate and Update publications.table and publ_counter.html
 
 on:
   push:
@@ -29,12 +29,21 @@ jobs:
       # Run the code from bibtexToTable
       - name: Run bibtexToTable
         run: python bibtexToTable/bibtex_to_table.py ISASFused.bib publications.table --verify-name "Uwe D. Hanebeck"
+      
+      - name: Get script for updating table with counts
+        run: wget https://isas.iar.kit.edu/table/generate_publication_counts_table.py
+
+      - name: Generate table with counts
+        run: python generate_publication_counts_table.py ISASFused.bib 1>publ_counter.html
+
+      - name: Remove script to prevent it from being checked in
+        run: rm generate_publication_counts_table.py
 
       # Commit and push using git-auto-commit-action
       - name: Commit and push publications.table
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           branch: ${{ github.ref }}
-          commit_message: "Update publications.table"
+          commit_message: "Update publications.table and publ_counter.html"
           commit_user_name: publication-bot
           commit_user_email: publication-bot@iar.kit.edu
