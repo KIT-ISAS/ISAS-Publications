@@ -1,5 +1,53 @@
 <table id="qs_table" border="1"><tbody>
 <tr class="year"><td></td><td><a name="2023"></a>2023</td></tr>
+<tr id="SDF-MFI23_Baur" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Tim Baur, Johannes Reuter, Uwe D. Hanebeck</i>,</br> <b>On Runtime Reduction in 3D Extended Object Tracking by Measurement Downsampling</b>,</br>Proceedings of the combined IEEE 2023 Symposium Sensor Data Fusion and International Conference on Multisensor Fusion and Integration (SDF-MFI 2023), Bonn, Germany, November, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('SDF-MFI23_Baur','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF-MFI23_Baur.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_SDF-MFI23_Baur" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{SDF-MFI23_Baur,
+ address = {Bonn, Germany},
+ author = {Tim Baur and Johannes Reuter and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the combined IEEE 2023 Symposium Sensor Data Fusion and International Conference on Multisensor Fusion and Integration (SDF-MFI 2023)},
+ month = {November},
+ pdf = {SDF-MFI23_Baur.pdf},
+ title = {On Runtime Reduction in 3D Extended Object Tracking by Measurement Downsampling},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="arXiv23_Hanebeck-2" class="entry">
+<td><div class="balken-other"></div>
+</td>
+<td> <i>Uwe D. Hanebeck</i>,</br> <b>Closed-Form Information-Theoretic Roughness Measures for Mixture Densities</b>,</br>November, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Hanebeck-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_arXiv23_Hanebeck-2" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@misc{arXiv23_Hanebeck-2,
+ archiveprefix = {arXiv},
+ author = {Uwe D. Hanebeck},
+ eprint = {2311.10190},
+ month = {November},
+ primaryclass = {cs.IT},
+ title = {Closed-Form Information-Theoretic Roughness Measures for Mixture Densities},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="IFAC23_Reith-Braun" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
