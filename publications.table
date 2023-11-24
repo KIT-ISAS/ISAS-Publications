@@ -53,22 +53,21 @@ Integration (SDF-MFI 2023)},
 </tr>
 
 <tr id="arXiv23_Hanebeck-2" class="entry">
-<td><div class="balken-other"></div>
+<td><div class="balken-preprint"></div>
 </td>
-<td> <i>Uwe D. Hanebeck</i>,</br> <b>Closed-Form Information-Theoretic Roughness Measures for Mixture Densities</b>,</br>November, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Hanebeck-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<td> <i>Uwe D. Hanebeck</i>,</br> <b>Closed-Form Information-Theoretic Roughness Measures for Mixture Densities</b>,</br>arXiv preprint arXiv:2303.02412, November, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Hanebeck-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2311.10190" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv23_Hanebeck-2" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@misc{arXiv23_Hanebeck-2,
- archiveprefix = {arXiv},
+@article{arXiv23_Hanebeck-2,
  author = {Uwe D. Hanebeck},
- eprint = {2311.10190},
+ journal = {arXiv preprint arXiv:2303.02412},
  month = {November},
- primaryclass = {cs.IT},
  title = {Closed-Form Information-Theoretic Roughness Measures for Mixture Densities},
+ url = {https://arxiv.org/abs/2311.10190},
  year = {2023}
 }
 
