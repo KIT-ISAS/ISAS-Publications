@@ -1,5 +1,33 @@
 <table id="qs_table" border="1"><tbody>
 <tr class="year"><td></td><td><a name="2023"></a>2023</td></tr>
+<tr id="SDF-MFI23_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Markus Walker, Marcel Reith-Braun, Peter Schichtel, Mirko Knaak, Uwe D. Hanebeck</i>,</br> <b>Identifying Trust Regions of Bayesian Neural Networks</b>,</br>Proceedings of the combined IEEE 2023 Symposium Sensor Data
+Fusion and International Conference on Multisensor Fusion and
+Integration (SDF-MFI 2023), Bonn, Germany, November, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('SDF-MFI23_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDFMFI23_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_SDF-MFI23_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{SDF-MFI23_Walker,
+ address = {Bonn, Germany},
+ author = {Markus Walker and Marcel Reith-Braun and Peter Schichtel and Mirko Knaak and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the combined IEEE 2023 Symposium Sensor Data
+Fusion and International Conference on Multisensor Fusion and
+Integration (SDF-MFI 2023)},
+ month = {November},
+ pdf = {SDFMFI23_Walker.pdf},
+ title = {Identifying Trust Regions of Bayesian Neural Networks},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="SDF-MFI23_Baur" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
