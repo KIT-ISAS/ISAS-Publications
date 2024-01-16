@@ -2620,7 +2620,7 @@ Finite Impulse Response filter, which contributes to reducing the communication 
 <tr id="Fusion19_Zea" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Refining Pose Estimation for Square Markers Using
+<td> <i>Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Refined Pose Estimation for Square Markers Using
 Shape Fitting</b>,</br>Proceedings of the 22nd International Conference on Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
 <p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
@@ -2634,7 +2634,7 @@ Shape Fitting</b>,</br>Proceedings of the 22nd International Conference on Infor
  booktitle = {Proceedings of the 22nd International Conference on Information Fusion (Fusion 2019)},
  month = {July},
  pdf = {Fusion19_Zea.pdf},
- title = {Refining Pose Estimation for Square Markers Using
+ title = {Refined Pose Estimation for Square Markers Using
 Shape Fitting},
  year = {2019}
 }
