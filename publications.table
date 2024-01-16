@@ -19289,7 +19289,7 @@ solved locally.},
 <tr id="AUTO99_Hanebeck" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Uwe D. Hanebeck, Joachim Horn, Günther Schmidt</i>,</br> <b>On Combining Statistical and Set Theoretic Estimation</b>,</br>Automatica, 35(6):1101–1109, June, 1999.
+<td> <i>Uwe D. Hanebeck, Joachim Horn, Günther Schmidt</i>,</br> <b>On Combining Statistical and Set-Theoretic Estimation</b>,</br>Automatica, 35(6):1101–1109, June, 1999.
 <p class="infolinks"> <a href="javascript:toggleInfo('AUTO99_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AUTO99_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
@@ -19305,7 +19305,7 @@ solved locally.},
  pages = {1101--1109},
  pdf = {AUTO99_Hanebeck.pdf},
  timestamp = {2007.05.23},
- title = {On Combining Statistical and Set Theoretic Estimation},
+ title = {On Combining Statistical and Set-Theoretic Estimation},
  volume = {35},
  year = {1999}
 }
