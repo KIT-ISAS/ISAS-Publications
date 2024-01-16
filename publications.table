@@ -18946,7 +18946,7 @@ solved locally.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Joachim Horn</i>,</br> <b>Zustandsschätzung im Fall simultan auftretender mengenbasierter und stochastischer Unsicherheiten</b>,</br>at – Automatisierungstechnik, 48(6):265–272, Oldenbourg Verlag, 2000.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyter.com/view/j/auto.2000.48.issue-6_2000/auto.2000.48.6.265/auto.2000.48.6.265.xml" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://doi.org/10.1524/auto.2000.48.6.265" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT00_Hanebeck" class="bibtex noshow"><td></td>
@@ -18961,7 +18961,7 @@ solved locally.},
  publisher = {Oldenbourg Verlag},
  timestamp = {2007.05.23},
  title = {Zustandsschätzung im Fall simultan auftretender mengenbasierter und stochastischer Unsicherheiten},
- url = {https://www.degruyter.com/view/j/auto.2000.48.issue-6_2000/auto.2000.48.6.265/auto.2000.48.6.265.xml},
+ url = {https://doi.org/10.1524/auto.2000.48.6.265},
  volume = {48},
  year = {2000}
 }
