@@ -220,6 +220,30 @@
 </td>
 </tr>
 
+<tr id="FUSION23_Baur" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Tim Baur, Johannes Reuter, Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Shape Tracking Using Fourier-Chebyshev Double Series for 3D Distance Measurements</b>,</br>Proceedings of the 26th International Conference on Information Fusion (Fusion 2023), Charleston, USA, June, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION23_Baur','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION23_Baur.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION23_Baur" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION23_Baur,
+ address = {Charleston, USA},
+ author = {Tim Baur and Johannes Reuter and Antonio Zea and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 26th International Conference on Information Fusion (Fusion 2023)},
+ month = {June},
+ pdf = {FUSION23_Baur.pdf},
+ title = {Shape Tracking Using Fourier-Chebyshev Double Series for 3D Distance Measurements},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="FUSION23_Fennel" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -309,29 +333,6 @@
  month = {June},
  pdf = {Fusion23_Frisch.pdf},
  title = {Deterministic Sampling of Arbitrary Densities Using Equal Sphere Packing of Volume under the Density (PoVuD)},
- year = {2023}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="FUSION23_Baur" class="entry">
-<td><div class="balken-inproceedings"></div>
-</td>
-<td> <i>Tim Baur, Johannes Reuter, Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Progressive Bayesian Particle Flows Based on Optimal Transport Map Sequences</b>,</br>Proceedings of the 26th International Conference on Information Fusion (Fusion 2023), Charleston, USA, June, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION23_Baur','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
-</td>
-</tr>
-<tr id="bib_FUSION23_Baur" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@inproceedings{FUSION23_Baur,
- address = {Charleston, USA},
- author = {Tim Baur and Johannes Reuter and Antonio Zea and Uwe D. Hanebeck},
- booktitle = {Proceedings of the 26th International Conference on Information Fusion (Fusion 2023)},
- month = {June},
- title = {Progressive Bayesian Particle Flows Based on Optimal Transport Map Sequences},
  year = {2023}
 }
 
