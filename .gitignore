@@ -1,2 +1,14 @@
+# GitHub Action
 bibtexToTable
 ISASFused.bib
+
+# LaTeX (from test.tex)
+test.pdf
+*.blg
+*.bbl
+*.synctex.gz
+*.run.xml
+*.out
+*.log
+*.bcf
+*.aux
