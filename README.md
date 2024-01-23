@@ -7,7 +7,6 @@ Liste der Publikationen von Prof. Hanebeck. Verwendung in Publikationsliste auf 
 - https://github.com/KIT-ISAS/ISAS-Publications
 - https://github.com/FlorianPfaff/bibtex_tools
 - https://goo.gl/forms/SjZtQ0oNeip9LFyU2
-- /localhome/isaswebwiki/ISASPublikationen
 - https://dbkit.bibliothek.kit.edu/login
 
 
@@ -15,11 +14,15 @@ Liste der Publikationen von Prof. Hanebeck. Verwendung in Publikationsliste auf 
 
 1. In Google Forms ein Google Skript einbinden, das dann alles Weitere erledigt. Code: https://github.com/FlorianPfaff/bibtex_tools/blob/main/form_to_bibtex.gs
 
-1. Wenn man dieses Formular "Paperstatus melden" ausfüllt, dann wird automatisch Bibtex-code an den Maintainer verschickt (leider füllt es nicht jeder aus), der muss dann nur zu Konsistenzzwecken etwas angepasst werden.
+1. Wenn man dieses Formular "Paperstatus melden" ausfüllt, dann wird automatisch Bibtex-Code an den Maintainer verschickt (leider füllt es nicht jeder aus), der muss dann nur zu Konsistenzzwecken etwas angepasst werden.
 
 2. Wenn man auf das Repository auf Github pusht, wird automatisch durch eine Github Action die neue Table erzeugt (die auch auf der ISAS HP eingebunden ist).
 
-3. PDFs muss man auf /localhome/isaswebwiki/ISASPublikationen auf dem i81server hinterlegen. Den Dateinamen muss man als Attribut im Bibtex-Eintrag einbinden (bspw.   PDF = {IFAC23_Fennel.pdf}, )
+3. PDFs muss man auf dem i81server hinterlegen. Den Dateinamen muss man als Attribut im Bibtex-Eintrag einbinden (bspw.   PDF = {IFAC23_Fennel.pdf}, )
+- - Hier hinterlegen: `smb://i81server.iar.kit.edu/WWWMaterial/ISAS-Publikationen/PDF/`
+- - Auf Server einloggen: `ssh i81server.iar.kit.edu`
+- - Alternativ hier hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`
+- - Synchronisieren: `sudo bibTexUpdate.sh`
 
 4. Gelegentlich sollte man die Paper auch bei der KIT-Datenbank eintragen (gibt dort ein Formular dafür, leider kann man nur jeden Eintrag einzeln per LaTeX importieren).
 
@@ -33,7 +36,7 @@ Liste der Publikationen von Prof. Hanebeck. Verwendung in Publikationsliste auf 
 - DOIs nachtragen
 
 ### Verbesserungen
-- Überall Postprints + offizieller Link / DOI
+- Überall Postprints + offizieller Link + DOI
 - GitHub Action
 - - Validieren des BibTeX Codes
 - - Verfügbarkeit des PDFs
