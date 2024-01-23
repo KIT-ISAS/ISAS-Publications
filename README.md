@@ -2,6 +2,12 @@
 Liste der Publikationen von Prof. Hanebeck. Verwendung in Publikationsliste auf der Homepage sowie als Bibliothek für neue Papers.
 
 
+## Important Files
+- **ISASPublikationen.bib** : LaTeX bib-file mit den >500 Publikationen des ISAS.
+- **ISASPublikationen_laufend.bib** : Neue Einträge zunächst hier hinein, zur leichteren Fehlersuche.
+- **test.tex** : LaTeX-Dokument, welches alle Einträge zu Testzwecken zitiert.
+
+
 ## Links
 - https://isas.iar.kit.edu/Publications.php
 - https://github.com/KIT-ISAS/ISAS-Publications
