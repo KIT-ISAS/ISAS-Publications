@@ -1,5 +1,9 @@
 # ISAS-Publications
-Liste der Publikationen von Prof. Hanebeck. Verwendung in Publikationsliste auf der Homepage sowie als Bibliothek für neue Papers.
+Liste der Publikationen vom ISAS. 
+
+Auf der ISAS-Publikationsseite werden die Publikationen nach "Hanebeck" gefiltert. Auf der Mitarbeiterseite kann man sich eine **persönliche Publikationsliste** anlegen, die nach dem eigenen Namen filtert. 
+
+In **Overleaf** kann die Github-Publikationsliste über "New File", "From External URL" direkt importiert werden. 
 
 
 ## Important Files
