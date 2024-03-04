@@ -1,5 +1,90 @@
 <table id="qs_table" border="1"><tbody>
 <tr class="year"><td></td><td><a name="2023"></a>2023</td></tr>
+<tr id="NAVIGATION23_Siebler" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Simultaneous Localization and Calibration (SLAC) Methods for a Train-Mounted Magnetometer</b>,</br>NAVIGATION: Journal of the Institute of Navigation, Institute of Navigation, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('NAVIGATION23_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/NAVIGATION23_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://navi.ion.org/content/70/1/navi.557" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_NAVIGATION23_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{NAVIGATION23_Siebler,
+ abstract = {Magnetic field localization is based on the fact that the Earth\textquoterights magnetic field is distorted in the vicinity of ferromagnetic objects. When ferromagnetic objects are in fixed positions, the distortions are also fixed and, thus, contain location information. In our prior work, we proposed a simultaneous localization and calibration (SLAC) algorithm based on a Rao-Blackwellized particle filter that enables magnetic train localization using only uncalibrated magnetometer measurements. In this paper, a lower-complexity version of the SLAC algorithm is proposed that only estimates a subset of calibration parameters. An evaluation compares the full and reduced SLAC approach to a particle filter in which the magnetometer is pre-calibrated with a fixed set of parameters. The results show a clear advantage for both SLAC approaches and that the SLAC algorithm with a reduced set of calibration parameters achieves the same performance as the one with a full set of parameters.},
+ author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
+ doi = {10.33012/navi.557},
+ elocation-id = {navi.557},
+ eprint = {https://navi.ion.org/content/70/1/navi.557.full.pdf},
+ issn = {0028-1522},
+ journal = {NAVIGATION: Journal of the Institute of Navigation},
+ number = {1},
+ pdf = {NAVIGATION23_Siebler.pdf},
+ publisher = {Institute of Navigation},
+ title = {Simultaneous Localization and Calibration (SLAC) Methods for a Train-Mounted Magnetometer},
+ url = {https://navi.ion.org/content/70/1/navi.557},
+ volume = {70},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="PLANS23_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Bayesian Cramér-Rao Lower Bounds for Magnetic Field-based Train Localization</b>,</br>2023 IEEE/ION Position, Location and Navigation Symposium (PLANS), ():814–820, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('PLANS23_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PLANS23_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.1109/PLANS53410.2023.10140073" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_PLANS23_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{PLANS23_Siebler,
+ author = {Benjamin Siebler and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {2023 IEEE/ION Position, Location and Navigation Symposium (PLANS)},
+ doi = {10.1109/PLANS53410.2023.10140073},
+ number = {},
+ pages = {814-820},
+ pdf = {PLANS23_Siebler.pdf},
+ title = {Bayesian Cramér-Rao Lower Bounds for Magnetic Field-based Train Localization},
+ url = {https://doi.org/10.1109/PLANS53410.2023.10140073},
+ volume = {},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="IPIN23_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Tim Gerstewitz, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Magnetic Field-based Indoor Localization of a Tracked Robot with Simultaneous Calibration</b>,</br>2023 13th International Conference on Indoor Positioning and Indoor Navigation (IPIN), ():1–6, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('IPIN23_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IPIN23_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.1109/IPIN57070.2023.10332492" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_IPIN23_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{IPIN23_Siebler,
+ author = {Benjamin Siebler and Tim Gerstewitz and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {2023 13th International Conference on Indoor Positioning and Indoor Navigation (IPIN)},
+ doi = {10.1109/IPIN57070.2023.10332492},
+ number = {},
+ pages = {1-6},
+ pdf = {IPIN23_Siebler.pdf},
+ title = {Magnetic Field-based Indoor Localization of a Tracked Robot with Simultaneous Calibration},
+ url = {https://doi.org/10.1109/IPIN57070.2023.10332492},
+ volume = {},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="SDF-MFI23_Frisch" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -600,6 +685,32 @@
 </td>
 </tr>
 
+<tr id="ION-GNSS22_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Oliver Heirich, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Robust Particle Filter for Magnetic field-based Train Localization</b>,</br>Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022), Denver, Colorado, September, 2022.
+<p class="infolinks"> <a href="javascript:toggleInfo('ION-GNSS22_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ION-GNSS22_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.33012/2022.18536" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_ION-GNSS22_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ION-GNSS22_Siebler,
+ address = {Denver, Colorado},
+ author = {Benjamin Siebler and Oliver Heirich and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022)},
+ doi = {10.33012/2022.18536},
+ month = {September},
+ pdf = {ION-GNSS22_Siebler.pdf},
+ title = {Robust Particle Filter for Magnetic field-based Train Localization},
+ url = {https://doi.org/10.33012/2022.18536},
+ year = {2022}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="PowTec22_Bauer" class="entry">
 <td><div class="balken-article"></div>
 </td>
@@ -1093,6 +1204,32 @@ Information Fusion (Fusion 2022)},
  month = {October},
  title = {Hyperspherical Dirac Mixture Reapproximation},
  url = {https://arxiv.org/abs/2110.10411},
+ year = {2021}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="ION-GNSS21_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Evaluation of Simultaneous Localization and Calibration of a Train Mounted Magnetometer</b>,</br>Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, Missouri, September, 2021.
+<p class="infolinks"> <a href="javascript:toggleInfo('ION-GNSS21_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ION-GNSS21_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.33012/2021.17900" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_ION-GNSS21_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ION-GNSS21_Siebler,
+ address = {St. Louis, Missouri},
+ author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)},
+ doi = {10.33012/2021.17900},
+ month = {September},
+ pdf = {ION-GNSS21_Siebler.pdf},
+ title = {Evaluation of Simultaneous Localization and Calibration of a Train Mounted Magnetometer},
+ url = {https://doi.org/10.33012/2021.17900},
  year = {2021}
 }
 
