@@ -1,4 +1,28 @@
 <table id="qs_table" border="1"><tbody>
+<tr class="year"><td></td><td><a name="2024"></a>2024</td></tr>
+<tr id="ACC24_Hanebeck" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Uwe D. Hanebeck, Daniel Frisch, Dominik Prossel</i>,</br> <b>Closed-Form Information-Theoretic Roughness Measures for Mixture Densities</b>,</br>Proceedings of the 2024 American Control Conference (ACC 2024), Toronto, Canada, May, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('ACC24_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_ACC24_Hanebeck" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ACC24_Hanebeck,
+ address = {Toronto, Canada},
+ author = {Uwe D. Hanebeck and Daniel Frisch and Dominik Prossel},
+ booktitle = {Proceedings of the 2024 American Control Conference (ACC 2024)},
+ month = {May},
+ title = {Closed-Form Information-Theoretic Roughness Measures for Mixture Densities},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr class="year"><td></td><td><a name="2023"></a>2023</td></tr>
 <tr id="NAVIGATION23_Siebler" class="entry">
 <td><div class="balken-article"></div>
@@ -2628,7 +2652,7 @@ Information Fusion (Fusion 2022)},
 <tr id="IV19_Wirges" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Wirges, Sascha, Reith-Braun, Marcel, Lauer, Martin, Stiller, Christoph</i>,</br> <b>Capturing Object Detection Uncertainty in Multi-Layer Grid Maps</b>,</br>2019 IEEE Intelligent Vehicles Symposium (IV 2019), ():1520–1526, Paris, France, 2019.
+<td> <i>Wirges, Sascha, Reith-Braun, Marcel, Lauer, Martin, Stiller, Christoph</i>,</br> <b>Capturing Object Detection Uncertainty in Multi-Layer Grid Maps</b>,</br>2019 IEEE Intelligent Vehicles Symposium (IV 2019), pp. 1520–1526, Paris, France, 2019.
 <p class="infolinks"> <a href="javascript:toggleInfo('IV19_Wirges','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/8814073" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -2640,12 +2664,9 @@ Information Fusion (Fusion 2022)},
  author = {Wirges, Sascha and Reith-Braun, Marcel and Lauer, Martin and Stiller, Christoph},
  booktitle = {2019 IEEE Intelligent Vehicles Symposium (IV 2019)},
  doi = {10.1109/IVS.2019.8814073},
- keywords = {},
- number = {},
  pages = {1520-1526},
  title = {Capturing Object Detection Uncertainty in Multi-Layer Grid Maps},
  url = {https://ieeexplore.ieee.org/document/8814073},
- volume = {},
  year = {2019}
 }
 
