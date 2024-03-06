@@ -1,5 +1,30 @@
 <table id="qs_table" border="1"><tbody>
 <tr class="year"><td></td><td><a name="2024"></a>2024</td></tr>
+<tr id="TAES24_Wei" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Zheng Wei, Zhansheng Duan, Uwe D. Hanebeck</i>,</br> <b>Distributed Fusion of Multiple Model Estimators Using Minimum Forward Kullback-Leibler Divergence Sum</b>,</br>IEEE Transactions on Aerospace and Electronic Systems (TAES), pp. 1–15, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('TAES24_Wei','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/10415171" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_TAES24_Wei" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{TAES24_Wei,
+ author = {Zheng Wei and Zhansheng Duan and Uwe D. Hanebeck},
+ doi = {10.1109/TAES.2024.3358791},
+ journal = {IEEE Transactions on Aerospace and Electronic Systems (TAES)},
+ keywords = {Target tracking;Probability density function;Sensor fusion;Approximation algorithms;Time measurement;Predictive models;Optimization;Distributed fusion;kullback - leibler (KL) divergence;maneuvering target tracking;multiple model (MM) estimation},
+ pages = {1-15},
+ title = {Distributed Fusion of Multiple Model Estimators Using Minimum Forward Kullback-Leibler Divergence Sum},
+ url = {https://ieeexplore.ieee.org/document/10415171},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="ACC24_Hanebeck" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
