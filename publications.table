@@ -478,7 +478,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Eugen Ernst, Florian Pfaff, Uwe D. Hanebeck, Marcus Baum</i>,</br> <b>The Kernel-SME Filter with Adaptive Kernel Widths for Association-free Multi-target Tracking</b>,</br>Proceedings of the 2023 American Control Conference (ACC 2023), San Diego, CA, USA, May, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('ACC23_Ernst','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC23_Ernst.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/ACC2023_Best_Student_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ACC23_Ernst','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC23_Ernst.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Finalist Student Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/ACC2023_Best_Student_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_ACC23_Ernst" class="bibtex noshow"><td></td>
@@ -486,7 +486,7 @@
 <pre>
 @inproceedings{ACC23_Ernst,
  address = {San Diego, CA, USA},
- annote = {<b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/ACC2023_Best_Student_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
+ annote = {<b>Finalist Student Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/ACC2023_Best_Student_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Eugen Ernst and Florian Pfaff and Uwe D. Hanebeck and Marcus Baum},
  booktitle = {Proceedings of the 2023 American Control Conference (ACC 2023)},
  month = {May},
