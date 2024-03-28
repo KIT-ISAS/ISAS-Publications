@@ -18,6 +18,7 @@ In **Overleaf** kann die Github-Publikationsliste über "New File", "From Extern
 - https://github.com/FlorianPfaff/bibtex_tools
 - https://goo.gl/forms/SjZtQ0oNeip9LFyU2
 - https://dbkit.bibliothek.kit.edu/login
+- https://github.com/KIT-ISAS/Scopus-API
 
 
 ## Aufgaben des Literatur-Maintainers
