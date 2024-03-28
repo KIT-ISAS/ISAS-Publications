@@ -11,6 +11,7 @@ Liste der Publikationen von Prof. Hanebeck. Verwendung in Publikationsliste auf 
 ## Links
 - https://isas.iar.kit.edu/Publications.php
 - https://github.com/KIT-ISAS/ISAS-Publications
+- https://github.com/KIT-ISAS/bibtexToTable
 - https://github.com/FlorianPfaff/bibtex_tools
 - https://goo.gl/forms/SjZtQ0oNeip9LFyU2
 - https://dbkit.bibliothek.kit.edu/login
@@ -25,10 +26,10 @@ Liste der Publikationen von Prof. Hanebeck. Verwendung in Publikationsliste auf 
 2. Wenn man auf das Repository auf Github pusht, wird automatisch durch eine Github Action die neue Table erzeugt (die auch auf der ISAS HP eingebunden ist).
 
 3. PDFs muss man auf dem i81server hinterlegen. Den Dateinamen muss man als Attribut im Bibtex-Eintrag einbinden (bspw.   PDF = {IFAC23_Fennel.pdf}, )
-- - Hier hinterlegen: `smb://i81server.iar.kit.edu/WWWMaterial/ISAS-Publikationen/PDF/`
-- - Auf Server einloggen: `ssh i81server.iar.kit.edu`
-- - Alternativ hier hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`
-- - Synchronisieren: `sudo bibTexUpdate.sh`
+   - Hier hinterlegen: `smb://i81server.iar.kit.edu/WWWMaterial/ISAS-Publikationen/PDF/`
+   - Auf Server einloggen: `ssh i81server.iar.kit.edu`
+   - Alternativ hier hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`
+   - Synchronisieren: `sudo bibTexUpdate.sh`
 
 4. Gelegentlich sollte man die Paper auch bei der KIT-Datenbank eintragen (gibt dort ein Formular dafür, leider kann man nur jeden Eintrag einzeln per LaTeX importieren).
 
@@ -49,6 +50,7 @@ Liste der Publikationen von Prof. Hanebeck. Verwendung in Publikationsliste auf 
 - Links überprüfen
 - alle PDF-Dateinamen gleich Bib-Key
 - PostPrints auf KITopen hochladen
+- @inproceedings Link anzeigen
 
 
 
