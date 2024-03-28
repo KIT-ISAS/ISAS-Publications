@@ -1,5 +1,139 @@
 <table id="qs_table" border="1"><tbody>
+<tr class="year"><td></td><td><a name="2024"></a>2024</td></tr>
+<tr id="TAES24_Wei" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Zheng Wei, Zhansheng Duan, Uwe D. Hanebeck</i>,</br> <b>Distributed Fusion of Multiple Model Estimators Using Minimum Forward Kullback-Leibler Divergence Sum</b>,</br>IEEE Transactions on Aerospace and Electronic Systems (TAES), pp. 1–15, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('TAES24_Wei','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/10415171" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_TAES24_Wei" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{TAES24_Wei,
+ author = {Zheng Wei and Zhansheng Duan and Uwe D. Hanebeck},
+ doi = {10.1109/TAES.2024.3358791},
+ journal = {IEEE Transactions on Aerospace and Electronic Systems (TAES)},
+ keywords = {Target tracking;Probability density function;Sensor fusion;Approximation algorithms;Time measurement;Predictive models;Optimization;Distributed fusion;kullback - leibler (KL) divergence;maneuvering target tracking;multiple model (MM) estimation},
+ pages = {1-15},
+ title = {Distributed Fusion of Multiple Model Estimators Using Minimum Forward Kullback-Leibler Divergence Sum},
+ url = {https://ieeexplore.ieee.org/document/10415171},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="ACC24_Hanebeck" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Uwe D. Hanebeck, Daniel Frisch, Dominik Prossel</i>,</br> <b>Closed-Form Information-Theoretic Roughness Measures for Mixture Densities</b>,</br>Proceedings of the 2024 American Control Conference (ACC 2024), Toronto, Canada, May, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('ACC24_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_ACC24_Hanebeck" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ACC24_Hanebeck,
+ address = {Toronto, Canada},
+ author = {Uwe D. Hanebeck and Daniel Frisch and Dominik Prossel},
+ booktitle = {Proceedings of the 2024 American Control Conference (ACC 2024)},
+ month = {May},
+ title = {Closed-Form Information-Theoretic Roughness Measures for Mixture Densities},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr class="year"><td></td><td><a name="2023"></a>2023</td></tr>
+<tr id="NAVIGATION23_Siebler" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Simultaneous Localization and Calibration (SLAC) Methods for a Train-Mounted Magnetometer</b>,</br>NAVIGATION: Journal of the Institute of Navigation, Institute of Navigation, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('NAVIGATION23_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/NAVIGATION23_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://navi.ion.org/content/70/1/navi.557" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_NAVIGATION23_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{NAVIGATION23_Siebler,
+ abstract = {Magnetic field localization is based on the fact that the Earth\textquoterights magnetic field is distorted in the vicinity of ferromagnetic objects. When ferromagnetic objects are in fixed positions, the distortions are also fixed and, thus, contain location information. In our prior work, we proposed a simultaneous localization and calibration (SLAC) algorithm based on a Rao-Blackwellized particle filter that enables magnetic train localization using only uncalibrated magnetometer measurements. In this paper, a lower-complexity version of the SLAC algorithm is proposed that only estimates a subset of calibration parameters. An evaluation compares the full and reduced SLAC approach to a particle filter in which the magnetometer is pre-calibrated with a fixed set of parameters. The results show a clear advantage for both SLAC approaches and that the SLAC algorithm with a reduced set of calibration parameters achieves the same performance as the one with a full set of parameters.},
+ author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
+ doi = {10.33012/navi.557},
+ elocation-id = {navi.557},
+ eprint = {https://navi.ion.org/content/70/1/navi.557.full.pdf},
+ issn = {0028-1522},
+ journal = {NAVIGATION: Journal of the Institute of Navigation},
+ number = {1},
+ pdf = {NAVIGATION23_Siebler.pdf},
+ publisher = {Institute of Navigation},
+ title = {Simultaneous Localization and Calibration (SLAC) Methods for a Train-Mounted Magnetometer},
+ url = {https://navi.ion.org/content/70/1/navi.557},
+ volume = {70},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="PLANS23_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Bayesian Cramér-Rao Lower Bounds for Magnetic Field-based Train Localization</b>,</br>2023 IEEE/ION Position, Location and Navigation Symposium (PLANS), ():814–820, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('PLANS23_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PLANS23_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.1109/PLANS53410.2023.10140073" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_PLANS23_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{PLANS23_Siebler,
+ author = {Benjamin Siebler and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {2023 IEEE/ION Position, Location and Navigation Symposium (PLANS)},
+ doi = {10.1109/PLANS53410.2023.10140073},
+ number = {},
+ pages = {814-820},
+ pdf = {PLANS23_Siebler.pdf},
+ title = {Bayesian Cramér-Rao Lower Bounds for Magnetic Field-based Train Localization},
+ url = {https://doi.org/10.1109/PLANS53410.2023.10140073},
+ volume = {},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="IPIN23_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Tim Gerstewitz, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Magnetic Field-based Indoor Localization of a Tracked Robot with Simultaneous Calibration</b>,</br>2023 13th International Conference on Indoor Positioning and Indoor Navigation (IPIN), ():1–6, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('IPIN23_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IPIN23_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.1109/IPIN57070.2023.10332492" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_IPIN23_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{IPIN23_Siebler,
+ author = {Benjamin Siebler and Tim Gerstewitz and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {2023 13th International Conference on Indoor Positioning and Indoor Navigation (IPIN)},
+ doi = {10.1109/IPIN57070.2023.10332492},
+ number = {},
+ pages = {1-6},
+ pdf = {IPIN23_Siebler.pdf},
+ title = {Magnetic Field-based Indoor Localization of a Tracked Robot with Simultaneous Calibration},
+ url = {https://doi.org/10.1109/IPIN57070.2023.10332492},
+ volume = {},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="SDF-MFI23_Frisch" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -344,7 +478,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Eugen Ernst, Florian Pfaff, Uwe D. Hanebeck, Marcus Baum</i>,</br> <b>The Kernel-SME Filter with Adaptive Kernel Widths for Association-free Multi-target Tracking</b>,</br>Proceedings of the 2023 American Control Conference (ACC 2023), San Diego, CA, USA, May, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('ACC23_Ernst','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC23_Ernst.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/ACC2023_Best_Student_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ACC23_Ernst','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC23_Ernst.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Finalist Student Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/ACC2023_Best_Student_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_ACC23_Ernst" class="bibtex noshow"><td></td>
@@ -352,7 +486,7 @@
 <pre>
 @inproceedings{ACC23_Ernst,
  address = {San Diego, CA, USA},
- annote = {<b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/ACC2023_Best_Student_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
+ annote = {<b>Finalist Student Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/ACC2023_Best_Student_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Eugen Ernst and Florian Pfaff and Uwe D. Hanebeck and Marcus Baum},
  booktitle = {Proceedings of the 2023 American Control Conference (ACC 2023)},
  month = {May},
@@ -593,6 +727,32 @@
  month = {October},
  title = {Intuitive and Immersive Teleoperation of Robot Manipulators for Remote Decontamination},
  url = {https://doi.org/10.1515/auto-2022-0057},
+ year = {2022}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="ION-GNSS22_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Oliver Heirich, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Robust Particle Filter for Magnetic field-based Train Localization</b>,</br>Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022), Denver, Colorado, September, 2022.
+<p class="infolinks"> <a href="javascript:toggleInfo('ION-GNSS22_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ION-GNSS22_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.33012/2022.18536" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_ION-GNSS22_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ION-GNSS22_Siebler,
+ address = {Denver, Colorado},
+ author = {Benjamin Siebler and Oliver Heirich and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 35th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2022)},
+ doi = {10.33012/2022.18536},
+ month = {September},
+ pdf = {ION-GNSS22_Siebler.pdf},
+ title = {Robust Particle Filter for Magnetic field-based Train Localization},
+ url = {https://doi.org/10.33012/2022.18536},
  year = {2022}
 }
 
@@ -955,6 +1115,33 @@ Information Fusion (Fusion 2022)},
 </td>
 </tr>
 
+<tr id="SBSC22_Ludwig" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Ludwig, Jan Niklas, Flitter, Merle, Maier, Georg, Bauer, Albert, Reith-Braun, Marcel, Gruna, Robin, Kruggel-Emden, Harald, Längle, Thomas, Beyerer, Jürgen</i>,</br> <b>Systematic Determination of the Influence of Factors Relevant to Operating Costs of Sensor-based Sorting Systems</b>,</br>Proceedings of the 9th Sensor-Based Sorting & Control Conference (SBSC 2022), pp. 113–132, Aachen, Germany, April, 2022.
+<p class="infolinks"> <a href="javascript:toggleInfo('SBSC22_Ludwig','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC22_Ludwig.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.2370/9783844085457" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_SBSC22_Ludwig" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{SBSC22_Ludwig,
+ address = {Aachen, Germany},
+ author = {Ludwig, Jan Niklas and Flitter, Merle and Maier, Georg and Bauer, Albert and Reith-Braun, Marcel and Gruna, Robin and Kruggel-Emden, Harald and Längle, Thomas and Beyerer, Jürgen},
+ booktitle = {Proceedings of the 9th Sensor-Based Sorting & Control Conference (SBSC 2022)},
+ doi = {10.2370/9783844085457},
+ month = {April},
+ pages = {113-132},
+ pdf = {SBSC22_Ludwig.pdf},
+ title = {Systematic Determination of the Influence of Factors Relevant to Operating Costs of Sensor-based Sorting Systems},
+ url = {https://doi.org/10.2370/9783844085457},
+ year = {2022}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr class="year"><td></td><td><a name="2021"></a>2021</td></tr>
 <tr id="Haptics21_Fennel" class="entry">
 <td><div class="balken-article"></div>
@@ -1066,6 +1253,32 @@ Information Fusion (Fusion 2022)},
  month = {October},
  title = {Hyperspherical Dirac Mixture Reapproximation},
  url = {https://arxiv.org/abs/2110.10411},
+ year = {2021}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="ION-GNSS21_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Evaluation of Simultaneous Localization and Calibration of a Train Mounted Magnetometer</b>,</br>Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021), St. Louis, Missouri, September, 2021.
+<p class="infolinks"> <a href="javascript:toggleInfo('ION-GNSS21_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ION-GNSS21_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://doi.org/10.33012/2021.17900" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_ION-GNSS21_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ION-GNSS21_Siebler,
+ address = {St. Louis, Missouri},
+ author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 34th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2021)},
+ doi = {10.33012/2021.17900},
+ month = {September},
+ pdf = {ION-GNSS21_Siebler.pdf},
+ title = {Evaluation of Simultaneous Localization and Calibration of a Train Mounted Magnetometer},
+ url = {https://doi.org/10.33012/2021.17900},
  year = {2021}
 }
 
@@ -2461,6 +2674,31 @@ Information Fusion (Fusion 2022)},
 </tr>
 
 <tr class="year"><td></td><td><a name="2019"></a>2019</td></tr>
+<tr id="IV19_Wirges" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Wirges, Sascha, Reith-Braun, Marcel, Lauer, Martin, Stiller, Christoph</i>,</br> <b>Capturing Object Detection Uncertainty in Multi-Layer Grid Maps</b>,</br>2019 IEEE Intelligent Vehicles Symposium (IV 2019), pp. 1520–1526, Paris, France, 2019.
+<p class="infolinks"> <a href="javascript:toggleInfo('IV19_Wirges','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/8814073" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_IV19_Wirges" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{IV19_Wirges,
+ address = {Paris, France},
+ author = {Wirges, Sascha and Reith-Braun, Marcel and Lauer, Martin and Stiller, Christoph},
+ booktitle = {2019 IEEE Intelligent Vehicles Symposium (IV 2019)},
+ doi = {10.1109/IVS.2019.8814073},
+ pages = {1520-1526},
+ title = {Capturing Object Detection Uncertainty in Multi-Layer Grid Maps},
+ url = {https://ieeexplore.ieee.org/document/8814073},
+ year = {2019}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="CDC19_Rosenthal" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -4415,7 +4653,7 @@ filter.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Georg Maier, Florian Pfaff, Florian Becker, Christoph Pieper, Robin Gruna, Benjamin Noack, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Siegmar Wirtz, Viktor Scherer, Jürgen Beyerer</i>,</br> <b>Improving Material Characterization in Sensor-Based Sorting by Utilizing Motion Information</b>,</br>Proceedings of the 3rd Conference on Optical Characterization of Materials (OCM 2017), Karlsruhe, Germany, March, 2017.
-<p class="infolinks"> <a href="javascript:toggleInfo('OCM17_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/OCM17_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/OCM17_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('OCM17_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/OCM17_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.ksp.kit.edu/9783731506126" target="_blank">URL</a> <font color="red"><b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/OCM17_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_OCM17_Maier" class="bibtex noshow"><td></td>
@@ -8591,7 +8829,7 @@ processing.},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Jörg Fischer, Uwe D. Hanebeck</i>,</br> <b>Distributed and Networked Model Predictive Control</b>,</br>Control Theory of Digitally Networked Dynamic Systems, pp. 111–167, Springer International Publishing, January, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('SPP14_Fischer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SPP14_Fischer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SPP14_Fischer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SPP14_Fischer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://dx.doi.org/10.1007/978-3-319-01131-8_4" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SPP14_Fischer" class="bibtex noshow"><td></td>
@@ -11866,7 +12104,7 @@ of our new approach},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Johannes Schmid, Frederik Beutler, Benjamin Noack, Uwe D. Hanebeck, Klaus D. Müller-Glaser</i>,</br> <b>An Experimental Evaluation of Position Estimation Methods for Person Localization in Wireless Sensor Networks</b>,</br>Proceedings of the 8th European Conference on Wireless Sensor Networks (EWSN 2011), 6567:147–162, Springer, Bonn, Germany, February, 2011.
-<p class="infolinks"> <a href="javascript:toggleInfo('EWSN11_Schmid','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EWSN11_Schmid.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('EWSN11_Schmid','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EWSN11_Schmid.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://dx.doi.org/10.1007/978-3-642-19186-2_10" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_EWSN11_Schmid" class="bibtex noshow"><td></td>
@@ -14327,7 +14565,7 @@ can be applied to problems, where classic dynamic programming would be cumbersom
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Henning Lenz, Bruno Betoni Parodi, Hui Wang, Andrei Szabo, Joachim Bamberger, Dragan Obradovic, Joachim Horn, Uwe D. Hanebeck</i>,</br> <b>Adaptive Localization in Wireless Networks</b>,</br>Signal Processing Techniques for Knowledge Extraction and Information Fusion, pp. 97 – 120, Springer US, 2008.
-<p class="infolinks"> <a href="javascript:toggleInfo('Springer08_Lenz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion08_Lenz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Springer08_Lenz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion08_Lenz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://dx.doi.org/10.1007/978-0-387-74367-7_6" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Springer08_Lenz" class="bibtex noshow"><td></td>
@@ -14687,7 +14925,7 @@ in high-dimensional state spaces.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Chongning Na, Hui Wang, Dragan Obradovic, Uwe D. Hanebeck</i>,</br> <b>Fourier Density Approximation for Belief Propagation in Wireless Sensor Networks</b>,</br>Proceedings of the 2008 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2008), pp. 290–295, Seoul, Republic of Korea, August, 2008.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_NaWang','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_NaWang.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_NaWang','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_NaWang.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://dx.doi.org/10.1109/MFI.2008.4648080" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI08_NaWang" class="bibtex noshow"><td></td>
@@ -14820,7 +15058,7 @@ carried out with the SAFT image reconstruction.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Hui Wang, Andrei Szabo, Joachim Bamberger, Uwe D. Hanebeck</i>,</br> <b>Simultaneous Multi-Information Fusion and Parameter Estimation for Robust 3-D Indoor Positioning Systems</b>,</br>Proceedings of the 2008 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2008), pp. 445–450, Seoul, Republic of Korea, August, 2008.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_WangSzabo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_WangSzabo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_WangSzabo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_WangSzabo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://dx.doi.org/10.1109/MFI.2008.4648035" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI08_WangSzabo" class="bibtex noshow"><td></td>
@@ -16698,7 +16936,7 @@ Uwe D. Hanebeck and
 Thomas C. Henderson (Eds.)</i>,</br> <b>Form and Content in Sensor Networks, 18.09. - 23.09.2005</b>,</br>Form and Content in Sensor Networks, Internationales Begegnungs- und Forschungszentrum für
 Informatik (IBFI), Schloss Dagstuhl, Germany, Internationales Begegnungs- und Forschungszentrum für
 Informatik (IBFI), Schloss Dagstuhl, Germany, Dagstuhl Seminar Proceedings, September, 2006.
-<p class="infolinks"> <a href="javascript:toggleInfo('DBLP:conf/dagstuhl/2005P5381','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/05381_abstracts_collection.755.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('DBLP:conf/dagstuhl/2005P5381','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/05381_abstracts_collection.755.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://drops.dagstuhl.de/portals/05381/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_DBLP:conf/dagstuhl/2005P5381" class="bibtex noshow"><td></td>
@@ -19728,7 +19966,7 @@ Techniques and Applications, Elsevier Science},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Closed–Form Elliptic Location with an Arbitrary Array Topology</b>,</br>Proceedings of the 1996 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 1996), pp. 3070–3073, Atlanta, Georgia, USA, May, 1996.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICASSP96_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICASSP96_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICASSP96_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICASSP96_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/550524/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICASSP96_Hanebeck" class="bibtex noshow"><td></td>
@@ -19756,7 +19994,7 @@ Techniques and Applications, Elsevier Science},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Joachim Horn, Günther Schmidt</i>,</br> <b>On Combining Set Theoretic and Bayesian Estimation</b>,</br>Proceedings of the 1996 IEEE International Conference on Robotics and Automation (ICRA 1996), pp. 3081–3086, Minneapolis, Minnesota, USA, April, 1996.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICRA96_Hanebeck-SetBayes','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICRA96_Hanebeck-SetBayes.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICRA96_Hanebeck-SetBayes','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICRA96_Hanebeck-SetBayes.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=509180" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICRA96_Hanebeck-SetBayes" class="bibtex noshow"><td></td>
