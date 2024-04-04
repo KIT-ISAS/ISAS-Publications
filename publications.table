@@ -7305,7 +7305,7 @@ approaches are compared in a numerical study.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Gerhard Kurz, Geneviève Foley, Péter Hegedüs, Gábor Szabó, Uwe D. Hanebeck</i>,</br> <b>Evaluation of Image Stabilization Methods in Robotic Beating Heart Surgery</b>,</br>13. Jahrestagung der Deutschen Gesellschaft für Computer- und Roboterassistierte Chirurgie (CURAC14), Munich, Germany, CEUR Workshop Proceedings, September, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('CURAC14_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CURAC14_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/268443191_Evaluation_of_Image_Stabilization_Methods_in_Robotic_Beating_Heart_Surgery" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CURAC14_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CURAC14_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/268443191" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CURAC14_Kurz" class="bibtex noshow"><td></td>
@@ -7319,7 +7319,7 @@ approaches are compared in a numerical study.},
  pdf = {CURAC14_Kurz.pdf},
  series = {CEUR Workshop Proceedings},
  title = {Evaluation of Image Stabilization Methods in Robotic Beating Heart Surgery},
- url = {https://www.researchgate.net/publication/268443191_Evaluation_of_Image_Stabilization_Methods_in_Robotic_Beating_Heart_Surgery},
+ url = {https://www.researchgate.net/publication/268443191},
  year = {2014}
 }
 
@@ -8235,7 +8235,7 @@ we show that in all cases a small number of summands is sufficient to achieve hi
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Gerhard Kurz, Peter Hegedus, Gábor Szabó, Uwe D. Hanebeck</i>,</br> <b>Experimental Evaluation of Kinect and Inertial Sensors for Beating Heart Tracking</b>,</br>12. Jahrestagung der Deutschen Gesellschaft für Computer- und Roboterassistierte Chirurgie (CURAC13), Innsbruck, Austria, CEUR Workshop Proceedings, November, 2013.
-<p class="infolinks"> <a href="javascript:toggleInfo('CURAC13_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CURAC13_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/274956659_Experimental_Evaluation_of_Kinect_and_Inertial_Sensors_for_Beating_Heart_Tracking" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CURAC13_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CURAC13_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/274956659" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CURAC13_Kurz" class="bibtex noshow"><td></td>
@@ -8249,7 +8249,7 @@ we show that in all cases a small number of summands is sufficient to achieve hi
  pdf = {CURAC13_Kurz.pdf},
  series = {CEUR Workshop Proceedings},
  title = {Experimental Evaluation of Kinect and Inertial Sensors for Beating Heart Tracking},
- url = {https://www.researchgate.net/publication/274956659_Experimental_Evaluation_of_Kinect_and_Inertial_Sensors_for_Beating_Heart_Tracking},
+ url = {https://www.researchgate.net/publication/274956659},
  year = {2013}
 }
 
@@ -9047,7 +9047,7 @@ Gaussian state estimator that has a cubic time complexity in the number of targe
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Gerhard Kurz, Uwe D. Hanebeck</i>,</br> <b>Image Stabilization with Model-Based Tracking for Beating Heart Surgery</b>,</br>11. Jahrestagung der Deutschen Gesellschaft für Computer- und Roboterassistierte Chirurgie (CURAC12), Düsseldorf, Germany, CEUR Workshop Proceedings, November, 2012.
-<p class="infolinks"> <a href="javascript:toggleInfo('CURAC12_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CURAC12_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/233741720_Image_Stabilization_with_Model-Based_Tracking_for_Beating_Heart_Surgery" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CURAC12_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CURAC12_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/233741720" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CURAC12_Kurz" class="bibtex noshow"><td></td>
@@ -9061,7 +9061,7 @@ Gaussian state estimator that has a cubic time complexity in the number of targe
  pdf = {CURAC12_Kurz.pdf},
  series = {CEUR Workshop Proceedings},
  title = {Image Stabilization with Model-Based Tracking for Beating Heart Surgery},
- url = {https://www.researchgate.net/publication/233741720_Image_Stabilization_with_Model-Based_Tracking_for_Beating_Heart_Surgery},
+ url = {https://www.researchgate.net/publication/233741720},
  year = {2012}
 }
 
@@ -9796,7 +9796,7 @@ sensor problem.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Tobias Kretz, Antonia Pérez Arias, Simon Friedberger, Uwe D. Hanebeck</i>,</br> <b>Using Extended Range Telepresence to Collect Data of Pedestrian Dynamics</b>,</br>Proceedings of the Transportation Research Board 91st Annual Meeting (TRB 2012), Washington D.C., USA, January, 2012.
-<p class="infolinks"> <a href="javascript:toggleInfo('TRB12_Kretz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TRB12_Kretz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/235932651_Using_Extended_Range_Telepresence_to_Collect_Data_of_Pedestrian_Dynamics" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TRB12_Kretz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TRB12_Kretz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/235932651" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TRB12_Kretz" class="bibtex noshow"><td></td>
@@ -9809,7 +9809,7 @@ sensor problem.},
  month = {January},
  pdf = {TRB12_Kretz.pdf},
  title = {Using Extended Range Telepresence to Collect Data of Pedestrian Dynamics},
- url = {https://www.researchgate.net/publication/235932651_Using_Extended_Range_Telepresence_to_Collect_Data_of_Pedestrian_Dynamics},
+ url = {https://www.researchgate.net/publication/235932651},
  year = {2012}
 }
 
@@ -11024,7 +11024,7 @@ of our new approach},
 </tr>
 
 <tr id="KI10_Hanebeck" class="entry">
-<td><div class="balken-incollection"></div>
+<td><div class="balken-proceedings"></div>
 </td>
 <td> <i>Rüdiger Dillmann, Jürgen Beyerer, Uwe D. Hanebeck, Tanja Schultz (Eds.)</i>,</br> <b>KI 2010: Advances in Artificial Intelligence, Proceedings of the 33rd Annual German Conference on AI, Karlsruhe, Germany</b>,</br>Springer, Lecture Notes in Computer Science / Lecture Notes in Artificial Intelligence, September, 2010.
 <p class="infolinks"> <a href="javascript:toggleInfo('KI10_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://link.springer.com/10.1007/978-3-642-16111-7" target="_blank">URL</a></p>
@@ -11033,7 +11033,7 @@ of our new approach},
 <tr id="bib_KI10_Hanebeck" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@incollection{KI10_Hanebeck,
+@proceedings{KI10_Hanebeck,
  doi = {10.1007/978-3-642-16111-7},
  editor = {Rüdiger Dillmann and Jürgen Beyerer and Uwe D. Hanebeck and Tanja Schultz},
  month = {September},
@@ -11887,7 +11887,7 @@ Simulations},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Ryan Turner, Marc Peter Deisenroth, Carl Edward Rasmussen</i>,</br> <b>System Identification in Gaussian Process Dynamical Systems</b>,</br>Nonparametric Bayes Workshop at NIPS 2009, Whistler, Canada, December, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('NIPS09_Deisenroth','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.researchgate.net/publication/232673890_System_Identification_in_Gaussian_Process_Dynamical_Systems" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('NIPS09_Deisenroth','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.researchgate.net/publication/232673890" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_NIPS09_Deisenroth" class="bibtex noshow"><td></td>
@@ -11899,7 +11899,7 @@ Simulations},
  booktitle = {Nonparametric Bayes Workshop at NIPS 2009},
  month = {December},
  title = {System Identification in Gaussian Process Dynamical Systems},
- url = {https://www.researchgate.net/publication/232673890_System_Identification_in_Gaussian_Process_Dynamical_Systems},
+ url = {https://www.researchgate.net/publication/232673890},
  year = {2009}
 }
 
@@ -12012,7 +12012,7 @@ Simulations},
 </tr>
 
 <tr id="MFI09_Hanebeck" class="entry">
-<td><div class="balken-incollection"></div>
+<td><div class="balken-proceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Thomas C. Henderson (Eds.)</i>,</br> <b>Robotics and Autonomous Systems</b>,</br>57(3):237–344, ScienceDirect, Selected papers from 2006 IEEE International Conference on Multisensor Fusion and Integration (MFI 2006), 2006 IEEE International Conference on Multisensor Fusion and Integration, September, 2009.
 <p class="infolinks"> <a href="javascript:toggleInfo('MFI09_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI09_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
@@ -12021,7 +12021,7 @@ Simulations},
 <tr id="bib_MFI09_Hanebeck" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@incollection{MFI09_Hanebeck,
+@proceedings{MFI09_Hanebeck,
  editor = {Uwe D. Hanebeck and Thomas C. Henderson},
  month = {September},
  number = {3},
@@ -12042,7 +12042,7 @@ Simulations},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Marc P. Deisenroth, Carl E. Rasmussen</i>,</br> <b>Efficient Reinforcement Learning for Motor Control</b>,</br>Proceedings of the 10th International PhD Workshop on Systems and Control, Hluboka nad Vltavou, Czech Republic, September, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('Deisenroth2009','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.researchgate.net/publication/232673896_Efficient_Reinforcement_Learning_for_Motor_Control" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Deisenroth2009','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.researchgate.net/publication/232673896" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Deisenroth2009" class="bibtex noshow"><td></td>
@@ -12054,7 +12054,7 @@ Simulations},
  booktitle = {Proceedings of the 10th International PhD Workshop on Systems and Control},
  month = {September},
  title = {Efficient Reinforcement Learning for Motor Control},
- url = {https://www.researchgate.net/publication/232673896_Efficient_Reinforcement_Learning_for_Motor_Control},
+ url = {https://www.researchgate.net/publication/232673896},
  year = {2009}
 }
 
@@ -12313,7 +12313,7 @@ Simulations},
 </td>
 <td> <i>Antonia Pérez Arias, Uwe D. Hanebeck</i>,</br> <b>A Novel Haptic Interface for Extended Range Telepresence:
 Control and Evaluation</b>,</br>Proceedings of the 6th International Conference on Informatics in Control, Automation and Robotics (ICINCO 2009), pp. 222–227, Milan, Italy, July, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO09_Perez','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO09_Perez.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688527_A_Novel_Haptic_Interface_for_Free_Locomotion_in_Extended_Range_Telepresence_Scenarios" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO09_Perez','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO09_Perez.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688527" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICINCO09_Perez" class="bibtex noshow"><td></td>
@@ -12328,7 +12328,7 @@ Control and Evaluation</b>,</br>Proceedings of the 6th International Conference 
  pdf = {ICINCO09_Perez.pdf},
  title = {A Novel Haptic Interface for Extended Range Telepresence:
 Control and Evaluation},
- url = {https://www.researchgate.net/publication/232688527_A_Novel_Haptic_Interface_for_Free_Locomotion_in_Extended_Range_Telepresence_Scenarios},
+ url = {https://www.researchgate.net/publication/232688527},
  year = {2009}
 }
 
@@ -13534,7 +13534,7 @@ Control and Evaluation},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Kathrin Roberts, Uwe D. Hanebeck</i>,</br> <b>Motion Estimation and Reconstruction of a Heart Surface by Means of 2D-/3D- Membrane Models</b>,</br>Proceedings of 21st International Congress and Exhibition on Computer Assisted Radiology and Surgery (CARS 2007), pp. 243–245, Berlin, Germany, June, 2007.
-<p class="infolinks"> <a href="javascript:toggleInfo('CARS07_Roberts','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CARS07_Roberts.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688511_Motion_Estimation_and_Reconstruction_of_a_Heart_Surface_by_Means_of_2D-3D-_Membrane_Models" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CARS07_Roberts','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CARS07_Roberts.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688511" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CARS07_Roberts" class="bibtex noshow"><td></td>
@@ -13548,7 +13548,7 @@ Control and Evaluation},
  pages = {243–245},
  pdf = {CARS07_Roberts.pdf},
  title = {Motion Estimation and Reconstruction of a Heart Surface by Means of 2D-/3D- Membrane Models},
- url = {https://www.researchgate.net/publication/232688511_Motion_Estimation_and_Reconstruction_of_a_Heart_Surface_by_Means_of_2D-3D-_Membrane_Models},
+ url = {https://www.researchgate.net/publication/232688511},
  year = {2007}
 }
 
@@ -13862,7 +13862,7 @@ Control and Evaluation},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Patrick Rößler, Oliver C. Schrempf, Uwe D. Hanebeck</i>,</br> <b>Stochastic Prediction of Waypoints for Extended-Range Telepresence Applications</b>,</br>2nd International Workshop on Human Centered Robotic Systems (HCRS 2006), pp. 85–89, Munich, Germany, October, 2006.
-<p class="infolinks"> <a href="javascript:toggleInfo('HCRS06_RoesslerSchrempf','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/HCRS06_RoesslerSchrempf.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688517_Stochastic_Prediction_of_Waypoints_for_Extended-Range_Telepresence_Applications" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('HCRS06_RoesslerSchrempf','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/HCRS06_RoesslerSchrempf.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688517" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_HCRS06_RoesslerSchrempf" class="bibtex noshow"><td></td>
@@ -13876,7 +13876,7 @@ Control and Evaluation},
  pages = {85–89},
  pdf = {HCRS06_RoesslerSchrempf.pdf},
  title = {Stochastic Prediction of Waypoints for Extended-Range Telepresence Applications},
- url = {https://www.researchgate.net/publication/232688517_Stochastic_Prediction_of_Waypoints_for_Extended-Range_Telepresence_Applications},
+ url = {https://www.researchgate.net/publication/232688517},
  year = {2006}
 }
 
@@ -14137,7 +14137,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Felix Sawo, Kathrin Roberts, Uwe D. Hanebeck</i>,</br> <b>Bayesian Estimation of Distributed Phenomena using Discretized Representations of Partial Differential Equations</b>,</br>Proceedings of the 3rd International Conference on Informatics in Control, Automation and Robotics (ICINCO 2006), pp. 16–23, Setúbal, Portugal, August, 2006.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO06_SawoRoberts','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO06_SawoRoberts.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688530_Bayesian_Estimation_of_Distributed_Phenomena_using_Discretized_Representations_of_Partial_Differential_Equations" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO06_SawoRoberts','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO06_SawoRoberts.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688530" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICINCO06_SawoRoberts" class="bibtex noshow"><td></td>
@@ -14151,7 +14151,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {16–23},
  pdf = {ICINCO06_SawoRoberts.pdf},
  title = {Bayesian Estimation of Distributed Phenomena using Discretized Representations of Partial Differential Equations},
- url = {https://www.researchgate.net/publication/232688530_Bayesian_Estimation_of_Distributed_Phenomena_using_Discretized_Representations_of_Partial_Differential_Equations},
+ url = {https://www.researchgate.net/publication/232688530},
  year = {2006}
 }
 
@@ -14163,7 +14163,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Patrick Rößler, Timothy Armstrong, Oliver Hessel, Michael Mende, Uwe D. Hanebeck</i>,</br> <b>A Novel Haptic Interface for Free Locomotion in Extended Range Telepresence Scenarios</b>,</br>Proceedings of the 3rd International Conference on Informatics in Control, Automation and Robotics (ICINCO 2006), pp. 148–153, Setúbal, Portugal, August, 2006.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO06_Roessler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO06_Roessler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688527_A_Novel_Haptic_Interface_for_Free_Locomotion_in_Extended_Range_Telepresence_Scenarios" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO06_Roessler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO06_Roessler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/232688527" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICINCO06_Roessler" class="bibtex noshow"><td></td>
@@ -14177,7 +14177,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {148–153},
  pdf = {ICINCO06_Roessler.pdf},
  title = {A Novel Haptic Interface for Free Locomotion in Extended Range Telepresence Scenarios},
- url = {https://www.researchgate.net/publication/232688527_A_Novel_Haptic_Interface_for_Free_Locomotion_in_Extended_Range_Telepresence_Scenarios},
+ url = {https://www.researchgate.net/publication/232688527},
  year = {2006}
 }
 
@@ -14350,7 +14350,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Florian Weissel, Uwe D. Hanebeck</i>,</br> <b>A Test-Environment for Control Schemes in the Field of Collaborative Robots and Swarm Intelligence</b>,</br>Proceedings of the 7th International Workshop on Computer Science and Information Technologies (CSIT 2005), Ufa, Russian Federation, September, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('CSIT05_Weissel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CSIT05_Weissel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/228969768_A_Test-Environment_for_Control_Schemes_in_the_Field_of_Collaborative_Robots_and_Swarm_Intelligence" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CSIT05_Weissel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CSIT05_Weissel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/228969768" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CSIT05_Weissel" class="bibtex noshow"><td></td>
@@ -14363,7 +14363,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  month = {September},
  pdf = {CSIT05_Weissel.pdf},
  title = {A Test-Environment for Control Schemes in the Field of Collaborative Robots and Swarm Intelligence},
- url = {https://www.researchgate.net/publication/228969768_A_Test-Environment_for_Control_Schemes_in_the_Field_of_Collaborative_Robots_and_Swarm_Intelligence},
+ url = {https://www.researchgate.net/publication/228969768},
  volume = {1},
  year = {2005}
 }
@@ -14376,7 +14376,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Oliver C. Schrempf, Uwe D. Hanebeck</i>,</br> <b>A Generic Model for Estimating User Intentions in Human-Robot Cooperation</b>,</br>Proceedings of the 2nd International Conference on Informatics in Control, Automation and Robotics (ICINCO 2005), 3:251–256, Barcelona, Spain, September, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO05_Schrempf-Intention','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO05_Schrempf-Intention.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/221645362_A_generic_model_for_estimating_user-intentions_in_human-robot_cooperation" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO05_Schrempf-Intention','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO05_Schrempf-Intention.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/221645362" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICINCO05_Schrempf-Intention" class="bibtex noshow"><td></td>
@@ -14390,7 +14390,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {251–256},
  pdf = {ICINCO05_Schrempf-Intention.pdf},
  title = {A Generic Model for Estimating User Intentions in Human-Robot Cooperation},
- url = {https://www.researchgate.net/publication/221645362_A_generic_model_for_estimating_user-intentions_in_human-robot_cooperation},
+ url = {https://www.researchgate.net/publication/221645362},
  volume = {3},
  year = {2005}
 }
@@ -14403,7 +14403,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Patrick Rößler, Frederik Beutler, Uwe D. Hanebeck</i>,</br> <b>A Framework for Telepresent Game-Play in Large Virtual Environments</b>,</br>Proceedings of the 2nd International Conference on Informatics in Control, Automation and Robotics (ICINCO 2005), 3:150–155, Barcelona, Spain, September, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO05_Roessler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO05_Roessler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/221645013_A_framework_for_telepresent_game-play_in_large_virtual_environments" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO05_Roessler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO05_Roessler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/221645013" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICINCO05_Roessler" class="bibtex noshow"><td></td>
@@ -14417,7 +14417,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {150–155},
  pdf = {ICINCO05_Roessler.pdf},
  title = {A Framework for Telepresent Game-Play in Large Virtual Environments},
- url = {https://www.researchgate.net/publication/221645013_A_framework_for_telepresent_game-play_in_large_virtual_environments},
+ url = {https://www.researchgate.net/publication/221645013},
  volume = {3},
  year = {2005}
 }
@@ -14430,7 +14430,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Hahn, Frederik Beutler, Uwe D. Hanebeck</i>,</br> <b>Visual Scene Augmentation for Enhanced Human Perception</b>,</br>Proceedings of the 2nd International Conference on Informatics in Control, Automation and Robotics (ICINCO 2005), 2:146–153, Barcelona, Spain, September, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO05_Hahn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO05_Hahn.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/221645544_Visual_scene_augmentation_for_enhanced_human_perception" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICINCO05_Hahn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICINCO05_Hahn.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.researchgate.net/publication/221645544" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICINCO05_Hahn" class="bibtex noshow"><td></td>
@@ -14444,7 +14444,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {146–153},
  pdf = {ICINCO05_Hahn.pdf},
  title = {Visual Scene Augmentation for Enhanced Human Perception},
- url = {https://www.researchgate.net/publication/221645544_Visual_scene_augmentation_for_enhanced_human_perception},
+ url = {https://www.researchgate.net/publication/221645544},
  volume = {2},
  year = {2005}
 }
@@ -14671,7 +14671,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 </tr>
 
 <tr id="AT05_Hanebeck" class="entry">
-<td><div class="balken-incollection"></div>
+<td><div class="balken-proceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Hartwig Steusloff (Eds.)</i>,</br> <b>Datenfusion in der Automatisierungstechnik</b>,</br>Oldenbourg Verlag, at – Automatisierungstechnik, July, 2005.
 <p class="infolinks"> <a href="javascript:toggleInfo('AT05_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.53.7.293.66709/html" target="_blank">URL</a></p>
@@ -14680,7 +14680,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <tr id="bib_AT05_Hanebeck" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@incollection{AT05_Hanebeck,
+@proceedings{AT05_Hanebeck,
  doi = {10.1524/auto.53.7.293.66709},
  editor = {Uwe D. Hanebeck and Hartwig Steusloff},
  month = {July},
