@@ -1,13 +1,18 @@
 # ISAS-Publications
 Liste der Publikationen vom ISAS. 
 
-Auf der ISAS-Publikationsseite werden die Publikationen nach "Hanebeck" gefiltert. Auf der Mitarbeiterseite kann man sich eine **persönliche Publikationsliste** anlegen, die nach dem eigenen Namen filtert. 
+## Benutzung in Papers
+- Overleaf Import: "New File" → "From External URL" → `https://raw.githubusercontent.com/KIT-ISAS/ISAS-Publications/master/ISASPublikationen.bib`
+- In LaTeX Präambel: `\usepackage[style=numeric-verb, backend=biber, sorting=none, maxbibnames=20]{biblatex}`
+- In LaTeX Dokument: `\printbibliography`
+- Siehe auch `test.tex` als einfaches Beispiel
 
-In **Overleaf** kann die Github-Publikationsliste über "New File", "From External URL" direkt importiert werden. 
+## Benutzung auf Mitarbeiterseite
+Auf der ISAS-Publikationsseite (isas.iar.kit.edu/Publications.php) werden die Publikationen nach "Hanebeck" gefiltert. Auf der Mitarbeiterseite kann man sich eine **persönliche Publikationsliste** anlegen, die nach dem eigenen Namen filtert und somit auch eigene Arbeiten, die zuvor an anderen Instituten angefertigt wurden, anzeigen kann.
 
 
-## Important Files
-- **ISASPublikationen.bib** : LaTeX bib-file mit den >500 Publikationen des ISAS.
+## Wichtige Dateien
+- **ISASPublikationen.bib** : LaTeX bib-file mit den >600 Publikationen des ISAS.
 - **ISASPublikationen_laufend.bib** : Neue Einträge zunächst hier hinein, zur leichteren Fehlersuche.
 - **test.tex** : LaTeX-Dokument, welches alle Einträge zu Testzwecken zitiert.
 
@@ -42,22 +47,22 @@ In **Overleaf** kann die Github-Publikationsliste über "New File", "From Extern
 ## TODO
 
 ### Abgleich mit Scopus
-- Scopus-API
-- Python-Library: https://pybliometrics.readthedocs.io/en/stable/
-- Titel überprüfen
-- DOIs nachtragen
+- [x] `ISASPublikationen.sh` auf Vollständigkeit und Korrektheit überprüfen
+- [x] DOIs und URLs einfügen
 
-### Verbesserungen
-- Überall Postprints + offizieller Link + DOI
-- GitHub Action
-- - Validieren des BibTeX Codes
-- - Verfügbarkeit des PDFs
-- Links überprüfen
-- alle PDF-Dateinamen gleich Bib-Key
-- PostPrints auf KITopen hochladen
-- @inproceedings Link anzeigen
+### Abgleich mit IEEE Xplore
+- [ ] `ISASPublikationen.sh` auf Vollständigkeit und Korrektheit überprüfen
+- [ ] DOIs und URLs einfügen
 
+### Abgleich mit KITopen
+- [ ] Fehlende Artikel auf KITopen hochladen
+- [ ] Postprint-PDFs auf KITopen hochladen
+- [ ] KITopen DOI in `ISASPublikationen.sh` eintragen, wenn sonst keine DOI verfügbar
 
+### Weitere Verbesserungen
+- [ ] fehlende Postprints einfügen
+- [ ] Links überprüfen
+- [ ] alle PDF-Dateinamen gleich korrespondierendem Bib-Key
 
 
 

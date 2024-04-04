@@ -9,16 +9,21 @@
 \usepackage{csquotes}
 
 % Bibliography
-\usepackage[style=ieee, backend=biber, sorting=nyt, backref=true, hyperref=true, defernumbers=true]{biblatex}
-% backend=biber, style=ieee, sorting=nyt, backref=true, hyperref=true, defernumbers=true
+\usepackage[style=numeric-verb, backend=biber, sorting=none, maxbibnames=20]{biblatex}
+
+%\DeclareFieldFormat{titlecase}{#1} % does NOT work with style=ieee, but with style=numeric-verb, where it's however not necessary 
 
 %\addbibresource{ISASPublikationen_laufend.bib}
 \addbibresource{ISASPublikationen.bib}
 
 
+
 \begin{document}
 	
 	abc
+	
+	\cite{ACC24_Hanebeck}
+		
 		
 	% Print ALL references in bib files
 	\nocite{*} 
