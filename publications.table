@@ -415,7 +415,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>The Generalized Fibonacci Grid as Low-Discrepancy Point Set for Optimal Deterministic Gaussian Sampling</b>,</br>Journal of Advances in Information Fusion, 18(1):16–34, June, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF23_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/Pages" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF23_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isif.org/media/generalized-eibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF23_Frisch" class="bibtex noshow"><td></td>
@@ -429,7 +429,7 @@
  number = {1},
  pages = {16–34},
  title = {The Generalized Fibonacci Grid as Low-Discrepancy Point Set for Optimal Deterministic Gaussian Sampling},
- url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/Pages},
+ url = {https://isif.org/media/generalized-eibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian},
  volume = {18},
  year = {2023}
 }
@@ -694,7 +694,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Modeling Spatial Uncertainty for the iPad Pro Depth Sensor</b>,</br>Journal of Advances in Information Fusion, 2022.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF22_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/Pages" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF22_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isif.org/media/modeling-spatial-uncertainty-ipad-pro-depth-sensor" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF22_Zea" class="bibtex noshow"><td></td>
@@ -704,7 +704,7 @@
  author = {Antonio Zea and Uwe D. Hanebeck},
  journal = {Journal of Advances in Information Fusion},
  title = {Modeling Spatial Uncertainty for the iPad Pro Depth Sensor},
- url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/Pages},
+ url = {https://isif.org/media/modeling-spatial-uncertainty-ipad-pro-depth-sensor},
  year = {2022}
 }
 
@@ -1764,7 +1764,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Susanne Radtke, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Fully Decentralized Estimation Using Square-Root Decompositions</b>,</br>Journal of Advances in Information Fusion, 16(1):3–16, June, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF21_Radtke','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/3-16.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF21_Radtke','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isif.org/media/fully-decentralized-estimation-using-square-root-decompositions" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF21_Radtke" class="bibtex noshow"><td></td>
@@ -1777,7 +1777,7 @@ Information Fusion (Fusion 2022)},
  number = {1},
  pages = {3–16},
  title = {Fully Decentralized Estimation Using Square-Root Decompositions},
- url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/3-16.pdf},
+ url = {https://isif.org/media/fully-decentralized-estimation-using-square-root-decompositions},
  volume = {16},
  year = {2021}
 }
@@ -7914,7 +7914,7 @@ longer be repaired or exhibited in its full function.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Gerhard Kurz, Uwe D. Hanebeck</i>,</br> <b>Dynamic Surface Reconstruction by Recursive Fusion of Depth and Position Measurements</b>,</br>Journal of Advances in Information Fusion, 9(1):13–26, June, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF14_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF14_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/427_1_art_6_19271" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF14_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF14_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/dynamic-surface-reconstruction-recursive-fusion-depth-and-position-measurements" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF14_Kurz" class="bibtex noshow"><td></td>
@@ -7928,7 +7928,7 @@ longer be repaired or exhibited in its full function.},
  pages = {13–26},
  pdf = {JAIF14_Kurz.pdf},
  title = {Dynamic Surface Reconstruction by Recursive Fusion of Depth and Position Measurements},
- url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/427_1_art_6_19271},
+ url = {https://isif.org/media/dynamic-surface-reconstruction-recursive-fusion-depth-and-position-measurements},
  volume = {9},
  year = {2014}
 }
