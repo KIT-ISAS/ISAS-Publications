@@ -1,5 +1,5 @@
 # ISAS-Publications
-Liste der Publikationen vom ISAS. 
+Liste der Publikationen des ISAS.
 
 ## Benutzung in Papers
 - Overleaf Import: "New File" → "From External URL" → `https://raw.githubusercontent.com/KIT-ISAS/ISAS-Publications/master/ISASPublikationen.bib`
@@ -47,22 +47,23 @@ Auf der ISAS-Publikationsseite (isas.iar.kit.edu/Publications.php) werden die Pu
 ## TODO
 
 ### Abgleich mit Scopus
-- [x] `ISASPublikationen.sh` auf Vollständigkeit und Korrektheit überprüfen
+- [x] `ISASPublikationen.bib` auf Vollständigkeit und Korrektheit überprüfen
 - [x] DOIs und URLs einfügen
 
 ### Abgleich mit IEEE Xplore
-- [ ] `ISASPublikationen.sh` auf Vollständigkeit und Korrektheit überprüfen
+- [ ] `ISASPublikationen.bib` auf Vollständigkeit und Korrektheit überprüfen
 - [ ] DOIs und URLs einfügen
 
 ### Abgleich mit KITopen
 - [ ] Fehlende Artikel auf KITopen hochladen
 - [ ] Postprint-PDFs auf KITopen hochladen
-- [ ] KITopen DOI in `ISASPublikationen.sh` eintragen, wenn sonst keine DOI verfügbar
+- [ ] KITopen DOI in `ISASPublikationen.bib` eintragen, wenn sonst keine DOI verfügbar
 
 ### Weitere Verbesserungen
 - [ ] fehlende Postprints einfügen
 - [ ] Links überprüfen
 - [ ] alle PDF-Dateinamen gleich korrespondierendem Bib-Key
+- [ ] JAIF auf neue Links umstellen, wenn verfügbar
 
 
 
