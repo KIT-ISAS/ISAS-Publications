@@ -73,6 +73,98 @@
 </td>
 </tr>
 
+<tr id="FUSION24_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Magnetic Field Mapping of Railway Lines with Graph SLAM</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION24_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION24_Siebler,
+ address = {Venice, Italy},
+ author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 27th International Conference on Information Fusion (FUSION 2024)},
+ month = {July},
+ title = {Magnetic Field Mapping of Railway Lines with Graph SLAM},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION24_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Markus Walker, Hayk Amirkhanian, Marco F. Huber, Uwe D. Hanebeck</i>,</br> <b>Trustworthy Bayesian Perceptrons</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION24_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION24_Walker,
+ address = {Venice, Italy},
+ author = {Markus Walker and Hayk Amirkhanian and Marco F. Huber and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 27th International Conference on Information Fusion (FUSION 2024)},
+ month = {July},
+ title = {Trustworthy Bayesian Perceptrons},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION24_Baur" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Tim Baur, Johannes Reuter, Uwe D. Hanebeck</i>,</br> <b>Tracking Extended Objects with Basic Parametric Shapes Using Deformable Superellipses</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Baur','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION24_Baur" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION24_Baur,
+ address = {Venice, Italy},
+ author = {Tim Baur and Johannes Reuter and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 27th International Conference on Information Fusion (FUSION 2024)},
+ month = {July},
+ title = {Tracking Extended Objects with Basic Parametric Shapes Using Deformable Superellipses},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION24_Frisch" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Gaussian Mixture Filtering with Optimal Deterministic Sampling and Fisher Information Minimization</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION24_Frisch" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION24_Frisch,
+ address = {Venice, Italy},
+ author = {Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 27th International Conference on Information Fusion (FUSION 2024)},
+ month = {July},
+ title = {Gaussian Mixture Filtering with Optimal Deterministic Sampling and Fisher Information Minimization},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr class="year"><td></td><td><a name="2023"></a>2023</td></tr>
 <tr id="NAVIGATION23_Siebler" class="entry">
 <td><div class="balken-article"></div>
