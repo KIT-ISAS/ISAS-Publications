@@ -188,6 +188,32 @@
 </td>
 </tr>
 
+<tr id="SBSC24_Reith-Braun" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Marcel Reith-Braun, Kevin Liang, Florian Pfaff, Georg Maier, Robin Gruna, Albert Bauer, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer,  Uwe D. Hanebeck</i>,</br> <b>Particle-Specific Deflection Windows for Optical Sorting by Uncertainty Quantification</b>,</br>Proceedings of the 10th Sensor-Based Sorting & Control Conference (SBSC 2024), Aachen, Germany, March, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('SBSC24_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC24_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publica.fraunhofer.de/handle/publica/464289" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_SBSC24_Reith-Braun" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{SBSC24_Reith-Braun,
+ address = {Aachen, Germany},
+ author = {Marcel Reith-Braun and Kevin Liang and Florian Pfaff and Georg Maier and Robin Gruna and Albert Bauer and Harald Kruggel-Emden and Thomas Längle and Jürgen Beyerer and  Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 10th Sensor-Based Sorting & Control Conference (SBSC 2024)},
+ doi = {10.2370/9783844094138},
+ month = {March},
+ pdf = {SBSC24_Reith-Braun.pdf},
+ title = {Particle-Specific Deflection Windows for Optical Sorting by Uncertainty Quantification},
+ url = {https://publica.fraunhofer.de/handle/publica/464289},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr class="year"><td></td><td><a name="2023"></a>2023</td></tr>
 <tr id="NAVIGATION23_Siebler" class="entry">
 <td><div class="balken-article"></div>
@@ -4445,32 +4471,6 @@ fly adaption of the number of parameters.},
  title = {Guest Editorial Special Section on Multisensor Fusion and Integration for Intelligent Systems},
  url = {https://ieeexplore.ieee.org/document/8306224/},
  volume = {14},
- year = {2018}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="SBSC24_Reith-Braun" class="entry">
-<td><div class="balken-inproceedings"></div>
-</td>
-<td> <i>Marcel Reith-Braun, Kevin Liang, Florian Pfaff, Georg Maier, Robin Gruna, Albert Bauer, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer,  Uwe D. Hanebeck</i>,</br> <b>Particle-Specific Deflection Windows for Optical Sorting by Uncertainty Quantification</b>,</br>Proceedings of the 10th Sensor-Based Sorting & Control Conference (SBSC 2024), Aachen, Germany, March, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('SBSC24_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC24_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publica.fraunhofer.de/handle/publica/464289" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_SBSC24_Reith-Braun" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@inproceedings{SBSC24_Reith-Braun,
- address = {Aachen, Germany},
- author = {Marcel Reith-Braun and Kevin Liang and Florian Pfaff and Georg Maier and Robin Gruna and Albert Bauer and Harald Kruggel-Emden and Thomas Längle and Jürgen Beyerer and  Uwe D. Hanebeck},
- booktitle = {Proceedings of the 10th Sensor-Based Sorting & Control Conference (SBSC 2024)},
- doi = {10.2370/9783844094138},
- month = {March},
- pdf = {SBSC24_Reith-Braun.pdf},
- title = {Particle-Specific Deflection Windows for Optical Sorting by Uncertainty Quantification},
- url = {https://publica.fraunhofer.de/handle/publica/464289},
  year = {2018}
 }
 
