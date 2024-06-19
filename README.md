@@ -4,7 +4,8 @@ Liste der Publikationen des ISAS.
 ## Benutzung in Papers
 - Overleaf Import: "New File" → "From External URL" → `https://raw.githubusercontent.com/KIT-ISAS/ISAS-Publications/master/ISASPublikationen.bib`
 - In LaTeX Präambel:
-   - `\usepackage[style=numeric-verb, backend=biber, sorting=none, maxbibnames=20]{biblatex}`
+   - `\usepackage[style=numeric-verb, backend=biber, sorting=none, maxbibnames=20, sorting=none, eprint=false]{biblatex}`
+   - Achtung: `style=ieee` ändert die Kapitalisierung wo nicht mit geschweiften Klammern geschützt.
    - `\addbibresource{ISASPublikationen.bib}`
 - In LaTeX Dokument: `\printbibliography`
 - Siehe auch `test.tex` als einfaches Beispiel
