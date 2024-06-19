@@ -122,7 +122,7 @@
 <tr id="FUSION24_Frisch" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Gaussian Mixture Filtering with Optimal Deterministic Sampling and Fisher Information Minimization</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Gaussian Mixture Particle Filter Step based on Method of Moments</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
 <p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
@@ -134,7 +134,7 @@
  author = {Daniel Frisch and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 27th International Conference on Information Fusion (FUSION 2024)},
  month = {July},
- title = {Gaussian Mixture Filtering with Optimal Deterministic Sampling and Fisher Information Minimization},
+ title = {Gaussian Mixture Particle Filter Step based on Method of Moments},
  year = {2024}
 }
 
