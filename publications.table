@@ -5549,7 +5549,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Antonio Zea, Florian Faion, Uwe D. Hanebeck</i>,</br> <b>Tracking Elongated Extended Objects Using Splines</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7527944" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Zea" class="bibtex noshow"><td></td>
@@ -5562,6 +5562,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Zea.pdf},
  title = {Tracking Elongated Extended Objects Using Splines},
+ url = {https://ieeexplore.ieee.org/document/7527944},
  year = {2016}
 }
 
@@ -5573,7 +5574,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jannik Steinbring, Benjamin Noack, Marc Reinhardt, Uwe D. Hanebeck</i>,</br> <b>Optimal Sample-Based Fusion for Distributed State Estimation</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Steinbring','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Steinbring.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Steinbring','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Steinbring.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7528074" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Steinbring" class="bibtex noshow"><td></td>
@@ -5586,6 +5587,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Steinbring.pdf},
  title = {Optimal Sample-Based Fusion for Distributed State Estimation},
+ url = {https://ieeexplore.ieee.org/document/7528074},
  year = {2016}
 }
 
@@ -5621,7 +5623,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Florian Pfaff, Gerhard Kurz, Uwe D. Hanebeck</i>,</br> <b>Nonlinear Prediction for Circular Filtering Using Fourier Series</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_nonlinearPred.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_nonlinearPred.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7528104" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Pfaff" class="bibtex noshow"><td></td>
@@ -5634,6 +5636,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_nonlinearPred.pdf},
  title = {Nonlinear Prediction for Circular Filtering Using Fourier Series},
+ url = {https://ieeexplore.ieee.org/document/7528104},
  year = {2016}
 }
 
@@ -5645,7 +5648,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Benjamin Noack, Florian Pfaff, Marcus Baum, Uwe D. Hanebeck</i>,</br> <b>State Estimation Considering Negative Information with Switching Kalman and Ellipsoidal Filtering</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7528121" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Noack" class="bibtex noshow"><td></td>
@@ -5658,6 +5661,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Noack.pdf},
  title = {State Estimation Considering Negative Information with Switching Kalman and Ellipsoidal Filtering},
+ url = {https://ieeexplore.ieee.org/document/7528121},
  year = {2016}
 }
 
@@ -5669,7 +5673,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Gerhard Kurz, Maxim Dolgov, Uwe D. Hanebeck</i>,</br> <b>Progressive Closed-Loop Chance-Constrained Control</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Kurz-Control','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Kurz-ChanceConstraints.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Kurz-Control','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Kurz-ChanceConstraints.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7527871" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Kurz-Control" class="bibtex noshow"><td></td>
@@ -5682,6 +5686,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Kurz-ChanceConstraints.pdf},
  title = {Progressive Closed-Loop Chance-Constrained Control},
+ url = {https://ieeexplore.ieee.org/document/7527871},
  year = {2016}
 }
 
@@ -5693,7 +5698,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Gerhard Kurz, Florian Pfaff, Uwe D. Hanebeck</i>,</br> <b>Kullback-Leibler Divergence and Moment Matching for Hyperspherical Probability Distributions</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Kurz-KLD2.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Kurz-KLD2.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7528140" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Kurz" class="bibtex noshow"><td></td>
@@ -5706,6 +5711,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Kurz-KLD2.pdf},
  title = {Kullback-Leibler Divergence and Moment Matching for Hyperspherical Probability Distributions},
+ url = {https://ieeexplore.ieee.org/document/7528140},
  year = {2016}
 }
 
@@ -5717,7 +5723,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Martin Pander</i>,</br> <b>Progressive Bayesian Estimation with Deterministic Particles</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7528132" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Hanebeck" class="bibtex noshow"><td></td>
@@ -5730,6 +5736,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Hanebeck.pdf},
  title = {Progressive Bayesian Estimation with Deterministic Particles},
+ url = {https://ieeexplore.ieee.org/document/7528132},
  year = {2016}
 }
 
@@ -5741,7 +5748,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Igor Gilitschenski, Gerhard Kurz, Uwe D. Hanebeck, Roland Siegwart</i>,</br> <b>Optimal Quantization of Circular Distributions</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Gilitschenski','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Quantization.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Gilitschenski','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Quantization.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7528103" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Gilitschenski" class="bibtex noshow"><td></td>
@@ -5754,6 +5761,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Quantization.pdf},
  title = {Optimal Quantization of Circular Distributions},
+ url = {https://ieeexplore.ieee.org/document/7528103},
  year = {2016}
 }
 
@@ -5765,7 +5773,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Florian Faion, Maxim Dolgov, Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Closed-form Bias Reduction for Shape Estimation with Polygon Models</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Faion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Faion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Faion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Faion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7527940" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Faion" class="bibtex noshow"><td></td>
@@ -5778,6 +5786,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Faion.pdf},
  title = {Closed-form Bias Reduction for Shape Estimation with Polygon Models},
+ url = {https://ieeexplore.ieee.org/document/7527940},
  year = {2016}
 }
 
@@ -5789,7 +5798,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Zhansheng Duan, Qi Zhou, Uwe D. Hanebeck</i>,</br> <b>Extended Kernel-Based Location Fingerprinting in Wireless Sensor Networks</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Duan','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Duan_Fingerprinting.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Duan','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Duan_Fingerprinting.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7528053" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Duan" class="bibtex noshow"><td></td>
@@ -5802,6 +5811,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Duan_Fingerprinting.pdf},
  title = {Extended Kernel-Based Location Fingerprinting in Wireless Sensor Networks},
+ url = {https://ieeexplore.ieee.org/document/7528053},
  year = {2016}
 }
 
@@ -5813,7 +5823,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Christof Chlebek, Jannik Steinbring, Uwe D. Hanebeck</i>,</br> <b>Progressive Gaussian Filter Using Importance Sampling and Particle Flow</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Chlebek','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Chlebek.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Chlebek','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Chlebek.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7528134" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Chlebek" class="bibtex noshow"><td></td>
@@ -5826,6 +5836,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Chlebek.pdf},
  title = {Progressive Gaussian Filter Using Importance Sampling and Particle Flow},
+ url = {https://ieeexplore.ieee.org/document/7528134},
  year = {2016}
 }
 
@@ -5837,7 +5848,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Marcus Baum, Shishan Yang, Uwe D. Hanebeck</i>,</br> <b>The Kernel-SME Filter with False and Missing Measurements</b>,</br>Proceedings of the 19th International Conference on Information Fusion (Fusion 2016), Heidelberg, Germany, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Kernel-SME_Filter.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion16_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion16_Kernel-SME_Filter.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7527919" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion16_Baum" class="bibtex noshow"><td></td>
@@ -5850,6 +5861,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion16_Kernel-SME_Filter.pdf},
  title = {The Kernel-SME Filter with False and Missing Measurements},
+ url = {https://ieeexplore.ieee.org/document/7527919},
  year = {2016}
 }
 
@@ -6558,7 +6570,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Antonio Zea, Florian Faion, Uwe D. Hanebeck</i>,</br> <b>Exploiting Clutter: Negative Information for Enhanced Extended Object Tracking</b>,</br>Proceedings of the 18th International Conference on Information Fusion (Fusion 2015), Washington D.C., USA, July, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion15_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion15_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion15_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion15_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7266672" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion15_Zea" class="bibtex noshow"><td></td>
@@ -6571,6 +6583,7 @@ fly adaption of the number of parameters.},
  month = {July},
  pdf = {Fusion15_Zea.pdf},
  title = {Exploiting Clutter: Negative Information for Enhanced Extended Object Tracking},
+ url = {https://ieeexplore.ieee.org/document/7266672},
  year = {2015}
 }
 
