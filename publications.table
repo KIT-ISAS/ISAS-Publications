@@ -169,7 +169,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Daniel Frisch, Dominik Prossel</i>,</br> <b>Closed-Form Information-Theoretic Roughness Measures for Mixture Densities</b>,</br>Proceedings of the 2024 American Control Conference (ACC 2024), Toronto, Canada, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('ACC24_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ACC24_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC24_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_ACC24_Hanebeck" class="bibtex noshow"><td></td>
@@ -180,6 +180,7 @@
  author = {Uwe D. Hanebeck and Daniel Frisch and Dominik Prossel},
  booktitle = {Proceedings of the 2024 American Control Conference (ACC 2024)},
  month = {July},
+ pdf = {ACC24_Hanebeck.pdf},
  title = {Closed-Form Information-Theoretic Roughness Measures for Mixture Densities},
  year = {2024}
 }
