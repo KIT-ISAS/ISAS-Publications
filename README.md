@@ -39,9 +39,11 @@ Auf der ISAS-Publikationsseite (isas.iar.kit.edu/Publications.php) werden die Pu
 2. Wenn man auf das Repository auf Github pusht, wird automatisch durch eine Github Action die neue Table erzeugt (die auch auf der ISAS HP eingebunden ist).
 
 3. PDFs muss man auf dem i81server hinterlegen. Den Dateinamen muss man als Attribut im Bibtex-Eintrag einbinden (bspw.   PDF = {IFAC23_Fennel.pdf}, )
-   - Hier hinterlegen: `smb://i81server.iar.kit.edu/WWWMaterial/ISAS-Publikationen/PDF/`
+   - Hier hinterlegen:
+      - Linux: `smb://i81server.iar.kit.edu/WWWMaterial/ISAS-Publikationen/PDF/`
+      - Windows: `\\i81server.iar.kit.edu\WWWMaterial\ISAS-Publikationen\PDF`
    - Auf Server einloggen: `ssh i81server.iar.kit.edu`
-   - Alternativ hier hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`
+   - (Alternativ hier hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`)
    - Synchronisieren: `sudo bibTexUpdate.sh`
 
 4. Gelegentlich sollte man die Paper auch bei der KIT-Datenbank eintragen (gibt dort ein Formular dafür, leider kann man nur jeden Eintrag einzeln per LaTeX importieren).
