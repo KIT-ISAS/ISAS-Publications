@@ -54,7 +54,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Magnetic Field Mapping of Railway Lines with Graph SLAM</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_FUSION24_Siebler" class="bibtex noshow"><td></td>
@@ -65,6 +65,7 @@
  author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 27th International Conference on Information Fusion (FUSION 2024)},
  month = {July},
+ pdf = {FUSION24_Siebler.pdf},
  title = {Magnetic Field Mapping of Railway Lines with Graph SLAM},
  year = {2024}
 }
@@ -100,8 +101,8 @@
 <tr id="FUSION24_Baur" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Tim Baur, Johannes Reuter, Uwe D. Hanebeck</i>,</br> <b>Tracking Extended Objects with Basic Parametric Shapes Using Deformable Superellipses</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Baur','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<td> <i>Tim Baur, Patrick Hoher, Johannes Reuter, Uwe D. Hanebeck</i>,</br> <b>Tracking Extended Objects with Basic Parametric Shapes Using Deformable Superellipses</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Baur','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Baur.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_FUSION24_Baur" class="bibtex noshow"><td></td>
@@ -109,9 +110,10 @@
 <pre>
 @inproceedings{FUSION24_Baur,
  address = {Venice, Italy},
- author = {Tim Baur and Johannes Reuter and Uwe D. Hanebeck},
+ author = {Tim Baur and Patrick Hoher and Johannes Reuter and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 27th International Conference on Information Fusion (FUSION 2024)},
  month = {July},
+ pdf = {FUSION24_Baur.pdf},
  title = {Tracking Extended Objects with Basic Parametric Shapes Using Deformable Superellipses},
  year = {2024}
 }
