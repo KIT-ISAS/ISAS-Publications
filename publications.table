@@ -50,6 +50,27 @@
 </td>
 </tr>
 
+<tr id="TCST4_Reith-Braun" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Markus Walker, Marcel Reith-Braun, Albert Bauer, Florian Pfaff, Georg Maier, Robin Gruna, Thomas Längle, Jürgen Beyerer, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>Stochastic Optimal Control of an Optical Sorter with Material Recirculation (to appear)</b>,</br>IEEE Transactions on Control Systems Technology, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('TCST4_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_TCST4_Reith-Braun" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{TCST4_Reith-Braun,
+ author = {Markus Walker and Marcel Reith-Braun and Albert Bauer and Florian Pfaff and Georg Maier and Robin Gruna and Thomas Längle and Jürgen Beyerer and Harald Kruggel-Emden and Uwe D. Hanebeck},
+ journal = {IEEE Transactions on Control Systems Technology},
+ title = {Stochastic Optimal Control of an Optical Sorter with Material Recirculation (to appear)},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="FUSION24_Siebler" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
