@@ -2109,35 +2109,6 @@ Information Fusion (Fusion 2022)},
 </td>
 </tr>
 
-<tr id="LCSS21_Li" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Kailai Li, Florian Pfaff, Uwe D. Hanebeck</i>,</br> <b>Unscented Dual Quaternion Particle Filter for SE(3) Estimation</b>,</br>IEEE Control Systems Letters, 5(2):647–652, April, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('LCSS21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LCSS21_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9125962/" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_LCSS21_Li" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{LCSS21_Li,
- author = {Kailai Li and Florian Pfaff and Uwe D. Hanebeck},
- doi = {10.1109/LCSYS.2020.3005066},
- issn = {2475-1456},
- journal = {IEEE Control Systems Letters},
- month = {April},
- number = {2},
- pages = {647–652},
- pdf = {LCSS21_Li.pdf},
- title = {Unscented Dual Quaternion Particle Filter for SE(3) Estimation},
- url = {https://ieeexplore.ieee.org/document/9125962/},
- volume = {5},
- year = {2021}
-}
-
-</pre>
-</td>
-</tr>
-
 <tr id="Sensors21_Funk" class="entry">
 <td><div class="balken-article"></div>
 </td>
@@ -2880,6 +2851,35 @@ Information Fusion (Fusion 2022)},
  pdf = {FUSION20_Basarur.pdf},
  title = {Position and Speed Estimation for BLDC Motors Using Fourier-Series Regression},
  url = {https://ieeexplore.ieee.org/document/9190271/},
+ year = {2020}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="LCSS21_Li" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Kailai Li, Florian Pfaff, Uwe D. Hanebeck</i>,</br> <b>Unscented Dual Quaternion Particle Filter for SE(3) Estimation</b>,</br>IEEE Control Systems Letters, 5(2):647–652, June, 2020.
+<p class="infolinks"> <a href="javascript:toggleInfo('LCSS21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LCSS21_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9125962/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_LCSS21_Li" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{LCSS21_Li,
+ author = {Kailai Li and Florian Pfaff and Uwe D. Hanebeck},
+ doi = {10.1109/LCSYS.2020.3005066},
+ issn = {2475-1456},
+ journal = {IEEE Control Systems Letters},
+ month = {June},
+ number = {2},
+ pages = {647–652},
+ pdf = {LCSS21_Li.pdf},
+ title = {Unscented Dual Quaternion Particle Filter for SE(3) Estimation},
+ url = {https://ieeexplore.ieee.org/document/9125962/},
+ volume = {5},
  year = {2020}
 }
 
