@@ -71,6 +71,78 @@
 </td>
 </tr>
 
+<tr id="MFI24_Prossel" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Dominik Prossel, Uwe D. Hanebeck</i>,</br> <b>Three Approaches to Approximating the Fisher Information Number for Gaussian Mixture Densities</b>,</br>Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024), Pilsen, Czechia, September, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Prossel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_MFI24_Prossel" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{MFI24_Prossel,
+ address = {Pilsen, Czechia},
+ author = {Dominik Prossel and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024)},
+ month = {September},
+ pdf = {MFI24_Prossel.pdf},
+ title = {Three Approaches to Approximating the Fisher Information Number for Gaussian Mixture Densities},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="MFI24_Zhou" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Jiachen Zhou, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Inverse Gaussian Process Interpolation for High-Quality Assumed Gaussian Filtering</b>,</br>Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024), Pilsen, Czechia, September, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_MFI24_Zhou" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{MFI24_Zhou,
+ address = {Pilsen, Czechia},
+ author = {Jiachen Zhou and Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024)},
+ month = {September},
+ pdf = {MFI24_Zhou.pdf},
+ title = {Inverse Gaussian Process Interpolation for High-Quality Assumed Gaussian Filtering},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="MFI24_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Jiachen Zhou, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Multi-Scale Uncertainty Calibration Testing for Bayesian Neural Networks Using Ball Trees</b>,</br>Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024), Pilsen, Czechia, September, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_MFI24_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{MFI24_Walker,
+ address = {Pilsen, Czechia},
+ author = {Jiachen Zhou and Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024)},
+ month = {September},
+ pdf = {MFI24_Walker.pdf},
+ title = {Multi-Scale Uncertainty Calibration Testing for Bayesian Neural Networks Using Ball Trees},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="FUSION24_Siebler" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
