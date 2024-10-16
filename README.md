@@ -32,27 +32,32 @@ Auf der ISAS-Publikationsseite (isas.iar.kit.edu/Publications.php) werden die Pu
 
 ## Aufgaben des Literatur-Maintainers
 
-1. In Google Forms ein Google Skript einbinden, das dann alles Weitere erledigt. Code: https://github.com/FlorianPfaff/bibtex_tools/blob/main/form_to_bibtex.gs
+1. (TODO DF: Skript einrichten) In Google Forms ein Google Skript einbinden, das dann alles Weitere erledigt. Code: https://github.com/FlorianPfaff/bibtex_tools/blob/main/form_to_bibtex.gs
 
-1. Wenn man dieses Formular "Paperstatus melden" ausfüllt, dann wird automatisch Bibtex-Code an den Maintainer verschickt (leider füllt es nicht jeder aus), der muss dann nur zu Konsistenzzwecken etwas angepasst werden.
+1. (TODO DF: Formular einrichten) Wenn man dieses Formular "Paperstatus melden" ausfüllt, dann wird automatisch Bibtex-Code an den Maintainer verschickt (leider füllt es nicht jeder aus), der muss dann nur zu Konsistenzzwecken etwas angepasst werden.)
 
-2. Wenn man auf das Repository auf Github pusht, wird automatisch durch eine Github Action die neue Table erzeugt (die auch auf der ISAS HP eingebunden ist).
+2. BibTeX-Eintrag erstellen bzw. prüfen
+   - Chicago-Kapitalisierung: https://capitalizemytitle.com/
+   - Name von Prof. Hanebeck exakt als `Uwe D. Hanebeck` geschrieben
+   - ggf Kompilieren in `test.tex`
+
+4. Wenn man auf das Repository auf Github pusht, wird automatisch durch eine Github Action die neue Table erzeugt (die auch auf der ISAS HP eingebunden ist).
    - Prüfen ob erfolgreich: https://github.com/KIT-ISAS/ISAS-Publications/commits/master/
    - Ein häufiger Fehler ist, dass der Name von Herrn Hanebeck nicht exakt als `Uwe D. Hanebeck` geschrieben ist. 
 
-4. PDFs muss man auf dem i81server hinterlegen. Den Dateinamen muss man als Attribut im Bibtex-Eintrag einbinden (bspw.   PDF = {IFAC23_Fennel.pdf}, )
+5. PDFs muss man auf dem i81server hinterlegen. Den Dateinamen muss man als Attribut im Bibtex-Eintrag einbinden (bspw.   PDF = {IFAC23_Fennel.pdf}, )
    - Hier hinterlegen:
       - Linux: `smb://i81server.iar.kit.edu/WWWMaterial/ISAS-Publikationen/PDF/`
       - Windows: `\\i81server.iar.kit.edu\WWWMaterial\ISAS-Publikationen\PDF`
     
-5. Literaturliste auf Server synchronisieren. 
+6. Literaturliste auf Server synchronisieren. 
    - Auf Server einloggen: `ssh i81server.iar.kit.edu`
    - (Alternativ PDF hier hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`)
    - Synchronisieren: `sudo bibTexUpdate.sh`
 
-6. Website prüfen: https://github.com/KIT-ISAS/ISAS-Publications/commits/master/ 
+7. Website prüfen: https://github.com/KIT-ISAS/ISAS-Publications/commits/master/ 
 
-7. Gelegentlich sollte man die Paper auch bei der KIT-Datenbank eintragen (gibt dort ein Formular dafür, leider kann man nur jeden Eintrag einzeln per LaTeX importieren).
+8. Gelegentlich sollte man die Paper auch bei der KIT-Datenbank eintragen (gibt dort ein Formular dafür, leider kann man nur jeden Eintrag einzeln per LaTeX importieren).
 
 
 ## TODO
