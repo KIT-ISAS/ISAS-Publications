@@ -122,7 +122,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiachen Zhou, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Inverse Gaussian Process Interpolation for High-Quality Assumed Gaussian Filtering</b>,</br>Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024), Pilsen, Czechia, September, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Student Paper Award - Third Place</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2024_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_MFI24_Zhou" class="bibtex noshow"><td></td>
@@ -130,6 +130,7 @@
 <pre>
 @inproceedings{MFI24_Zhou,
  address = {Pilsen, Czechia},
+ annote = {<b>Winner Student Paper Award - Third Place</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2024_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Jiachen Zhou and Daniel Frisch and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024)},
  month = {September},
