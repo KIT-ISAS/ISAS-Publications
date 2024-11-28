@@ -75,7 +75,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Philipp S. Bien, Uwe D. Hanebeck</i>,</br> <b>Voronoi Trust Regions for Local Calibration Testing in Supervised Machine Learning Models</b>,</br>16th Symposium Sensor Data Fusion: Trends, Solutions, and Applications, Bonn, Germany, November, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('SDF24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <font color="red"><b>Winner Best Paper Award 2nd Place</b> <a href="https://isas.iar.kit.edu/pdf/award/SDF24_Paper_Award_2nd_Place.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SDF24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF24_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Paper Award 2nd Place</b> <a href="https://isas.iar.kit.edu/pdf/award/SDF24_Paper_Award_2nd_Place.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_SDF24_Walker" class="bibtex noshow"><td></td>
@@ -87,6 +87,7 @@
  author = {Markus Walker and Philipp S. Bien and Uwe D. Hanebeck},
  booktitle = {16th Symposium Sensor Data Fusion: Trends, Solutions, and Applications},
  month = {November},
+ pdf = {SDF24_Walker.pdf},
  title = {Voronoi Trust Regions for Local Calibration Testing in Supervised Machine Learning Models},
  year = {2024}
 }
