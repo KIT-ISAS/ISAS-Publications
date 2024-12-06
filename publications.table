@@ -4,7 +4,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Albert Bauer, Florian Pfaff, Georg Maier, Robin Gruna, Thomas Längle, Jürgen Beyerer, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>Stochastic Optimal Control of an Optical Sorter with Material Recirculation (to appear)</b>,</br>IEEE Transactions on Control Systems Technology, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('TCST4_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TCST4_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TCST4_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10731570" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TCST4_Reith-Braun" class="bibtex noshow"><td></td>
@@ -13,7 +13,9 @@
 @article{TCST4_Reith-Braun,
  author = {Markus Walker and Marcel Reith-Braun and Albert Bauer and Florian Pfaff and Georg Maier and Robin Gruna and Thomas Längle and Jürgen Beyerer and Harald Kruggel-Emden and Uwe D. Hanebeck},
  journal = {IEEE Transactions on Control Systems Technology},
+ pdf = {TCST4_Reith-Braun.pdf},
  title = {Stochastic Optimal Control of an Optical Sorter with Material Recirculation (to appear)},
+ url = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10731570},
  year = {2024}
 }
 
@@ -1085,7 +1087,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Michael Fennel, Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Intuitive and Immersive Teleoperation of Robot Manipulators for Remote Decontamination: Intuitive und immersive Teleoperation von Robotermanipulatoren für die Dekontamination aus der Ferne</b>,</br>at – Automatisierungstechnik, October, 2022.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT22_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2022-0057/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT22_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT22_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2022-0057/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT22_Fennel" class="bibtex noshow"><td></td>
@@ -1096,6 +1098,7 @@
  doi = {10.1515/auto-2022-0057},
  journal = {at – Automatisierungstechnik},
  month = {October},
+ pdf = {AT22_Fennel.pdf},
  title = {Intuitive and Immersive Teleoperation of Robot Manipulators for Remote Decontamination: Intuitive und immersive Teleoperation von Robotermanipulatoren für die Dekontamination aus der Ferne},
  url = {https://www.degruyter.com/document/doi/10.1515/auto-2022-0057/html},
  year = {2022}
