@@ -55,7 +55,9 @@ Auf der ISAS-Publikationsseite (isas.iar.kit.edu/Publications.php) werden die Pu
    - (Alternativ PDF hier hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`)
    - Synchronisieren: `sudo bibTexUpdate.sh`
 
-7. Website prüfen: https://github.com/KIT-ISAS/ISAS-Publications/commits/master/ 
+7. Website prüfen:
+   - https://github.com/KIT-ISAS/ISAS-Publications/commits/master/
+   - https://isas.iar.kit.edu/Publications.php
 
 8. Gelegentlich sollte man die Paper auch bei der KIT-Datenbank eintragen (gibt dort ein Formular dafür, leider kann man nur jeden Eintrag einzeln per LaTeX importieren).
 
