@@ -1216,7 +1216,7 @@
 <tr id="PowTec22_Bauer" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Albert Bauer, Georg Maier, Harald Kruggel-Emden Marcel Reith-Braun, Florian Pfaff, Robin Gruna, Uwe D. Hanebeck, Thomas Längle, Jürgen Beyerer</i>,</br> <b>Numerical Modelling of an Optical Belt Sorter Using a DEM–CFD Approach Coupled with Particle Tracking and Comparison with Experiments</b>,</br>Powder Technology, September, 2022.
+<td> <i>Albert Bauer, Georg Maier, Harald Kruggel-Emden, Marcel Reith-Braun, Florian Pfaff, Robin Gruna, Uwe D. Hanebeck, Thomas Längle, Jürgen Beyerer</i>,</br> <b>Numerical Modelling of an Optical Belt Sorter Using a DEM–CFD Approach Coupled with Particle Tracking and Comparison with Experiments</b>,</br>Powder Technology, September, 2022.
 <p class="infolinks"> <a href="javascript:toggleInfo('PowTec22_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S0032591018307307" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -1224,7 +1224,7 @@
 <td><b>BibTeX</b>:
 <pre>
 @article{PowTec22_Bauer,
- author = {Albert Bauer and Georg Maier and Harald Kruggel-Emden Marcel Reith-Braun and Florian Pfaff and Robin Gruna and Uwe D. Hanebeck and Thomas Längle and Jürgen Beyerer},
+ author = {Albert Bauer and Georg Maier and Harald Kruggel-Emden and Marcel Reith-Braun and Florian Pfaff and Robin Gruna and Uwe D. Hanebeck and Thomas Längle and Jürgen Beyerer},
  doi = {10.1016/j.powtec.2018.09.003},
  journal = {Powder Technology},
  month = {September},
