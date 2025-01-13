@@ -27,7 +27,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Giraldo-Grueso, Felipe, Popov, Andrey A., Uwe D. Hanebeck, Zanetti, Renato</i>,</br> <b>Optimal Grid Point Sampling for Point Mass Filtering</b>,</br>Proceedings of the AAS/AIAA Spaceflight Mechanics Meeting, Kaua'i, Hawaii, January, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('giraldogrueso2025grids','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('giraldogrueso2025grids','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <font color="red"><b>Winner of AAS Breakwell Student Award</b></font></p>
 </td>
 </tr>
 <tr id="bib_giraldogrueso2025grids" class="bibtex noshow"><td></td>
@@ -35,6 +35,7 @@
 <pre>
 @inproceedings{giraldogrueso2025grids,
  address = {Kaua'i, Hawaii},
+ annote = {<b>Winner of AAS Breakwell Student Award</b>},
  author = {Giraldo-Grueso, Felipe and Popov, Andrey A. and Uwe D. Hanebeck and Zanetti, Renato},
  booktitle = {Proceedings of the AAS/AIAA Spaceflight Mechanics Meeting},
  month = {January},
