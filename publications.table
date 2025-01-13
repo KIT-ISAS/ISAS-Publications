@@ -1,4 +1,51 @@
 <table id="qs_table" border="1"><tbody>
+<tr class="year"><td></td><td><a name="2025"></a>2025</td></tr>
+<tr id="durant2025" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Durant, Dalton, Uwe D. Hanebeck, and Zanetti, Renato</i>,</br> <b>Good Things Come to Those Who Weight! Improving Gaussian Mixture Weights for Cislunar Debris Tracking</b>,</br>AAS/AIAA Space Flight Mechanics Meeting, Kauai, HI, pp. 309, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('durant2025','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_durant2025" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{durant2025,
+ author = {Durant, Dalton and Uwe D. Hanebeck and and Zanetti, Renato},
+ booktitle = {AAS/AIAA Space Flight Mechanics Meeting, Kauai, HI},
+ number = {25},
+ pages = {309},
+ title = {Good Things Come to Those Who Weight! Improving Gaussian Mixture Weights for Cislunar Debris Tracking},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="giraldogrueso2025grids" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Giraldo-Grueso, Felipe, Popov, Andrey A., Uwe D. Hanebeck, Zanetti, Renato</i>,</br> <b>Optimal Grid Point Sampling for Point Mass Filtering</b>,</br>Proceedings of the AAS/AIAA Spaceflight Mechanics Meeting, Kaua'i, Hawaii, January, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('giraldogrueso2025grids','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_giraldogrueso2025grids" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{giraldogrueso2025grids,
+ address = {Kaua'i, Hawaii},
+ author = {Giraldo-Grueso, Felipe and Popov, Andrey A. and Uwe D. Hanebeck and Zanetti, Renato},
+ booktitle = {Proceedings of the AAS/AIAA Spaceflight Mechanics Meeting},
+ month = {January},
+ title = {Optimal Grid Point Sampling for Point Mass Filtering},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr class="year"><td></td><td><a name="2024"></a>2024</td></tr>
 <tr id="TCST4_Reith-Braun" class="entry">
 <td><div class="balken-article"></div>
