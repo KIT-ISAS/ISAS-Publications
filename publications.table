@@ -4,7 +4,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Dalton Durant, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Good Things Come to Those Who Weight! Improving Gaussian Mixture Weights for Cislunar Debris Tracking</b>,</br>Proceedings of the AAS/AIAA Space Flight Mechanics Meeting, Kaua'i, Hawaii, pp. 309, Kaua'i, Hawaii, January, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('AAS25_Durant','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AAS25_Durant','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AAS25_Durant.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_AAS25_Durant" class="bibtex noshow"><td></td>
@@ -17,6 +17,7 @@
  month = {January},
  number = {25},
  pages = {309},
+ pdf = {AAS25_Durant.pdf},
  title = {Good Things Come to Those Who Weight! Improving Gaussian Mixture Weights for Cislunar Debris Tracking},
  year = {2025}
 }
