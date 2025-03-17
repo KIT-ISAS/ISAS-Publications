@@ -5457,7 +5457,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Florian Pfaff, Gerhard Kurz, Uwe D. Hanebeck</i>,</br> <b>Multivariate Angular Filtering Using Fourier Series</b>,</br>Journal of Advances in Information Fusion, 11(2):206–226, December, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF16_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF16_Pfaff.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_7.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF16_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF16_Pfaff.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/multivariate-angular-filtering-using-fourier-series" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF16_Pfaff" class="bibtex noshow"><td></td>
@@ -5471,7 +5471,7 @@ fly adaption of the number of parameters.},
  pages = {206–226},
  pdf = {JAIF16_Pfaff.pdf},
  title = {Multivariate Angular Filtering Using Fourier Series},
- url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_7.pdf},
+ url = {https://isif.org/media/multivariate-angular-filtering-using-fourier-series},
  volume = {11},
  year = {2016}
 }
@@ -5484,7 +5484,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Gerhard Kurz, Igor Gilitschenski, Roland Y. Siegwart, Uwe D. Hanebeck</i>,</br> <b>Methods for Deterministic Approximation of Circular Densities</b>,</br>Journal of Advances in Information Fusion, 11(2):138–156, December, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF16_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF16_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_3.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF16_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF16_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/methods-deterministic-approximation-circular-densities" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF16_Kurz" class="bibtex noshow"><td></td>
@@ -5498,7 +5498,7 @@ fly adaption of the number of parameters.},
  pages = {138–156},
  pdf = {JAIF16_Kurz.pdf},
  title = {Methods for Deterministic Approximation of Circular Densities},
- url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_3.pdf},
+ url = {https://isif.org/media/methods-deterministic-approximation-circular-densities},
  volume = {11},
  year = {2016}
 }
@@ -7120,7 +7120,7 @@ demonstrated in a numerical example.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Florian Faion, Antonio Zea, Marcus Baum, Uwe D. Hanebeck</i>,</br> <b>Symmetries in Bayesian Extended Object Tracking</b>,</br>Journal of Advances in Information Fusion, 10(1):13–30, June, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF15_Faion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF15_Faion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/433_1_art_9_24888.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF15_Faion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF15_Faion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/symmetries-bayesian-extended-object-tracking" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF15_Faion" class="bibtex noshow"><td></td>
@@ -7134,7 +7134,7 @@ demonstrated in a numerical example.},
  pages = {13–30},
  pdf = {JAIF15_Faion.pdf},
  title = {Symmetries in Bayesian Extended Object Tracking},
- url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/433_1_art_9_24888.pdf},
+ url = {https://isif.org/media/symmetries-bayesian-extended-object-tracking},
  volume = {10},
  year = {2015}
 }
@@ -7305,7 +7305,7 @@ compared to several state-of-the-art solutions.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Jannik Steinbring, Uwe D. Hanebeck</i>,</br> <b>LRKF Revisited: The Smart Sampling Kalman Filter (S2KF)</b>,</br>Journal of Advances in Information Fusion, 9(2):106–123, December, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF14_Steinbring-S2KF','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF14_Steinbring-S2KF.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/441_1_art_11_17020.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF14_Steinbring-S2KF','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF14_Steinbring-S2KF.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/lrkf-revisited-smart-sampling-kalman-filter-s2kf" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF14_Steinbring-S2KF" class="bibtex noshow"><td></td>
@@ -7319,7 +7319,7 @@ compared to several state-of-the-art solutions.},
  pages = {106–123},
  pdf = {JAIF14_Steinbring-S2KF.pdf},
  title = {LRKF Revisited: The Smart Sampling Kalman Filter (S2KF)},
- url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/441_1_art_11_17020.pdf},
+ url = {https://isif.org/media/lrkf-revisited-smart-sampling-kalman-filter-s2kf},
  volume = {9},
  year = {2014}
 }
