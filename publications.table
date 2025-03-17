@@ -735,7 +735,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>The Generalized Fibonacci Grid as Low-Discrepancy Point Set for Optimal Deterministic Gaussian Sampling</b>,</br>Journal of Advances in Information Fusion, 18(1):16–34, June, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF23_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isif.org/media/generalized-eibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF23_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF23_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/generalized-eibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF23_Frisch" class="bibtex noshow"><td></td>
@@ -748,6 +748,7 @@
  month = {June},
  number = {1},
  pages = {16–34},
+ pdf = {JAIF23_Frisch.pdf},
  title = {The Generalized Fibonacci Grid as Low-Discrepancy Point Set for Optimal Deterministic Gaussian Sampling},
  url = {https://isif.org/media/generalized-eibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian},
  volume = {18},
@@ -1014,7 +1015,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Modeling Spatial Uncertainty for the iPad Pro Depth Sensor</b>,</br>Journal of Advances in Information Fusion, 2022.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF22_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isif.org/media/modeling-spatial-uncertainty-ipad-pro-depth-sensor" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF22_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF22_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/modeling-spatial-uncertainty-ipad-pro-depth-sensor" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF22_Zea" class="bibtex noshow"><td></td>
@@ -1023,6 +1024,7 @@
 @article{JAIF22_Zea,
  author = {Antonio Zea and Uwe D. Hanebeck},
  journal = {Journal of Advances in Information Fusion},
+ pdf = {JAIF22_Zea.pdf},
  title = {Modeling Spatial Uncertainty for the iPad Pro Depth Sensor},
  url = {https://isif.org/media/modeling-spatial-uncertainty-ipad-pro-depth-sensor},
  year = {2022}
@@ -2086,7 +2088,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Susanne Radtke, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Fully Decentralized Estimation Using Square-Root Decompositions</b>,</br>Journal of Advances in Information Fusion, 16(1):3–16, June, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF21_Radtke','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isif.org/media/fully-decentralized-estimation-using-square-root-decompositions" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF21_Radtke','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF21_Radtke.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/fully-decentralized-estimation-using-square-root-decompositions" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF21_Radtke" class="bibtex noshow"><td></td>
@@ -2098,6 +2100,7 @@ Information Fusion (Fusion 2022)},
  month = {June},
  number = {1},
  pages = {3–16},
+ pdf = {JAIF21_Radtke.pdf},
  title = {Fully Decentralized Estimation Using Square-Root Decompositions},
  url = {https://isif.org/media/fully-decentralized-estimation-using-square-root-decompositions},
  volume = {16},
@@ -3637,8 +3640,8 @@ Information Fusion (Fusion 2022)},
 <tr id="Fusion19_Noack" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Benjamin Noack, Umut Orguner, Uwe D. Hanebeck</i>,</br> <b>Nonlinear Decentralized Data Fusion with Generalized 
-Inverse Covariance Intersection</b>,</br>Proceedings of the 22nd International Conference on 
+<td> <i>Benjamin Noack, Umut Orguner, Uwe D. Hanebeck</i>,</br> <b>Nonlinear Decentralized Data Fusion with Generalized
+Inverse Covariance Intersection</b>,</br>Proceedings of the 22nd International Conference on
 Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
 <p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011163/" target="_blank">URL</a></p>
 </td>
@@ -3649,12 +3652,12 @@ Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
 @inproceedings{Fusion19_Noack,
  address = {Ottawa, Canada},
  author = {Benjamin Noack and Umut Orguner and Uwe D. Hanebeck},
- booktitle = {Proceedings of the 22nd International Conference on 
+ booktitle = {Proceedings of the 22nd International Conference on
 Information Fusion (Fusion 2019)},
  doi = {10.23919/FUSION43075.2019.9011163},
  month = {July},
  pdf = {Fusion19_Noack.pdf},
- title = {Nonlinear Decentralized Data Fusion with Generalized 
+ title = {Nonlinear Decentralized Data Fusion with Generalized
 Inverse Covariance Intersection},
  url = {https://ieeexplore.ieee.org/document/9011163/},
  year = {2019}
@@ -5454,7 +5457,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Florian Pfaff, Gerhard Kurz, Uwe D. Hanebeck</i>,</br> <b>Multivariate Angular Filtering Using Fourier Series</b>,</br>Journal of Advances in Information Fusion, 11(2):206–226, December, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF16_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_7.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF16_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF16_Pfaff.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_7.pdf" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF16_Pfaff" class="bibtex noshow"><td></td>
@@ -5466,6 +5469,7 @@ fly adaption of the number of parameters.},
  month = {December},
  number = {2},
  pages = {206–226},
+ pdf = {JAIF16_Pfaff.pdf},
  title = {Multivariate Angular Filtering Using Fourier Series},
  url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_7.pdf},
  volume = {11},
@@ -5480,7 +5484,7 @@ fly adaption of the number of parameters.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Gerhard Kurz, Igor Gilitschenski, Roland Y. Siegwart, Uwe D. Hanebeck</i>,</br> <b>Methods for Deterministic Approximation of Circular Densities</b>,</br>Journal of Advances in Information Fusion, 11(2):138–156, December, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF16_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_3.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF16_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF16_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_3.pdf" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF16_Kurz" class="bibtex noshow"><td></td>
@@ -5492,6 +5496,7 @@ fly adaption of the number of parameters.},
  month = {December},
  number = {2},
  pages = {138–156},
+ pdf = {JAIF16_Kurz.pdf},
  title = {Methods for Deterministic Approximation of Circular Densities},
  url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/JAIF_Vol11_2_3.pdf},
  volume = {11},
@@ -7115,7 +7120,7 @@ demonstrated in a numerical example.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Florian Faion, Antonio Zea, Marcus Baum, Uwe D. Hanebeck</i>,</br> <b>Symmetries in Bayesian Extended Object Tracking</b>,</br>Journal of Advances in Information Fusion, 10(1):13–30, June, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF15_Faion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/433_1_art_9_24888.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF15_Faion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF15_Faion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/433_1_art_9_24888.pdf" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF15_Faion" class="bibtex noshow"><td></td>
@@ -7127,6 +7132,7 @@ demonstrated in a numerical example.},
  month = {June},
  number = {1},
  pages = {13–30},
+ pdf = {JAIF15_Faion.pdf},
  title = {Symmetries in Bayesian Extended Object Tracking},
  url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/433_1_art_9_24888.pdf},
  volume = {10},
@@ -7207,7 +7213,7 @@ contrast to other state-of-the-art sample-based Kalman Filters.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>Optimal Reduction of Multivariate Dirac Mixture Densities</b>,</br>at – Automatisierungstechnik, 63(4):265–278, Oldenbourg Verlag, April, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT15_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2015-0005/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT15_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT15_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2015-0005/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT15_Hanebeck" class="bibtex noshow"><td></td>
@@ -7220,6 +7226,7 @@ contrast to other state-of-the-art sample-based Kalman Filters.},
  month = {April},
  number = {4},
  pages = {265–278},
+ pdf = {AT15_Hanebeck.pdf},
  publisher = {Oldenbourg Verlag},
  title = {Optimal Reduction of Multivariate Dirac Mixture Densities},
  url = {https://www.degruyter.com/document/doi/10.1515/auto-2015-0005/html},
@@ -7298,7 +7305,7 @@ compared to several state-of-the-art solutions.},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Jannik Steinbring, Uwe D. Hanebeck</i>,</br> <b>LRKF Revisited: The Smart Sampling Kalman Filter (S2KF)</b>,</br>Journal of Advances in Information Fusion, 9(2):106–123, December, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF14_Steinbring-S2KF','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/441_1_art_11_17020.pdf" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF14_Steinbring-S2KF','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF14_Steinbring-S2KF.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/441_1_art_11_17020.pdf" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF14_Steinbring-S2KF" class="bibtex noshow"><td></td>
@@ -7310,6 +7317,7 @@ compared to several state-of-the-art solutions.},
  month = {December},
  number = {2},
  pages = {106–123},
+ pdf = {JAIF14_Steinbring-S2KF.pdf},
  title = {LRKF Revisited: The Smart Sampling Kalman Filter (S2KF)},
  url = {https://confcats_isif.s3.amazonaws.com/web-files/journals/entries/441_1_art_11_17020.pdf},
  volume = {9},
