@@ -3,7 +3,7 @@
 <tr id="eusipco2025" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>2025 33rd European Signal Processing Conference (EUSIPCO), ():, 2025.
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>The 33rd European Signal Processing Conference (EUSIPCO 2025), September, 2025.
 <p class="infolinks"> <a href="javascript:toggleInfo('eusipco2025','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
@@ -12,11 +12,9 @@
 <pre>
 @inproceedings{eusipco2025,
  author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
- booktitle = {2025 33rd European Signal Processing Conference (EUSIPCO)},
- number = {},
- pages = {},
+ booktitle = {The 33rd European Signal Processing Conference (EUSIPCO 2025)},
+ month = {September},
  title = {Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers},
- volume = {},
  year = {2025}
 }
 
