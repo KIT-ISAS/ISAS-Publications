@@ -1,5 +1,33 @@
 <table id="qs_table" border="1"><tbody>
 <tr class="year"><td></td><td><a name="2025"></a>2025</td></tr>
+<tr id="BAUER2025121193" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Albert Bauer, Jiachen Zhou, Uwe D. Hanebeck, Harald Kruggel-Emden</i>,</br> <b>Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual Hull</b>,</br>Powder Technology, 464:121193, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('BAUER2025121193','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S0032591025005881" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_BAUER2025121193" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{BAUER2025121193,
+ abstract = {Knowledge of exact 3D particle shape is crucial in many applications dealing with particulate solids. Currently, standard dynamic image analysis devices use 2D projections to measure the particle morphology. To decrease the error in the third dimension, we propose a simple experimental setup to reconstruct freely falling particles in 3D. The reconstruction is carried out from several grayscale images per particle captured by three high-speed cameras, rendering our problem a sparse view scene. We utilize a tensorial radiance field optimized for sparse views and a classical visual hull algorithm for 3D reconstruction. Dimensional and dimensionless morphological descriptors are computed for all reconstructions. We show that averaging over several objects obtained per particle already yields accurate results for both methods. Additionally, we propose a point cloud fusion workflow that aggregates particle information from consecutive observations into a single object, leading to a further increase in accuracy of obtained results. We investigate three different materials from mineralogy and compare our results to ground truth μCT data as well as rendered 2D projections. The proposed setup and the computational methods are promising for future dynamic image analysis based on 3D objects.},
+ author = {Albert Bauer and Jiachen Zhou and Uwe D. Hanebeck and Harald Kruggel-Emden},
+ doi = {https://doi.org/10.1016/j.powtec.2025.121193},
+ issn = {0032-5910},
+ journal = {Powder Technology},
+ keywords = {Sparse views, Morphological characterization, 3D reconstruction, Dynamic image analysis, Tensorial radiance field, Point cloud fusion, Visual hull, Evolutionary optimization},
+ pages = {121193},
+ title = {Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual Hull},
+ url = {https://www.sciencedirect.com/science/article/pii/S0032591025005881},
+ volume = {464},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="eusipco2025" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
