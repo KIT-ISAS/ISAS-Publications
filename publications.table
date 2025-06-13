@@ -1,16 +1,16 @@
 <table id="qs_table" border="1"><tbody>
 <tr class="year"><td></td><td><a name="2025"></a>2025</td></tr>
-<tr id="BAUER2025121193" class="entry">
+<tr id="PT25_Bauer" class="entry">
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Albert Bauer, Jiachen Zhou, Uwe D. Hanebeck, Harald Kruggel-Emden</i>,</br> <b>Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual Hull</b>,</br>Powder Technology, 464:121193, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('BAUER2025121193','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S0032591025005881" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('PT25_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S0032591025005881" target="_blank">URL</a></p>
 </td>
 </tr>
-<tr id="bib_BAUER2025121193" class="bibtex noshow"><td></td>
+<tr id="bib_PT25_Bauer" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@article{BAUER2025121193,
+@article{PT25_Bauer,
  abstract = {Knowledge of exact 3D particle shape is crucial in many applications dealing with particulate solids. Currently, standard dynamic image analysis devices use 2D projections to measure the particle morphology. To decrease the error in the third dimension, we propose a simple experimental setup to reconstruct freely falling particles in 3D. The reconstruction is carried out from several grayscale images per particle captured by three high-speed cameras, rendering our problem a sparse view scene. We utilize a tensorial radiance field optimized for sparse views and a classical visual hull algorithm for 3D reconstruction. Dimensional and dimensionless morphological descriptors are computed for all reconstructions. We show that averaging over several objects obtained per particle already yields accurate results for both methods. Additionally, we propose a point cloud fusion workflow that aggregates particle information from consecutive observations into a single object, leading to a further increase in accuracy of obtained results. We investigate three different materials from mineralogy and compare our results to ground truth μCT data as well as rendered 2D projections. The proposed setup and the computational methods are promising for future dynamic image analysis based on 3D objects.},
  author = {Albert Bauer and Jiachen Zhou and Uwe D. Hanebeck and Harald Kruggel-Emden},
  doi = {https://doi.org/10.1016/j.powtec.2025.121193},
@@ -50,10 +50,135 @@
 </td>
 </tr>
 
+<tr id="FUSION25_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Markus Walker, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Local Calibration Testing in Supervised Machine Learning Models Using Input Space Kernels</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Walker,
+ address = {Rio de Janeiro, Brazil},
+ author = {Markus Walker and Marcel Reith-Braun and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_Walker.pdf},
+ title = {Local Calibration Testing in Supervised Machine Learning Models Using Input Space Kernels},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION25_Amirkhanian" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Hayk Amirkhanian, Markus Walker, Uwe D. Hanebeck, and Marco F. Huber</i>,</br> <b>Bridging Bayesian Inference and Neural Network Training: Equivalence of KBNN and Statistical Linearization</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Amirkhanian','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Amirkhanian" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Amirkhanian,
+ address = {Rio de Janeiro, Brazil},
+ author = {Hayk Amirkhanian and Markus Walker and Uwe D. Hanebeck and and Marco F. Huber},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_Amirkhanian.pdf},
+ title = {Bridging Bayesian Inference and Neural Network Training: Equivalence of KBNN and Statistical Linearization},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION25_GiraldoGrueso" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Felipe Giraldo-Grueso, Andrey A. Popov, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Optimal Transport as a Reduction Technique for Deterministic Nonlinear Filtering</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_GiraldoGrueso" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_GiraldoGrueso,
+ address = {Rio de Janeiro, Brazil},
+ author = {Felipe Giraldo-Grueso and Andrey A. Popov and Uwe D. Hanebeck and and Renato Zanetti},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_GiraldoGrueso.pdf},
+ title = {Optimal Transport as a Reduction Technique for Deterministic Nonlinear Filtering},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION25_Beeson" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Ryne Beeson, Uwe D. Hanebeck</i>,</br> <b>Nudged Particle Filter with Optimal Resampling Applied to the Duffing Oscillator</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Beeson','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Beeson" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Beeson,
+ address = {Rio de Janeiro, Brazil},
+ author = {Ryne Beeson and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_Beeson.pdf},
+ title = {Nudged Particle Filter with Optimal Resampling Applied to the Duffing Oscillator},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION25_Frisch" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Deterministic Sampling with Separation of Variables in Spherical Coordinates</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Frisch" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Frisch,
+ address = {Rio de Janeiro, Brazil},
+ author = {Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_Frisch.pdf},
+ title = {Deterministic Sampling with Separation of Variables in Spherical Coordinates},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="AAS25_Durant" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Dalton Durant, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Good Things Come to Those Who Weight! Improving Gaussian Mixture Weights for Cislunar Debris Tracking</b>,</br>Proceedings of the AAS/AIAA Space Flight Mechanics Meeting, Kaua'i, Hawaii, pp. 309, Kaua'i, Hawaii, January, 2025.
+<td> <i>Dalton Durant, Uwe D. Hanebeck, Renato Zanetti</i>,</br> <b>Good Things Come to Those Who Weight! Improving Gaussian Mixture Weights for Cislunar Debris Tracking</b>,</br>Proceedings of the AAS/AIAA Space Flight Mechanics Meeting, Kaua'i, Hawaii, pp. 309, Kaua'i, Hawaii, January, 2025.
 <p class="infolinks"> <a href="javascript:toggleInfo('AAS25_Durant','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AAS25_Durant.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
@@ -62,7 +187,7 @@
 <pre>
 @inproceedings{AAS25_Durant,
  address = {Kaua'i, Hawaii},
- author = {Dalton Durant and Uwe D. Hanebeck and and Renato Zanetti},
+ author = {Dalton Durant and Uwe D. Hanebeck and Renato Zanetti},
  booktitle = {Proceedings of the AAS/AIAA Space Flight Mechanics Meeting, Kaua'i, Hawaii},
  month = {January},
  number = {25},
