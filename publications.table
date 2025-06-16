@@ -175,6 +175,131 @@
 </td>
 </tr>
 
+<tr id="FUSION25_Zhou" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Jiachen Zhou, Uwe D. Hanebeck</i>,</br> <b>High-Quality Assumed Gaussian Filtering Based on Wasserstein Barycentric Interpolation</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Zhou" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Zhou,
+ address = {Rio de Janeiro, Brazil},
+ author = {Jiachen Zhou and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_Zhou.pdf},
+ title = {High-Quality Assumed Gaussian Filtering Based on Wasserstein Barycentric Interpolation},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION25_Zhou_Bauer" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Jiachen Zhou, Uwe D. Hanebeck, Albert Bauer, Harald Kruggel-Emden</i>,</br> <b>Stochastic Medial Axis Transform for Bayesian Extended Object Tracking</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–9, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Zhou_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Zhou_Bauer" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Zhou_Bauer,
+ address = {Rio de Janeiro, Brazil},
+ author = {Jiachen Zhou and Uwe D. Hanebeck and Albert Bauer and Harald Kruggel-Emden},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--9},
+ pdfx = {FUSION25_Zhou_Bauer.pdf},
+ title = {Stochastic Medial Axis Transform for Bayesian Extended Object Tracking},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION25_Millard" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Andrew Millard, Joshua Murphy, Daniel Frisch, Simon Maskell</i>,</br> <b>Incorporating the ChEES Criterion into Sequential Monte Carlo Samplers</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Millard','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Millard" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Millard,
+ address = {Rio de Janeiro, Brazil},
+ author = {Andrew Millard and Joshua Murphy and Daniel Frisch and Simon Maskell},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_Millard.pdf},
+ title = {Incorporating the ChEES Criterion into Sequential Monte Carlo Samplers},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION25_Prossel" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Dominik Prossel, Uwe D. Hanebeck</i>,</br> <b>Deterministic Proposal Sampling Using Projected Cumulative Distributions</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Prossel" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Prossel,
+ address = {Rio de Janeiro, Brazil},
+ author = {Dominik Prossel and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_Prossel.pdf},
+ title = {Deterministic Proposal Sampling Using Projected Cumulative Distributions},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION25_Straka" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Ondřej Straka, Uwe D. Hanebeck</i>,</br> <b>Efficient Gaussian Mixture Filters based on Transition Density Approximation</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Straka','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION25_Straka" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION25_Straka,
+ address = {Rio de Janeiro, Brazil},
+ author = {Ondřej Straka and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
+ month = {July},
+ pages = {1--8},
+ pdfx = {FUSION25_Straka.pdf},
+ title = {Efficient Gaussian Mixture Filters based on Transition Density Approximation},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="AAS25_Durant" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
