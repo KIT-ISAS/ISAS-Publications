@@ -3,7 +3,7 @@
 <tr id="PT25_Bauer" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Albert Bauer, Jiachen Zhou, Uwe D. Hanebeck, Harald Kruggel-Emden</i>,</br> <b>Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual Hull</b>,</br>Powder Technology, 464:121193, 2025.
+<td> <i>Albert Bauer, Jiachen Zhou, Uwe D. Hanebeck, Harald Kruggel-Emden</i>,</br> <b>Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual hull</b>,</br>Powder Technology, 464:121193, 2025.
 <p class="infolinks"> <a href="javascript:toggleInfo('PT25_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S0032591025005881" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -18,7 +18,7 @@
  journal = {Powder Technology},
  keywords = {Sparse views, Morphological characterization, 3D reconstruction, Dynamic image analysis, Tensorial radiance field, Point cloud fusion, Visual hull, Evolutionary optimization},
  pages = {121193},
- title = {Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual Hull},
+ title = {Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual hull},
  url = {https://www.sciencedirect.com/science/article/pii/S0032591025005881},
  volume = {464},
  year = {2025}
