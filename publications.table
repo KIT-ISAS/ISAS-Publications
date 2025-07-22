@@ -179,7 +179,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiachen Zhou, Uwe D. Hanebeck</i>,</br> <b>High-Quality Assumed Gaussian Filtering Based on Wasserstein Barycentric Interpolation</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), pp. 1–8, Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/FUSION2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Zhou" class="bibtex noshow"><td></td>
@@ -187,6 +187,7 @@
 <pre>
 @inproceedings{FUSION25_Zhou,
  address = {Rio de Janeiro, Brazil},
+ annote = {<b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/FUSION2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Jiachen Zhou and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
  month = {July},
