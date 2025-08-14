@@ -31,7 +31,7 @@
 <tr id="arXiv25_Fennel" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>Fennel, Michael, Walker, Markus, Pikos, Dominik, Uwe D. Hanebeck</i>,</br> <b>HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control</b>,</br>arXiv preprint: 2508.09595, 2025.
+<td> <i>Michael Fennel, Markus Walker, Dominik Pikos, Uwe D. Hanebeck</i>,</br> <b>HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control</b>,</br>arXiv preprint: 2508.09595, 2025.
 <p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2508.09595" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -39,7 +39,7 @@
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv25_Fennel,
- author = {Fennel, Michael and Walker, Markus and Pikos, Dominik and Uwe D. Hanebeck},
+ author = {Michael Fennel and Markus Walker and Dominik Pikos and Uwe D. Hanebeck},
  journal = {arXiv preprint: 2508.09595},
  title = {HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control},
  url = {https://arxiv.org/abs/2508.09595},
