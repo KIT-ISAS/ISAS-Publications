@@ -11,16 +11,65 @@
 <td><b>BibTeX</b>:
 <pre>
 @article{PT25_Bauer,
- abstract = {Knowledge of exact 3D particle shape is crucial in many applications dealing with particulate solids. Currently, standard dynamic image analysis devices use 2D projections to measure the particle morphology. To decrease the error in the third dimension, we propose a simple experimental setup to reconstruct freely falling particles in 3D. The reconstruction is carried out from several grayscale images per particle captured by three high-speed cameras, rendering our problem a sparse view scene. We utilize a tensorial radiance field optimized for sparse views and a classical visual hull algorithm for 3D reconstruction. Dimensional and dimensionless morphological descriptors are computed for all reconstructions. We show that averaging over several objects obtained per particle already yields accurate results for both methods. Additionally, we propose a point cloud fusion workflow that aggregates particle information from consecutive observations into a single object, leading to a further increase in accuracy of obtained results. We investigate three different materials from mineralogy and compare our results to ground truth μCT data as well as rendered 2D projections. The proposed setup and the computational methods are promising for future dynamic image analysis based on 3D objects.},
  author = {Albert Bauer and Jiachen Zhou and Uwe D. Hanebeck and Harald Kruggel-Emden},
  doi = {https://doi.org/10.1016/j.powtec.2025.121193},
  issn = {0032-5910},
  journal = {Powder Technology},
- keywords = {Sparse views, Morphological characterization, 3D reconstruction, Dynamic image analysis, Tensorial radiance field, Point cloud fusion, Visual hull, Evolutionary optimization},
  pages = {121193},
  title = {Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual hull},
  url = {https://www.sciencedirect.com/science/article/pii/S0032591025005881},
  volume = {464},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="TCST4_Reith-Braun" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Markus Walker, Marcel Reith-Braun, Albert Bauer, Florian Pfaff, Georg Maier, Robin Gruna, Thomas Längle, Jürgen Beyerer, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>Stochastic Optimal Control of an Optical Sorter with Material Recirculation</b>,</br>IEEE Transactions on Control Systems Technology, 33(1):354–368, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('TCST4_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TCST4_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10731570" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_TCST4_Reith-Braun" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{TCST4_Reith-Braun,
+ author = {Markus Walker and Marcel Reith-Braun and Albert Bauer and Florian Pfaff and Georg Maier and Robin Gruna and Thomas Längle and Jürgen Beyerer and Harald Kruggel-Emden and Uwe D. Hanebeck},
+ doi = {10.1109/TCST.2024.3477294},
+ journal = {IEEE Transactions on Control Systems Technology},
+ number = {1},
+ pages = {354-368},
+ pdf = {TCST4_Reith-Braun.pdf},
+ title = {Stochastic Optimal Control of an Optical Sorter with Material Recirculation},
+ url = {https://ieeexplore.ieee.org/document/10731570},
+ volume = {33},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="Haptics25_Fennel" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Michael Fennel, Markus Walker, Dominik Pikos, Uwe D. Hanebeck</i>,</br> <b>HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control</b>,</br>IEEE Transactions on Haptics, pp. 1–14, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('Haptics25_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/11125831" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_Haptics25_Fennel" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{Haptics25_Fennel,
+ author = {Michael Fennel and Markus Walker and Dominik Pikos and Uwe D. Hanebeck},
+ doi = {10.1109/TOH.2025.3598859},
+ journal = {IEEE Transactions on Haptics},
+ pages = {1-14},
+ title = {HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control},
+ url = {https://ieeexplore.ieee.org/document/11125831},
  year = {2025}
 }
 
@@ -397,29 +446,6 @@
 </tr>
 
 <tr class="year"><td></td><td><a name="2024"></a>2024</td></tr>
-<tr id="TCST4_Reith-Braun" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Markus Walker, Marcel Reith-Braun, Albert Bauer, Florian Pfaff, Georg Maier, Robin Gruna, Thomas Längle, Jürgen Beyerer, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>Stochastic Optimal Control of an Optical Sorter with Material Recirculation (to appear)</b>,</br>IEEE Transactions on Control Systems Technology, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('TCST4_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TCST4_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10731570" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_TCST4_Reith-Braun" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{TCST4_Reith-Braun,
- author = {Markus Walker and Marcel Reith-Braun and Albert Bauer and Florian Pfaff and Georg Maier and Robin Gruna and Thomas Längle and Jürgen Beyerer and Harald Kruggel-Emden and Uwe D. Hanebeck},
- journal = {IEEE Transactions on Control Systems Technology},
- pdf = {TCST4_Reith-Braun.pdf},
- title = {Stochastic Optimal Control of an Optical Sorter with Material Recirculation (to appear)},
- url = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10731570},
- year = {2024}
-}
-
-</pre>
-</td>
-</tr>
-
 <tr id="TAES24_Wei" class="entry">
 <td><div class="balken-article"></div>
 </td>
@@ -17371,7 +17397,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Joachim Horn, Günther Schmidt</i>,</br> <b>On Combining Set Theoretic and Bayesian Estimation</b>,</br>Proceedings of the 1996 IEEE International Conference on Robotics and Automation (ICRA 1996), pp. 3081–3086, Minneapolis, Minnesota, USA, April, 1996.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICRA96_Hanebeck-SetBayes','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICRA96_Hanebeck-SetBayes.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=509180" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICRA96_Hanebeck-SetBayes','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICRA96_Hanebeck-SetBayes.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/509180" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICRA96_Hanebeck-SetBayes" class="bibtex noshow"><td></td>
@@ -17386,7 +17412,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pdf = {ICRA96_Hanebeck-SetBayes.pdf},
  timestamp = {2007.05.23},
  title = {On Combining Set Theoretic and Bayesian Estimation},
- url = {https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=509180},
+ url = {https://ieeexplore.ieee.org/document/509180},
  year = {1996}
 }
 
