@@ -4,7 +4,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Michael Fennel, Markus Walker, Dominik Pikos, Uwe D. Hanebeck</i>,</br> <b>HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control</b>,</br>IEEE Transactions on Haptics, pp. 1–14, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('Haptics25_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv25_Fennel" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11125831" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Haptics25_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv25_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11125831" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Haptics25_Fennel" class="bibtex noshow"><td></td>
@@ -15,7 +15,7 @@
  doi = {10.1109/TOH.2025.3598859},
  journal = {IEEE Transactions on Haptics},
  pages = {1-14},
- pdf = {arXiv25_Fennel},
+ pdf = {arXiv25_Fennel.pdf},
  title = {HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control},
  url = {https://ieeexplore.ieee.org/document/11125831},
  year = {2025}
