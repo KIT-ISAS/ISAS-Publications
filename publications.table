@@ -101,54 +101,10 @@
 </td>
 </tr>
 
-<tr id="arXiv25_Fennel" class="entry">
-<td><div class="balken-preprint"></div>
-</td>
-<td> <i>Michael Fennel, Markus Walker, Dominik Pikos, Uwe D. Hanebeck</i>,</br> <b>HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control</b>,</br>arXiv preprint: 2508.09595, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2508.09595" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_arXiv25_Fennel" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{arXiv25_Fennel,
- author = {Michael Fennel and Markus Walker and Dominik Pikos and Uwe D. Hanebeck},
- journal = {arXiv preprint: 2508.09595},
- title = {HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control},
- url = {https://arxiv.org/abs/2508.09595},
- year = {2025}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="arXiv25_Straka" class="entry">
-<td><div class="balken-preprint"></div>
-</td>
-<td> <i>Ondŕej Straka, Uwe D. Hanebeck</i>,</br> <b>Efficient Gaussian Mixture Filters based on Transition Density Approximation</b>,</br>arXiv preprint: 2505.20002, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Straka','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2505.20002" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_arXiv25_Straka" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{arXiv25_Straka,
- author = {Ondŕej Straka and Uwe D. Hanebeck},
- journal = {arXiv preprint: 2505.20002},
- title = {Efficient Gaussian Mixture Filters based on Transition Density Approximation},
- url = {https://arxiv.org/abs/2505.20002},
- year = {2025}
-}
-
-</pre>
-</td>
-</tr>
-
 <tr id="eusipco2025" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>The 33rd European Signal Processing Conference (EUSIPCO 2025), September, 2025.
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>The 33rd European Signal Processing Conference (EUSIPCO 2025), Isola delle Femmine, Palermo, Italy, September, 2025.
 <p class="infolinks"> <a href="javascript:toggleInfo('eusipco2025','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
@@ -156,6 +112,7 @@
 <td><b>BibTeX</b>:
 <pre>
 @inproceedings{eusipco2025,
+ address = {Isola delle Femmine, Palermo, Italy},
  author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
  booktitle = {The 33rd European Signal Processing Conference (EUSIPCO 2025)},
  month = {September},
@@ -280,6 +237,30 @@
  month = {September},
  pdfx = {MFI25_Zhou.pdf},
  title = {Joint Pose and Shape Estimation of 3D Extended Objects Using Recursive Tangent-Space Bayesian Filtering on SO(3)},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="arXiv25_Fennel" class="entry">
+<td><div class="balken-preprint"></div>
+</td>
+<td> <i>Michael Fennel, Markus Walker, Dominik Pikos, Uwe D. Hanebeck</i>,</br> <b>HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control</b>,</br>arXiv preprint: 2508.09595, August, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Haptics25_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2508.09595" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_arXiv25_Fennel" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{arXiv25_Fennel,
+ author = {Michael Fennel and Markus Walker and Dominik Pikos and Uwe D. Hanebeck},
+ journal = {arXiv preprint: 2508.09595},
+ month = {August},
+ pdf = {Haptics25_Fennel.pdf},
+ title = {HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control},
+ url = {https://arxiv.org/abs/2508.09595},
  year = {2025}
 }
 
@@ -531,6 +512,30 @@
  pagesx = {1--8},
  pdf = {FUSION25_Straka.pdf},
  title = {Efficient Gaussian Mixture Filters based on Transition Density Approximation},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="arXiv25_Straka" class="entry">
+<td><div class="balken-preprint"></div>
+</td>
+<td> <i>Ondŕej Straka, Uwe D. Hanebeck</i>,</br> <b>Efficient Gaussian Mixture Filters based on Transition Density Approximation</b>,</br>arXiv preprint: 2505.20002, May, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Straka','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv25_Straka.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2505.20002" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_arXiv25_Straka" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{arXiv25_Straka,
+ author = {Ondŕej Straka and Uwe D. Hanebeck},
+ journal = {arXiv preprint: 2505.20002},
+ month = {May},
+ pdf = {arXiv25_Straka.pdf},
+ title = {Efficient Gaussian Mixture Filters based on Transition Density Approximation},
+ url = {https://arxiv.org/abs/2505.20002},
  year = {2025}
 }
 
@@ -1123,7 +1128,7 @@
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>Closed-Form Information-Theoretic Roughness Measures for Mixture Densities</b>,</br>arXiv preprint arXiv:2311.10190, November, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Hanebeck-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2311.10190" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Hanebeck-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv23_Hanebeck-2.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2311.10190" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv23_Hanebeck-2" class="bibtex noshow"><td></td>
@@ -1133,6 +1138,7 @@
  author = {Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:2311.10190},
  month = {November},
+ pdf = {arXiv23_Hanebeck-2.pdf},
  title = {Closed-Form Information-Theoretic Roughness Measures for Mixture Densities},
  url = {https://arxiv.org/abs/2311.10190},
  year = {2023}
@@ -1483,7 +1489,7 @@
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>Progressive Bayesian Particle Flows based on Optimal Transport Map Sequences</b>,</br>arXiv preprint arXiv:2303.02412, March, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2303.02412" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv23_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2303.02412" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv23_Hanebeck" class="bibtex noshow"><td></td>
@@ -1493,6 +1499,7 @@
  author = {Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:2303.02412},
  month = {March},
+ pdf = {arXiv23_Hanebeck.pdf},
  title = {Progressive Bayesian Particle Flows based on Optimal Transport Map Sequences},
  url = {https://arxiv.org/abs/2303.02412},
  year = {2023}
@@ -1506,7 +1513,7 @@
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Kailai Li, Ziyu Cao, Uwe D. Hanebeck</i>,</br> <b>Continuous-Time Ultra-Wideband-Inertial Fusion</b>,</br>arXiv preprint arXiv:2301.09033, January, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2301.09033" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv23_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv23_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2301.09033" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv23_Li" class="bibtex noshow"><td></td>
@@ -1516,6 +1523,7 @@
  author = {Kailai Li and Ziyu Cao and Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:2301.09033},
  month = {January},
+ pdf = {arXiv23_Li.pdf},
  title = {Continuous-Time Ultra-Wideband-Inertial Fusion},
  url = {https://arxiv.org/abs/2301.09033},
  year = {2023}
@@ -2273,7 +2281,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Kailai Li, Florian Pfaff, Uwe D. Hanebeck</i>,</br> <b>Hyperspherical Dirac Mixture Reapproximation</b>,</br>arXiv preprint arXiv:2110.10411, October, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2110.10411" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv21_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2110.10411" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv21_Li" class="bibtex noshow"><td></td>
@@ -2283,6 +2291,7 @@ Information Fusion (Fusion 2022)},
  author = {Kailai Li and Florian Pfaff and Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:2110.10411},
  month = {October},
+ pdf = {arXiv21_Li.pdf},
  title = {Hyperspherical Dirac Mixture Reapproximation},
  url = {https://arxiv.org/abs/2110.10411},
  year = {2021}
@@ -2554,7 +2563,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Jana Mayer, Johannes Westermann, Juan Pedro Gutiérrez H. Muriedas, Uwe Mettin, Alexander Lampe</i>,</br> <b>Proximal Policy Optimization for Tracking Control Exploiting Future Reference Information</b>,</br>arXiv preprint arXiv:2107.09647, July, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv21_Mayer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2107.09647" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv21_Mayer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv21_Mayer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2107.09647" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv21_Mayer" class="bibtex noshow"><td></td>
@@ -2564,6 +2573,7 @@ Information Fusion (Fusion 2022)},
  author = {Jana Mayer and Johannes Westermann and Juan Pedro Gutiérrez H. Muriedas and Uwe Mettin and Alexander Lampe},
  journal = {arXiv preprint arXiv:2107.09647},
  month = {July},
+ pdf = {arXiv21_Mayer.pdf},
  title = {Proximal Policy Optimization for Tracking Control Exploiting Future Reference Information},
  url = {https://arxiv.org/abs/2107.09647},
  year = {2021}
@@ -2683,7 +2693,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Gaussian Mixture Estimation from Weighted Samples</b>,</br>arXiv preprint arXiv:2106.05109, June, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv21_Frisch-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2106.05109" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv21_Frisch-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv21_Frisch-2.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2106.05109" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv21_Frisch-2" class="bibtex noshow"><td></td>
@@ -2693,6 +2703,7 @@ Information Fusion (Fusion 2022)},
  author = {Daniel Frisch and Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:2106.05109},
  month = {June},
+ pdf = {arXiv21_Frisch-2.pdf},
  title = {Gaussian Mixture Estimation from Weighted Samples},
  url = {https://arxiv.org/abs/2106.05109},
  year = {2021}
@@ -2869,7 +2880,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Deterministic Sampling on the Circle using Projected Cumulative Distributions</b>,</br>arXiv preprint arXiv:2102.04528, February, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv21_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2102.04528" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv21_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv21_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2102.04528" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv21_Frisch" class="bibtex noshow"><td></td>
@@ -2879,6 +2890,7 @@ Information Fusion (Fusion 2022)},
  author = {Daniel Frisch and Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:2102.04528},
  month = {February},
+ pdf = {arXiv21_Frisch.pdf},
  title = {Deterministic Sampling on the Circle using Projected Cumulative Distributions},
  url = {https://arxiv.org/abs/2102.04528},
  year = {2021}
@@ -2974,7 +2986,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Gerhard Kurz, Florian Faion, Florian Pfaff, Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Three-dimensional Simultaneous Shape and Pose Estimation for Extended Objects Using Spherical Harmonics</b>,</br>arXiv preprint arXiv:2012.13580, December, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv20_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/pdf/2012.13580" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv20_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv20_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/pdf/2012.13580" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv20_Kurz" class="bibtex noshow"><td></td>
@@ -2984,6 +2996,7 @@ Information Fusion (Fusion 2022)},
  author = {Gerhard Kurz and Florian Faion and Florian Pfaff and Antonio Zea and Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:2012.13580},
  month = {December},
+ pdf = {arXiv20_Kurz.pdf},
  title = {Three-dimensional Simultaneous Shape and Pose Estimation for Extended Objects Using Spherical Harmonics},
  url = {https://arxiv.org/pdf/2012.13580},
  year = {2020}
@@ -3023,7 +3036,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Kailai Li, Meng Li, Uwe D. Hanebeck</i>,</br> <b>Towards High-Performance Solid-State-LiDAR-Inertial Odometry and Mapping</b>,</br>arXiv preprint arXiv:2010.13150, October, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv20_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2010.13150" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv20_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv20_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2010.13150" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv20_Li" class="bibtex noshow"><td></td>
@@ -3033,6 +3046,7 @@ Information Fusion (Fusion 2022)},
  author = {Kailai Li and Meng Li and Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:2010.13150},
  month = {October},
+ pdf = {arXiv20_Li.pdf},
  title = {Towards High-Performance Solid-State-LiDAR-Inertial Odometry and Mapping},
  url = {https://arxiv.org/abs/2010.13150},
  year = {2020}
@@ -3176,7 +3190,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>iviz: A ROS Visualization App for Mobile Devices</b>,</br>arXiv preprint arXiv:2008.12725, August, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv20_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2008.12725" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv20_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv20_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2008.12725" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv20_Zea" class="bibtex noshow"><td></td>
@@ -3188,6 +3202,7 @@ Information Fusion (Fusion 2022)},
  eprint = {2008.12725},
  journal = {arXiv preprint arXiv:2008.12725},
  month = {August},
+ pdf = {arXiv20_Zea.pdf},
  primaryclass = {cs.RO},
  title = {iviz: A ROS Visualization App for Mobile Devices},
  url = {https://arxiv.org/abs/2008.12725},
@@ -3948,7 +3963,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>Deterministic Sampling of Multivariate Densities Based on Projected Cumulative Distributions</b>,</br>arXiv preprint arXiv:1912.12875, December, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv19_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1912.12875" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv19_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv19_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1912.12875" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv19_Hanebeck" class="bibtex noshow"><td></td>
@@ -3958,6 +3973,7 @@ Information Fusion (Fusion 2022)},
  author = {Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:1912.12875},
  month = {December},
+ pdf = {arXiv19_Hanebeck.pdf},
  title = {Deterministic Sampling of Multivariate Densities Based on Projected Cumulative Distributions},
  url = {https://arxiv.org/abs/1912.12875},
  year = {2019}
@@ -4316,7 +4332,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Kailai Li, Johannes Cox, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Improved Pose Graph Optimization for Planar Motions Using Riemannian Geometry on the Manifold of Dual Quaternions</b>,</br>arXiv preprint arXiv:1907.13566, July, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv19_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1907.13566" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv19_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv19_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1907.13566" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv19_Li" class="bibtex noshow"><td></td>
@@ -4326,6 +4342,7 @@ Inverse Covariance Intersection},
  author = {Kailai Li and Johannes Cox and Benjamin Noack and Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:1907.13566},
  month = {July},
+ pdf = {arXiv19_Li.pdf},
  title = {Improved Pose Graph Optimization for Planar Motions Using Riemannian Geometry on the Manifold of Dual Quaternions},
  url = {https://arxiv.org/abs/1907.13566},
  year = {2019}
@@ -4677,7 +4694,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Maxim Dolgov, Uwe D. Hanebeck</i>,</br> <b>A Distance-based Framework for Gaussian Processes over Probability Distributions</b>,</br>arXiv preprint arXiv:1809.09193, September, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv18_Dolgov','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1809.09193" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv18_Dolgov','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv18_Dolgov.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1809.09193" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv18_Dolgov" class="bibtex noshow"><td></td>
@@ -4687,6 +4704,7 @@ Inverse Covariance Intersection},
  author = {Maxim Dolgov and Uwe D. Hanebeck},
  journal = {arXiv preprint arXiv:1809.09193},
  month = {September},
+ pdf = {arXiv18_Dolgov.pdf},
  title = {A Distance-based Framework for Gaussian Processes over Probability Distributions},
  url = {https://arxiv.org/abs/1809.09193},
  year = {2018}
@@ -4700,39 +4718,17 @@ Inverse Covariance Intersection},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>FLUX: Progressive State Estimation Based on Zakai-type Distributed Ordinary Differential Equations</b>,</br>arXiv preprint: Systems and Control (cs.SY), August, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv18_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1808.02825" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv18_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv18_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1808.02825" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv18_Hanebeck" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv18_Hanebeck,
- abstract = {We propose a homotopy continuation method called FLUX for approximating
-complicated probability density functions. It is based on progressive
-processing for smoothly morphing a given density into the desired one.
-Distributed ordinary differential equations (DODEs) with an artificial time
-$γ ın [0,1]$ are derived for describing the evolution from the initial
-density to the desired final density. For a finite-dimensional
-parametrization, the DODEs are converted to a system of ordinary
-differential equations (SODEs), which are solved for $γ ın [0,1]$ and
-return the desired result for $γ=1$. This includes parametric
-representations such as Gaussians or Gaussian mixtures and nonparametric
-setups such as sample sets. In the latter case, we obtain a particle flow
-between the two densities along the artificial time.
-FLUX is applied to state estimation in stochastic nonlinear dynamic
-systems by gradual inclusion of measurement information. The proposed
-approximation method (1) is fast, (2) can be applied to arbitrary nonlinear
-systems and is not limited to additive noise, (3) allows for target
-densities that are only known at certain points, (4) does not require
-optimization, (5) does not require the solution of partial differential
-equations, and (6) works with standard procedures for solving SODEs. This
-manuscript is limited to the one-dimensional case and a fixed number of
-parameters during the progression.
-Future extensions will include consideration of higher dimensions and on the
-fly adaption of the number of parameters.},
  author = {Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {August},
+ pdf = {arXiv18_Hanebeck.pdf},
  title = {FLUX: Progressive State Estimation Based on Zakai-type Distributed Ordinary Differential Equations},
  url = {https://arxiv.org/abs/1808.02825},
  year = {2018}
@@ -5267,17 +5263,17 @@ fly adaption of the number of parameters.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Gerhard Kurz, Igor Gilitschenski, Florian Pfaff, Lukas Drude, Uwe D. Hanebeck, Reinhold Haeb-Umbach, Roland Y. Siegwart</i>,</br> <b>Directional Statistics and Filtering Using libDirectional</b>,</br>arXiv preprint: Computation (stat.CO), December, 2017.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv17_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1712.09718" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv17_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv17_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1712.09718" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv17_Kurz" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv17_Kurz,
- abstract = {In this paper, we present libDirectional, a MATLAB library for directional statistics and directional estimation. It supports a variety of commonly used distributions on the unit circle, such as the von Mises, wrapped normal, and wrapped Cauchy distributions. Furthermore, various distributions on higher-dimensional manifolds such as the unit hypersphere and the hypertorus are available. Based on these distributions, several recursive filtering algorithms in libDirectional allow estimation on these manifolds. The functionality is implemented in a clear, well-documented, and object-oriented structure that is both easy to use and easy to extend.},
  author = {Gerhard Kurz and Igor Gilitschenski and Florian Pfaff and Lukas Drude and Uwe D. Hanebeck and Reinhold Haeb-Umbach and Roland Y. Siegwart},
  journal = {arXiv preprint: Computation (stat.CO)},
  month = {December},
+ pdf = {arXiv17_Kurz.pdf},
  title = {Directional Statistics and Filtering Using libDirectional},
  url = {https://arxiv.org/abs/1712.09718},
  year = {2017}
@@ -6880,6 +6876,30 @@ fly adaption of the number of parameters.},
 </td>
 </tr>
 
+<tr id="arXiv15_Steinbring2" class="entry">
+<td><div class="balken-preprint"></div>
+</td>
+<td> <i>Jannik Steinbring, Christian Mandery, Nikolaus Vahrenkamp, Tamim Asfour, Uwe D. Hanebeck</i>,</br> <b>High-Accuracy Real-Time Whole-Body Human Motion Tracking Based on Constrained Nonlinear Kalman Filtering</b>,</br>arXiv preprint arXiv:1511.04278 [cs.SY], November, 2015.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv15_Steinbring2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv15_Steinbring2.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1511.04278" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_arXiv15_Steinbring2" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{arXiv15_Steinbring2,
+ author = {Jannik Steinbring and Christian Mandery and Nikolaus Vahrenkamp and Tamim Asfour and Uwe D. Hanebeck},
+ journal = {arXiv preprint arXiv:1511.04278 [cs.SY]},
+ month = {November},
+ pdf = {arXiv15_Steinbring2.pdf},
+ title = {High-Accuracy Real-Time Whole-Body Human Motion Tracking Based on Constrained Nonlinear Kalman Filtering},
+ url = {https://arxiv.org/abs/1511.04278},
+ year = {2015}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="TAES15_Kurz" class="entry">
 <td><div class="balken-article"></div>
 </td>
@@ -7608,20 +7628,17 @@ fly adaption of the number of parameters.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Maxim Dolgov, Uwe D. Hanebeck</i>,</br> <b>Infinite-horizon Linear Optimal Control of Markov Jump Systems without Mode Observation via State Feedback</b>,</br>arXiv preprint: Systems and Control (cs.SY), July, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv15_Dolgov','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1507.00304" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv15_Dolgov','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv15_Dolgov.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1507.00304" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv15_Dolgov" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv15_Dolgov,
- abstract = {In this paper, we consider stochastic optimal control of Markov Jump Linear Systems with state feedback 
-but without observation of the jumping parameter. The proposed control law is assumed to be linear with constant gains 
-that can be obtained from the necessary optimality conditions using an iterative algorithm. The proposed approach is 
-demonstrated in a numerical example.},
  author = {Maxim Dolgov and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {July},
+ pdf = {arXiv15_Dolgov.pdf},
  title = {Infinite-horizon Linear Optimal Control of Markov Jump Systems without Mode Observation via State Feedback},
  url = {https://arxiv.org/abs/1507.00304},
  year = {2015}
@@ -7662,33 +7679,17 @@ demonstrated in a numerical example.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Jannik Steinbring, Martin Pander, Uwe D. Hanebeck</i>,</br> <b>The Smart Sampling Kalman Filter with Symmetric Samples</b>,</br>arXiv preprint: Systems and Control (cs.SY), June, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv15_Steinbring','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1506.03254" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv15_Steinbring','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv15_Steinbring.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1506.03254" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv15_Steinbring" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv15_Steinbring,
- abstract = {Nonlinear Kalman Filters are powerful and widely-used 
-techniques when trying to estimate the hidden state of a stochastic 
-nonlinear dynamic system. In this paper, we extend the Smart Sampling 
-Kalman Filter (S2KF) with a new point symmetric Gaussian sampling 
-scheme. This not only improves the S2KF's estimation quality, but also 
-reduces the time needed to compute the required optimal Gaussian samples 
-drastically. Moreover, we improve the numerical stability of the sample 
-computation, which allows us to accurately approximate a 
-thousand-dimensional Gaussian distribution using tens of thousands of 
-optimally placed samples. We evaluate the new symmetric S2KF by 
-computing higher-order moments of standard normal distributions and 
-investigate the estimation quality of the S2KF when dealing with 
-symmetric measurement equations. Finally, extended object tracking based 
-on many measurements per time step is considered. This high-dimensional 
-estimation problem shows the advantage of the S2KF being able to use an 
-arbitrary number of samples independent of the state dimension, in 
-contrast to other state-of-the-art sample-based Kalman Filters.},
  author = {Jannik Steinbring and Martin Pander and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {June},
+ pdf = {arXiv15_Steinbring.pdf},
  title = {The Smart Sampling Kalman Filter with Symmetric Samples},
  url = {https://arxiv.org/abs/1506.03254},
  year = {2015}
@@ -7757,27 +7758,17 @@ contrast to other state-of-the-art sample-based Kalman Filters.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Gerhard Kurz, Igor Gilitschenski, Uwe D. Hanebeck</i>,</br> <b>Recursive Bayesian Filtering in Circular State Spaces</b>,</br>arXiv preprint: Systems and Control (cs.SY), January, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv15_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1501.05151" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv15_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv15_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1501.05151" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv15_Kurz" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv15_Kurz,
- abstract = {For recursive circular filtering based on circular statistics, we introduce 
-a general framework for   estimation of a circular state based on different circular 
-distributions, specifically the wrapped normal distribution and the von Mises distribution. 
-We propose an estimation method for circular systems with nonlinear system and measurement 
-functions. This is achieved by relying on efficient deterministic sampling techniques. 
-Furthermore, we show how the calculations can be simplified in a variety of important special 
-cases, such as systems with additive noise as well as identity system or measurement functions. 
-We introduce several novel key components, particularly a distribution-free prediction algorithm, 
-a new and superior formula for the multiplication of wrapped normal densities, and the ability 
-to deal with non-additive system noise. All proposed methods are thoroughly evaluated and 
-compared to several state-of-the-art solutions.},
  author = {Gerhard Kurz and Igor Gilitschenski and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {January},
+ pdf = {arXiv15_Kurz.pdf},
  title = {Recursive Bayesian Filtering in Circular State Spaces},
  url = {https://arxiv.org/abs/1501.05151},
  year = {2015}
@@ -7952,28 +7943,17 @@ compared to several state-of-the-art solutions.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>Optimal Reduction of Multivariate Dirac Mixture Densities</b>,</br>arXiv preprint: Systems and Control (cs.SY), November, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Hanebeck-Reduction','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1411.4586" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Hanebeck-Reduction','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv14_Hanebeck-Reduction.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1411.4586" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv14_Hanebeck-Reduction" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv14_Hanebeck-Reduction,
- abstract = {This paper is concerned with the optimal approximation of a given 
-multivariate Dirac mixture, i.e., a density comprising weighted Dirac 
-distributions on a continuous domain, by an equally weighted Dirac mixture 
-with a reduced number of components. The parameters of the approximating 
-density are calculated by minimizing a smooth global distance measure, 
-a generalization of the well-known Cramér-von Mises Distance to the 
-multivariate case. This generalization is achieved by defining an alternative 
-to the classical cumulative distribution, the Localized Cumulative Distribution (LCD), 
-as a characterization of discrete random quantities (on continuous domains), 
-which is unique and symmetric also in the multivariate case. The resulting 
-approximation method provides the basis for various efficient nonlinear 
-state and parameter estimation methods.},
  author = {Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {November},
+ pdf = {arXiv14_Hanebeck-Reduction.pdf},
  title = {Optimal Reduction of Multivariate Dirac Mixture Densities},
  url = {https://arxiv.org/abs/1411.4586},
  year = {2014}
@@ -7987,32 +7967,17 @@ state and parameter estimation methods.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Nicole Bäuerle, Igor Gilitschenski, Uwe D. Hanebeck</i>,</br> <b>Exact and Approximate Hidden Markov Chain Filters Based on Discrete Observations</b>,</br>arXiv preprint: Probability (math.PR), November, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Baeuerle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1411.0849" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Baeuerle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv14_Baeuerle.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1411.0849" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv14_Baeuerle" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv14_Baeuerle,
- abstract = {We consider a Hidden Markov Model (HMM) where the integrated 
-continuous-time Markov chain can be observed at discrete time points 
-perturbed by a Brownian motion. The aim is to derive a filter for the 
-underlying continuous-time Markov chain. The recursion formula for the 
-discrete-time filter is easy to derive, however involves densities which 
-are very hard to obtain. In this paper we derive exact formulas for the 
-necessary densities in the case the state space of the HMM consists of 
-two elements only. This is done by relating the underlying integrated 
-continuous-time Markov chain to the so-called asymmetric telegraph 
-process and by using recent results on this process. In case the state 
-space consists of more than two elements we present three different 
-ways to approximate the densities for the filter. The first approach is 
-based on the continuous filter problem. The second approach is to derive 
-a PDE for the densities and solve it numerically and the third approach 
-is a crude discrete time approximation of the Markov chain. All three 
-approaches are compared in a numerical study.},
  author = {Nicole Bäuerle and Igor Gilitschenski and Uwe D. Hanebeck},
  journal = {arXiv preprint: Probability (math.PR)},
  month = {November},
+ pdf = {arXiv14_Baeuerle.pdf},
  title = {Exact and Approximate Hidden Markov Chain Filters Based on Discrete Observations},
  url = {https://arxiv.org/abs/1411.0849},
  year = {2014}
@@ -8313,20 +8278,17 @@ approaches are compared in a numerical study.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>Truncated Moment Problem for Dirac Mixture Densities with Entropy Regularization</b>,</br>arXiv preprint: Systems and Control (cs.SY), August, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1408.7083" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv14_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1408.7083" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv14_Hanebeck" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv14_Hanebeck,
- abstract = {We assume that a finite set of moments of a random vector is given. 
-Its underlying density is unknown. An algorithm is proposed for efficiently 
-calculating Dirac mixture densities maintaining these moments while providing 
-a homogeneous coverage of the state space.},
  author = {Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {August},
+ pdf = {arXiv14_Hanebeck.pdf},
  title = {Truncated Moment Problem for Dirac Mixture Densities with Entropy Regularization},
  url = {https://arxiv.org/abs/1408.7083},
  year = {2014}
@@ -8340,29 +8302,17 @@ a homogeneous coverage of the state space.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Jesús Muñoz Morcillo, Florian Faion, Antonio Zea, Uwe D. Hanebeck, Caroline Y. Robertson-von Trotha</i>,</br> <b>e-Installation: Synesthetic Documentation of Media Art via Telepresence Technologies</b>,</br>arXiv preprint: Other Computer Science (cs.OH), August, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Munoz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1408.1362v1" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Munoz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv14_Munoz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1408.1362v1" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv14_Munoz" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv14_Munoz,
- abstract = {In this paper, a new synesthetic documentation method that contributes to 
-media art conservation is presented. This new method is called e-Installation in analogy to the 
-idea of the e-Book as the electronic version of a real book. An e-Installation is a virtualized 
-media artwork that reproduces all synesthesia, interaction, and meaning levels of the artwork. 
-Advanced 3D modeling and telepresence technologies with a very high level of immersion allow the virtual 
-re-enactment of works of media art that are no longer performable or rarely exhibited. The virtual 
-re-enactment of a media artwork can be designed with a scalable level of complexity depending on 
-whether it addresses professionals such as curators, art restorers, and art theorists or the general public. 
-An e-Installation is independent from the artwork's physical location and can be accessed via head-mounted 
-display or similar data goggles, computer browser, or even mobile devices. In combination with informational and preventive 
-conservation measures, the e-Installation offers an intermediate and long-term solution to archive, disseminate, 
-and pass down the milestones of media art history as a synesthetic documentation when the original work can no 
-longer be repaired or exhibited in its full function.},
  author = {Jesús Muñoz Morcillo and Florian Faion and Antonio Zea and Uwe D. Hanebeck and Caroline Y. Robertson-von Trotha},
  journal = {arXiv preprint: Other Computer Science (cs.OH)},
  month = {August},
+ pdf = {arXiv14_Munoz.pdf},
  title = {e-Installation: Synesthetic Documentation of Media Art via Telepresence Technologies},
  url = {https://arxiv.org/abs/1408.1362v1},
  year = {2014}
@@ -8922,23 +8872,17 @@ longer be repaired or exhibited in its full function.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Gerhard Kurz, Igor Gilitschenski, Uwe D. Hanebeck</i>,</br> <b>Efficient Evaluation of the Probability Density Function of a Wrapped Normal Distribution</b>,</br>arXiv preprint: Computation (stat.CO), May, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1405.6397" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv14_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1405.6397" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv14_Kurz" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv14_Kurz,
- abstract = {The wrapped normal distribution arises when a the density of a 
-one-dimensional normal distribution is wrapped around the circle infinitely 
-many times. At first look, evaluation of its probability density function appears 
-tedious as an infinite series is involved. In this paper, we investigate the 
-evaluation of two truncated series representations. As one representation performs 
-well for small uncertainties whereas the other performs well for large uncertainties, 
-we show that in all cases a small number of summands is sufficient to achieve high accuracy.},
  author = {Gerhard Kurz and Igor Gilitschenski and Uwe D. Hanebeck},
  journal = {arXiv preprint: Computation (stat.CO)},
  month = {May},
+ pdf = {arXiv14_Kurz.pdf},
  title = {Efficient Evaluation of the Probability Density Function of a Wrapped Normal Distribution},
  url = {https://arxiv.org/abs/1405.6397},
  year = {2014}
@@ -9139,31 +9083,17 @@ we show that in all cases a small number of summands is sufficient to achieve hi
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Igor Gilitschenski, Gerhard Kurz, Simon J. Julier, Uwe D. Hanebeck</i>,</br> <b>Unscented Orientation Estimation Based on the Bingham Distribution</b>,</br>arXiv preprint: Systems and Control (cs.SY), November, 2013.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv13_Gilitschenski','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1311.5796" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv13_Gilitschenski','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv13_Gilitschenski.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1311.5796" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv13_Gilitschenski" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv13_Gilitschenski,
- abstract = {Orientation estimation for 3D objects is a common problem that is
-usually tackled with traditional nonlinear filtering techniques such
-as the extended Kalman filter (EKF) or the unscented Kalman filter
-(UKF). Most of these techniques assume Gaussian distributions to
-account for system noise and uncertain measurements. This distributional
-assumption does not consider the periodic nature of pose and orientation
-uncertainty. We propose a filter that considers the periodicity of
-the orientation estimation problem in its distributional assumption.
-This is achieved by making use of the Bingham distribution, which
-is defined on the hypersphere and thus inherently more suitable to
-periodic problems. Furthermore, handling of non-trivial system functions
-is done using deterministic sampling in an efficient way. A deterministic
-sampling scheme reminiscent of the UKF is proposed for the nonlinear
-manifold of orientations. It is the first deterministic sampling
-scheme that truly reflects the nonlinear manifold of the orientation.},
  author = {Igor Gilitschenski and Gerhard Kurz and Simon J. Julier and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {November},
+ pdf = {arXiv13_Gilitschenski.pdf},
  title = {Unscented Orientation Estimation Based on the Bingham Distribution},
  url = {https://arxiv.org/abs/1311.5796},
  year = {2013}
@@ -9676,25 +9606,17 @@ scheme that truly reflects the nonlinear manifold of the orientation.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Gerhard Kurz, Igor Gilitschenski, Simon J. Julier, Uwe D. Hanebeck</i>,</br> <b>Recursive Estimation of Orientation Based on the Bingham Distribution</b>,</br>arXiv preprint: Systems and Control (cs.SY), April, 2013.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv13_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1304.8019" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv13_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv13_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1304.8019" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv13_Kurz" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv13_Kurz,
- abstract = {Directional estimation is a common problem in many tracking applications. 
-Traditional filters such as the Kalman filter perform poorly because they fail to take 
-the periodic nature of the problem into account. We present a recursive filter for directional 
-data based on the Bingham distribution in two dimensions. The proposed filter can be applied 
-to circular filtering problems with 180 degree symmetry, i.e., rotations by 180 degrees cannot 
-be distinguished. It is easily implemented using standard numerical techniques and suitable for 
-real-time applications. The presented approach is extensible to quaternions, which allow tracking 
-arbitrary three-dimensional orientations. We evaluate our filter in a challenging scenario and 
-compare it to a traditional Kalman filtering approach.},
  author = {Gerhard Kurz and Igor Gilitschenski and Simon J. Julier and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {April},
+ pdf = {arXiv13_Kurz.pdf},
  title = {Recursive Estimation of Orientation Based on the Bingham Distribution},
  url = {https://arxiv.org/abs/1304.8019},
  year = {2013}
@@ -9708,22 +9630,17 @@ compare it to a traditional Kalman filtering approach.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Marcus Baum, Uwe D. Hanebeck</i>,</br> <b>Extended Object Tracking with Random Hypersurface Models</b>,</br>arXiv preprint: Systems and Control (cs.SY), Draft accepted for publication in IEEE Transactions on Aerospace and Electronic Systems, April, 2013.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv13_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1304.5084" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv13_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv13_Baum.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1304.5084" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv13_Baum" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv13_Baum,
- abstract = {The Random Hypersurface Model (RHM) is introduced that allows for estimating 
-a shape approximation of an extended object in addition to its kinematic state. 
-An RHM represents the spatial extent by means of randomly scaled versions of the shape 
-boundary. In doing so, the shape parameters and the measurements are related via a 
-measurement equation that serves as the basis for a Gaussian state estimator. 
-Specific estimators are derived for elliptic and star-convex shapes.},
  author = {Marcus Baum and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY), Draft accepted for publication in IEEE Transactions on Aerospace and Electronic Systems},
  month = {April},
+ pdf = {arXiv13_Baum.pdf},
  title = {Extended Object Tracking with Random Hypersurface Models},
  url = {https://arxiv.org/abs/1304.5084},
  year = {2013}
@@ -9894,24 +9811,17 @@ Specific estimators are derived for elliptic and star-convex shapes.},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Marcus Baum, Uwe D. Hanebeck</i>,</br> <b>The Kernel-SME Filter for Multiple Target Tracking</b>,</br>arXiv preprint: Systems and Control (cs.SY), December, 2012.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1212.5882" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_Baum.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1212.5882" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv12_Baum" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv12_Baum,
- abstract = {We present a novel method called Kernel-SME filter for tracking multiple targets 
-when the association of the measurements to the targets is unknown. The method is a 
-further development of the Symmetric Measurement Equation (SME) filter, which removes 
-the data association uncertainty of the original measurement equation with the help of 
-a symmetric transformation. The underlying idea of the Kernel-SME filter is to construct 
-a symmetric transformation by means of mapping the measurements to a Gaussian mixture. 
-This transformation is scalable to a large number of targets and allows for deriving a 
-Gaussian state estimator that has a cubic time complexity in the number of targets.},
  author = {Marcus Baum and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {December},
+ pdf = {arXiv12_Baum.pdf},
  title = {The Kernel-SME Filter for Multiple Target Tracking},
  url = {https://arxiv.org/abs/1212.5882},
  year = {2012}
@@ -9951,22 +9861,17 @@ Gaussian state estimator that has a cubic time complexity in the number of targe
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Jörg Fischer, Achim Hekler, Maxim Dolgov, Uwe D. Hanebeck</i>,</br> <b>Optimal Sequence-Based LQG Control over TCP-like Networks Subject to Random Transmission Delays and Packet Losses</b>,</br>arXiv preprint: Systems and Control (cs.SY), November, 2012.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_FischerLQG','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1211.3020" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_FischerLQG','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_FischerLQG.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1211.3020" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv12_FischerLQG" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv12_FischerLQG,
- abstract = {This paper addresses the problem of sequence-based controller design for Networked Control Systems (NCS), 
-where control inputs and measurements are transmitted over TCP-like network connections that are subject to stochastic 
-packet losses and time-varying packet delays. At every time step, the controller sends a sequence of predicted control 
-inputs to the actuator in addition to the current control input. In this sequence-based setup, we derive an optimal 
-solution to the Linear Quadratic Gaussian (LQG) control problem and prove that the separation principle holds. 
-Simulations demonstrate the improved performance of this optimal controller compared to other sequence-based approaches.},
  author = {Jörg Fischer and Achim Hekler and Maxim Dolgov and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {November},
+ pdf = {arXiv12_FischerLQG.pdf},
  title = {Optimal Sequence-Based LQG Control over TCP-like Networks Subject to Random Transmission Delays and Packet Losses},
  url = {https://arxiv.org/abs/1211.3020},
  year = {2012}
@@ -10089,25 +9994,17 @@ Simulations demonstrate the improved performance of this optimal controller comp
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Jörg Fischer, Marc Reinhardt, Uwe D. Hanebeck</i>,</br> <b>Optimal Sequence-Based Control and Estimation of Networked Linear Systems</b>,</br>arXiv preprint: Systems and Control (cs.SY), August, 2012.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Fischer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1211.5086v1" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Fischer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_Fischer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1211.5086v1" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv12_Fischer" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv12_Fischer,
- abstract = {In this paper, a unified approach to sequence-based control and estimation
-of linear networked systems with multiple sensors is proposed. Time
-delays and data losses in the controller-actuator-channel are compensated
-by sending sequences of  control inputs. The sequence-based design
-paradigm is further extended to the sensor-controller-channels without
-increasing the load of the network. In this context, we present a
-recursive solution based on the Hypothesizing Distributed Kalman
-Filter (HKF) that is included in the overall sequence-based controller
-design.},
  author = {Jörg Fischer and Marc Reinhardt and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {August},
+ pdf = {arXiv12_Fischer.pdf},
  title = {Optimal Sequence-Based Control and Estimation of Networked Linear Systems},
  url = {https://arxiv.org/abs/1211.5086v1},
  year = {2012}
@@ -10543,28 +10440,17 @@ design.},
 </td>
 <td> <i>Achim Hekler, Jörg Fischer, Uwe D. Hanebeck</i>,</br> <b>Sequence-Based Control for Networked Control Systems Based on Virtual
 Control Inputs</b>,</br>arXiv preprint: Systems and Control (cs.SY), June, 2012.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Hekler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1206.0549" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Hekler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_Hekler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1206.0549" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv12_Hekler" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv12_Hekler,
- abstract = {In this paper, we address the problem of controlling a system over
-an unreliable connection that is affected by time-varying delays
-and randomly occurring packet losses. A novel sequence-based approach
-is proposed that extends a given controller designed without consideration
-of the network-induced disturbances. Its key idea is to model the
-unknown future control inputs by random variables, the so-called
-virtual control inputs, which are characterized by discrete probability
-density functions. Subject to this probabilistic description, the
-actual sequence of future control inputs is determined and transmitted
-to the actuator. The high performance of the proposed approach is
-demonstrated by means of Monte Carlo simulation runs with an inverted
-pendulum on a cart and by a detailed comparison to standard NCS approaches.},
  author = {Achim Hekler and Jörg Fischer and Uwe D. Hanebeck},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {June},
+ pdf = {arXiv12_Hekler.pdf},
  title = {Sequence-Based Control for Networked Control Systems Based on Virtual
 Control Inputs},
  url = {https://arxiv.org/abs/1206.0549},
@@ -10600,35 +10486,23 @@ Control Inputs},
 </td>
 </tr>
 
-<tr id="arXiv12_Deisenroth" class="entry">
+<tr id="arXiv12_Hanebeck" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>Marc Peter Deisenroth, Ryan Turner, Marco F. Huber, Uwe D. Hanebeck, Carl Edward Rasmussen</i>,</br> <b>Robust Filtering and Smoothing with Gaussian Processes</b>,</br>arXiv preprint: Systems and Control (cs.SY), March, 2012.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Deisenroth','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1203.4345" target="_blank">URL</a></p>
+<td> <i>Uwe D. Hanebeck, Jannik Steinbring</i>,</br> <b>Progressive Gaussian Filtering</b>,</br>arXiv preprint: Systems and Control (cs.SY), March, 2012.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1204.0133" target="_blank">URL</a></p>
 </td>
 </tr>
-<tr id="bib_arXiv12_Deisenroth" class="bibtex noshow"><td></td>
+<tr id="bib_arXiv12_Hanebeck" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@article{arXiv12_Deisenroth,
- abstract = {We propose a principled algorithm for robust Bayesian filtering and
-smoothing in nonlinear stochastic dynamic systems when both the transition
-function and the measurement function are described by non-parametric
-Gaussian process (GP) models. GPs are gaining increasing importance
-in signal processing, machine learning, robotics, and control for
-representing unknown system functions by posterior probability distributions.
-This modern way of "system identification" is more robust than finding
-point estimates of a parametric function representation. In this
-article, we present a principled algorithm for robust analytic smoothing
-in GP dynamic systems, which are increasingly used in robotics and
-control. Our numerical evaluations demonstrate the robustness of
-the proposed approach in situations where other state-of-the-art
-Gaussian filters and smoothers can fail.},
- author = {Marc Peter Deisenroth and Ryan Turner and Marco F. Huber and Uwe D. Hanebeck and Carl Edward Rasmussen},
+@article{arXiv12_Hanebeck,
+ author = {Uwe D. Hanebeck and Jannik Steinbring},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {March},
- title = {Robust Filtering and Smoothing with Gaussian Processes},
- url = {https://arxiv.org/abs/1203.4345},
+ pdf = {arXiv12_Hanebeck.pdf},
+ title = {Progressive Gaussian Filtering},
+ url = {https://arxiv.org/abs/1204.0133},
  year = {2012}
 }
 
@@ -10636,33 +10510,23 @@ Gaussian filters and smoothers can fail.},
 </td>
 </tr>
 
-<tr id="arXiv12_Hanebeck" class="entry">
+<tr id="arXiv12_Deisenroth" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>Uwe D. Hanebeck, Jannik Steinbring</i>,</br> <b>Progressive Gaussian Filtering</b>,</br>arXiv preprint: Systems and Control (cs.SY), March, 2012.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1204.0133" target="_blank">URL</a></p>
+<td> <i>Marc Peter Deisenroth, Ryan Turner, Marco F. Huber, Uwe D. Hanebeck, Carl Edward Rasmussen</i>,</br> <b>Robust Filtering and Smoothing with Gaussian Processes</b>,</br>arXiv preprint: Systems and Control (cs.SY), March, 2012.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Deisenroth','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_Deisenroth.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1203.4345" target="_blank">URL</a></p>
 </td>
 </tr>
-<tr id="bib_arXiv12_Hanebeck" class="bibtex noshow"><td></td>
+<tr id="bib_arXiv12_Deisenroth" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@article{arXiv12_Hanebeck,
- abstract = {In this paper, we propose a progressive Bayesian procedure, where
-the measurement information is continuously included into the given
-prior estimate (although we perform observations at discrete time
-steps). The key idea is to derive a system of ordinary first-order
-differential equations (ODE) by employing a new coupled density representation
-comprising a Gaussian density and its Dirac Mixture approximation.
-The ODE is used for continuously tracking the true non-Gaussian posterior
-by its best matching Gaussian approximation. The performance of the
-new filter is evaluated in comparison with state-of-the-art filters
-by means of a canonical benchmark example, the discrete-time cubic
-sensor problem.},
- author = {Uwe D. Hanebeck and Jannik Steinbring},
+@article{arXiv12_Deisenroth,
+ author = {Marc Peter Deisenroth and Ryan Turner and Marco F. Huber and Uwe D. Hanebeck and Carl Edward Rasmussen},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {March},
- title = {Progressive Gaussian Filtering},
- url = {https://arxiv.org/abs/1204.0133},
+ pdf = {arXiv12_Deisenroth.pdf},
+ title = {Robust Filtering and Smoothing with Gaussian Processes},
+ url = {https://arxiv.org/abs/1203.4345},
  year = {2012}
 }
 
@@ -10783,29 +10647,18 @@ sensor problem.},
 </td>
 <td> <i>Tobias Kretz, Stefan Hengst, Antonia Pérez Arias and
 Simon Friedberger, Uwe D. Hanebeck</i>,</br> <b>Using a Telepresence System to Investigate Route Choice Behavior</b>,</br>arXiv preprint: Human-Computer Interaction (cs.HC), November, 2011.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv11_Kretz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1111.1103" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv11_Kretz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv11_Kretz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1111.1103" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv11_Kretz" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv11_Kretz,
- abstract = {A combination of a telepresence system and a microscopic traffic simulator
-is introduced. It is evaluated using a hotel evacuation scenario.
-Four different kinds of supporting information are compared, standard
-exit signs, floor plans with indicated exit routes, guiding lines
-on the floor and simulated agents leading the way. The results indicate
-that guiding lines are the most efficient way to support an evacuation
-but the natural behavior of following others comes very close. On
-another level the results are consistent with previously performed
-real and virtual experiments and validate the use of a telepresence
-system in evacuation studies. It is shown that using a microscopic
-traffic simulator extends the possibilities for evaluation, e.g.
-by adding simulated humans to the environment.},
  author = {Tobias Kretz and Stefan Hengst and Antonia Pérez Arias and
 Simon Friedberger and Uwe D. Hanebeck},
  journal = {arXiv preprint: Human-Computer Interaction (cs.HC)},
  month = {November},
+ pdf = {arXiv11_Kretz.pdf},
  title = {Using a Telepresence System to Investigate Route Choice Behavior},
  url = {https://arxiv.org/abs/1111.1103},
  year = {2011}
@@ -11349,37 +11202,17 @@ Simon Friedberger and Uwe D. Hanebeck},
 <td><div class="balken-preprint"></div>
 </td>
 <td> <i>Daniel Lyons, Jan-P. Calliess, Uwe D. Hanebeck</i>,</br> <b>Chance-constrained Model Predictive Control for Multi-Agent Systems</b>,</br>arXiv preprint: Systems and Control (cs.SY), April, 2011.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv11_Lyons','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1104.5384" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv11_Lyons','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv11_Lyons.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1104.5384" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv11_Lyons" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv11_Lyons,
- abstract = {We consider stochastic model predictive control of a multi-agent systems
-with constraints on the probabilities of inter-agent collisions.
-We first study a sample-based approximation of the collision probabilities
-and use this approximation to formulate constraints for the stochastic
-control problem. This approximation will converge as the number of
-samples goes to infinity, however, the complexity of the resulting
-control problem is so high that this approach proves unsuitable for
-control under real-time requirements. To alleviate the computational
-burden we propose a second approach that uses probabilistic bounds
-to determine regions with increased probability of presence for each
-agent and formulate constraints for the control problem that guarantee
-that these regions will not overlap. We prove that the resulting
-problem is conservative for the original problem with probabilistic
-constraints, ie. every control strategy that is feasible under our
-new constraints will automatically be feasible for the original problem.
-Furthermore we show in simulations in a UAV path planning scenario
-that our proposed approach grants significantly better run-time performance
-compared to a controller with the sample-based approximation with
-only a small degree of sub-optimality resulting from the conservativeness
-of our new approach},
  author = {Daniel Lyons and Jan-P. Calliess and Uwe D. Hanebeck},
- ee = {https://arxiv.org/abs/1104.5384},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {April},
+ pdf = {arXiv11_Lyons.pdf},
  title = {Chance-constrained Model Predictive Control for Multi-Agent Systems},
  url = {https://arxiv.org/abs/1104.5384},
  year = {2011}
@@ -12506,27 +12339,18 @@ of our new approach},
 <td> <i>Antonia Pérez Arias, Uwe D. Hanebeck, Peter Ehrhardt
 and Stefan Hengst, Tobias Kretz, Peter Vortisch</i>,</br> <b>Extended Range Telepresence for Evacuation Training in Pedestrian
 Simulations</b>,</br>arXiv preprint: Human-Computer Interaction (cs.HC), February, 2010.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv10_Perez','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/1002.3770" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv10_Perez','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv10_Perez.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1002.3770" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv10_Perez" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
 @article{arXiv10_Perez,
- abstract = {In this contribution, we propose a new framework to evaluate pedestrian
-simula-tions by using Extended Range Telepresence. Telepresence is
-used as a virtual reality walking simulator, which provides the user
-with a realistic impression of being present and walking in a virtual
-environment that is much larger than the real physical environment,
-in which the user actually walks. The validation of the simulation
-is performed by comparing motion data of the telepresent user with
-simulated data at some points of the simulation. The use of haptic
-feedback from the simulation makes the framework suitable for training
-in emergency situations.},
  author = {Antonia Pérez Arias and Uwe D. Hanebeck and Peter Ehrhardt
 and Stefan Hengst and Tobias Kretz and Peter Vortisch},
  journal = {arXiv preprint: Human-Computer Interaction (cs.HC)},
  month = {February},
+ pdf = {arXiv10_Perez.pdf},
  title = {Extended Range Telepresence for Evacuation Training in Pedestrian
 Simulations},
  url = {https://arxiv.org/abs/1002.3770},
