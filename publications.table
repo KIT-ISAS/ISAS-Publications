@@ -82,7 +82,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Felipe Giraldo Grueso, Andrey A. Popov, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination</b>,</br>The Journal of the Astronautical Sciences, pp. 1–34, Springer Nature, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAS25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAS25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAS25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_JAS25_GiraldoGrueso" class="bibtex noshow"><td></td>
@@ -92,7 +92,7 @@
  author = {Felipe Giraldo Grueso and Andrey A. Popov and Uwe D. Hanebeck and and Renato Zanetti},
  journal = {The Journal of the Astronautical Sciences},
  pages = {1–34},
- pdfx = {JAS25_GiraldoGrueso.pdf},
+ pdf = {JAS25_GiraldoGrueso.pdf},
  publisher = {Springer Nature},
  title = {Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination},
  year = {2025}
