@@ -1018,7 +1018,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Kailai Li, Ziyu Cao, Uwe D. Hanebeck</i>,</br> <b>Continuous-Time Ultra-Wideband-Inertial Fusion</b>,</br>IEEE Robotics and Automation Letters, 8(7):4338–4345, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('RAL23_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/10141663/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('RAL23_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/RAL23_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10141663/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_RAL23_Li" class="bibtex noshow"><td></td>
@@ -1030,6 +1030,7 @@
  journal = {IEEE Robotics and Automation Letters},
  number = {7},
  pages = {4338–4345},
+ pdf = {RAL23_Li.pdf},
  title = {Continuous-Time Ultra-Wideband-Inertial Fusion},
  url = {https://ieeexplore.ieee.org/document/10141663/},
  volume = {8},
@@ -1488,7 +1489,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Marko Ristic, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Distributed Range-Only Localization that Preserves Sensor and Navigator Privacies</b>,</br>IEEE Transactions on Automatic Control, March, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('TAC23_Ristic','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/10089476/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TAC23_Ristic','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TAC23_Ristic.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10089476/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TAC23_Ristic" class="bibtex noshow"><td></td>
@@ -1499,6 +1500,7 @@
  doi = {10.1109/TAC.2023.3263740},
  journal = {IEEE Transactions on Automatic Control},
  month = {March},
+ pdf = {TAC23_Ristic.pdf},
  title = {Distributed Range-Only Localization that Preserves Sensor and Navigator Privacies},
  url = {https://ieeexplore.ieee.org/document/10089476/},
  year = {2023}
