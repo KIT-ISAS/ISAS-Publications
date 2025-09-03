@@ -245,6 +245,30 @@
 </td>
 </tr>
 
+<tr id="arXiv25_Hanebeck" class="entry">
+<td><div class="balken-preprint"></div>
+</td>
+<td> <i>Uwe D. Hanebeck</i>,</br> <b>Newton-Flow Particle Filters based on Generalized Cramér Distance</b>,</br>arXiv preprint: 2509.00182, August, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv25_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2509.00182" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_arXiv25_Hanebeck" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{arXiv25_Hanebeck,
+ author = {Uwe D. Hanebeck},
+ journal = {arXiv preprint: 2509.00182},
+ month = {August},
+ pdf = {arXiv25_Hanebeck.pdf},
+ title = {Newton-Flow Particle Filters based on Generalized Cramér Distance},
+ url = {https://arxiv.org/abs/2509.00182},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="arXiv25_Fennel" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
@@ -2461,7 +2485,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Florian Pfaff, Kailai Li, Uwe D. Hanebeck</i>,</br> <b>The State Space Subdivision Filter for Estimation on SE(2)</b>,</br>Sensors, September, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('Sensors21_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Sensors21_Pfaff" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.mdpi.com/1424-8220/21/18/6314" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Sensors21_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Sensors21_Pfaff.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.mdpi.com/1424-8220/21/18/6314" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Sensors21_Pfaff" class="bibtex noshow"><td></td>
@@ -2472,7 +2496,7 @@ Information Fusion (Fusion 2022)},
  doi = {10.3390/s21186314},
  journal = {Sensors},
  month = {September},
- pdf = {Sensors21_Pfaff},
+ pdf = {Sensors21_Pfaff.pdf},
  title = {The State Space Subdivision Filter for Estimation on SE(2)},
  url = {https://www.mdpi.com/1424-8220/21/18/6314},
  year = {2021}
