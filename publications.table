@@ -5225,6 +5225,30 @@ Inverse Covariance Intersection},
 </tr>
 
 <tr class="year"><td></td><td><a name="2017"></a>2017</td></tr>
+<tr id="TAES17_Zea" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Antonio Zea, Florian Faion, Marcus Baum, Uwe D. Hanebeck</i>,</br> <b>Level-Set Random Hypersurface Models for Tracking Nonconvex Extended Objects</b>,</br>IEEE Transactions on Aerospace and Electronic Systems, 2017.
+<p class="infolinks"> <a href="javascript:toggleInfo('TAES17_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TAES17_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/7855600/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_TAES17_Zea" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{TAES17_Zea,
+ author = {Antonio Zea and Florian Faion and Marcus Baum and Uwe D. Hanebeck},
+ doi = {10.1109/TAES.2016.130704},
+ journal = {IEEE Transactions on Aerospace and Electronic Systems},
+ pdf = {TAES17_Zea.pdf},
+ title = {Level-Set Random Hypersurface Models for Tracking Nonconvex Extended Objects},
+ url = {http://ieeexplore.ieee.org/document/7855600/},
+ year = {2017}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="IRS17_Nuss" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -5961,7 +5985,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-other"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Wolfgang Koch</i>,</br> <b>Welcome to FUSION 2016</b>,</br>FUSION 2016 - 19th International Conference on Information Fusion, Proceedings, pp. xlvi – xlvii, Institute of Electrical and Electronics Engineers Inc., 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION16_Hanebeck_Editorial','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION16_Hanebeck_Editorial','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION16_Hanebeck_Editorial.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_FUSION16_Hanebeck_Editorial" class="bibtex noshow"><td></td>
@@ -5973,6 +5997,7 @@ Inverse Covariance Intersection},
  journal = {FUSION 2016 - 19th International Conference on Information Fusion, Proceedings},
  language = {English},
  pages = {xlvi – xlvii},
+ pdf = {FUSION16_Hanebeck_Editorial.pdf},
  publisher = {Institute of Electrical and Electronics Engineers Inc.},
  title = {Welcome to FUSION 2016},
  type = {Editorial},
