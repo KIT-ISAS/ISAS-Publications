@@ -12,3 +12,7 @@ test.pdf
 *.log
 *.bcf
 *.aux
+
+*.fdb_latexmk
+
+*.fls
