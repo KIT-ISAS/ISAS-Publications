@@ -105,21 +105,22 @@
 </td>
 </tr>
 
-<tr id="eusipco2025" class="entry">
+<tr id="EUSIPCO2025_Siebler" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>The 33rd European Signal Processing Conference (EUSIPCO 2025), Isola delle Femmine, Palermo, Italy, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('eusipco2025','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('EUSIPCO2025_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EUSIPCO2025_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
-<tr id="bib_eusipco2025" class="bibtex noshow"><td></td>
+<tr id="bib_EUSIPCO2025_Siebler" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@inproceedings{eusipco2025,
+@inproceedings{EUSIPCO2025_Siebler,
  address = {Isola delle Femmine, Palermo, Italy},
  author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
  booktitle = {The 33rd European Signal Processing Conference (EUSIPCO 2025)},
  month = {September},
+ pdf = {EUSIPCO2025_Siebler.pdf},
  title = {Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers},
  year = {2025}
 }
