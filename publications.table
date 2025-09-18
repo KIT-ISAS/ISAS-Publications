@@ -180,7 +180,7 @@
 <tr id="MFI25_Hanebeck" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Uwe D. Hanebeck, Dominik Prossel, Andrey A. Popov, Felipe Giraldo-Grueso, Renato Zanetti</i>,</br> <b>Ensemble Gaussian Mixture Filter based on Projected Cramer-von Mises Distance</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
+<td> <i>Uwe D. Hanebeck, Dominik Prossel, Andrey A. Popov, Felipe Giraldo-Grueso, Renato Zanetti</i>,</br> <b>Ensemble Gaussian Mixture Filter based on Projected Cramér-von Mises Distance</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
 <p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
@@ -193,7 +193,7 @@
  booktitle = {Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)},
  month = {September},
  pdf = {MFI25_Hanebeck.pdf},
- title = {Ensemble Gaussian Mixture Filter based on Projected Cramer-von Mises Distance},
+ title = {Ensemble Gaussian Mixture Filter based on Projected Cramér-von Mises Distance},
  year = {2025}
 }
 
