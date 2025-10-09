@@ -157,7 +157,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Weaknesses of the ANEES and New Calibration Measures for Multivariate Predictions</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Walker" class="bibtex noshow"><td></td>
@@ -165,6 +165,7 @@
 <pre>
 @inproceedings{MFI25_Walker,
  address = {College Station, Texas},
+ annote = {<b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Markus Walker and Marcel Reith-Braun and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)},
  month = {September},
