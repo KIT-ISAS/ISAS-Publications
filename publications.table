@@ -28,7 +28,7 @@
 <tr id="PT25_Bauer" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Albert Bauer, Jiachen Zhou, Uwe D. Hanebeck, Harald Kruggel-Emden</i>,</br> <b>Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual hull</b>,</br>Powder Technology, 464:121193, 2025.
+<td> <i>Albert Bauer, Jiachen Zhou, Uwe D. Hanebeck, Harald Kruggel-Emden</i>,</br> <b>Sparse View Reconstruction and Morphological Characterization of Falling Particles Through Radiance Field and Visual Hull</b>,</br>Powder Technology, 464:121193, 2025.
 <p class="infolinks"> <a href="javascript:toggleInfo('PT25_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PT25_Bauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S0032591025005881" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -42,7 +42,7 @@
  journal = {Powder Technology},
  pages = {121193},
  pdf = {PT25_Bauer.pdf},
- title = {Sparse view reconstruction and morphological characterization of falling particles through radiance field and visual hull},
+ title = {Sparse View Reconstruction and Morphological Characterization of Falling Particles Through Radiance Field and Visual Hull},
  url = {https://www.sciencedirect.com/science/article/pii/S0032591025005881},
  volume = {464},
  year = {2025}
@@ -157,7 +157,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Weaknesses of the ANEES and New Calibration Measures for Multivariate Predictions</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Walker" class="bibtex noshow"><td></td>
@@ -165,6 +165,7 @@
 <pre>
 @inproceedings{MFI25_Walker,
  address = {College Station, Texas},
+ annote = {<b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Markus Walker and Marcel Reith-Braun and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)},
  month = {September},
@@ -1317,7 +1318,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>The Generalized Fibonacci Grid as Low-Discrepancy Point Set for Optimal Deterministic Gaussian Sampling</b>,</br>Journal of Advances in Information Fusion, 18(1):16–34, June, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAIF23_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF23_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/generalized-eibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAIF23_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAIF23_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://isif.org/media/generalized-fibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian-sampling" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAIF23_Frisch" class="bibtex noshow"><td></td>
@@ -1332,7 +1333,7 @@
  pages = {16–34},
  pdf = {JAIF23_Frisch.pdf},
  title = {The Generalized Fibonacci Grid as Low-Discrepancy Point Set for Optimal Deterministic Gaussian Sampling},
- url = {https://isif.org/media/generalized-eibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian},
+ url = {https://isif.org/media/generalized-fibonacci-grid-low-discrepancy-point-set-optimal-deterministic-gaussian-sampling},
  volume = {18},
  year = {2023}
 }
