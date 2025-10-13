@@ -105,6 +105,31 @@
 </td>
 </tr>
 
+<tr id="arXiv25_Walker" class="entry">
+<td><div class="balken-preprint"></div>
+</td>
+<td> <i>Markus Walker, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples</b>,</br>arXiv preprint: 2510.05706, October, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2510.05706" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_arXiv25_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{arXiv25_Walker,
+ author = {Markus Walker and Daniel Frisch and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2510.05706},
+ journal = {arXiv preprint: 2510.05706},
+ month = {October},
+ pdf = {arXiv25_Walker.pdf},
+ title = {Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples},
+ url = {https://arxiv.org/abs/2510.05706},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="EUSIPCO2025_Siebler" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -262,6 +287,7 @@
 <pre>
 @article{arXiv25_Hanebeck,
  author = {Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2509.00182},
  journal = {arXiv preprint: 2509.00182},
  month = {August},
  pdf = {arXiv25_Hanebeck.pdf},
@@ -286,6 +312,7 @@
 <pre>
 @article{arXiv25_Fennel,
  author = {Michael Fennel and Markus Walker and Dominik Pikos and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2508.09595},
  journal = {arXiv preprint: 2508.09595},
  month = {August},
  pdf = {arXiv25_Fennel.pdf},
@@ -571,6 +598,7 @@
 <pre>
 @article{arXiv25_Straka,
  author = {Ondŕej Straka and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2505.20002},
  journal = {arXiv preprint: 2505.20002},
  month = {May},
  pdf = {arXiv25_Straka.pdf},
@@ -1198,6 +1226,7 @@
 <pre>
 @article{arXiv23_Hanebeck-2,
  author = {Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2311.10190},
  journal = {arXiv preprint arXiv:2311.10190},
  month = {November},
  pdf = {arXiv23_Hanebeck-2.pdf},
@@ -1561,6 +1590,7 @@
 <pre>
 @article{arXiv23_Hanebeck,
  author = {Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2303.02412},
  journal = {arXiv preprint arXiv:2303.02412},
  month = {March},
  pdf = {arXiv23_Hanebeck.pdf},
@@ -1585,6 +1615,7 @@
 <pre>
 @article{arXiv23_Li,
  author = {Kailai Li and Ziyu Cao and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2301.09033},
  journal = {arXiv preprint arXiv:2301.09033},
  month = {January},
  pdf = {arXiv23_Li.pdf},
@@ -2355,6 +2386,7 @@ Information Fusion (Fusion 2022)},
 <pre>
 @article{arXiv21_Li,
  author = {Kailai Li and Florian Pfaff and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2110.10411},
  journal = {arXiv preprint arXiv:2110.10411},
  month = {October},
  pdf = {arXiv21_Li.pdf},
@@ -2638,6 +2670,7 @@ Information Fusion (Fusion 2022)},
 <pre>
 @article{arXiv21_Mayer,
  author = {Jana Mayer and Johannes Westermann and Juan Pedro Gutiérrez H. Muriedas and Uwe Mettin and Alexander Lampe},
+ doi = {10.48550/arXiv.2107.09647},
  journal = {arXiv preprint arXiv:2107.09647},
  month = {July},
  pdf = {arXiv21_Mayer.pdf},
@@ -2768,6 +2801,7 @@ Information Fusion (Fusion 2022)},
 <pre>
 @article{arXiv21_Frisch-2,
  author = {Daniel Frisch and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2106.05109},
  journal = {arXiv preprint arXiv:2106.05109},
  month = {June},
  pdf = {arXiv21_Frisch-2.pdf},
@@ -2956,6 +2990,7 @@ Information Fusion (Fusion 2022)},
 <pre>
 @article{arXiv21_Frisch,
  author = {Daniel Frisch and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2102.04528},
  journal = {arXiv preprint arXiv:2102.04528},
  month = {February},
  pdf = {arXiv21_Frisch.pdf},
@@ -3062,6 +3097,7 @@ Information Fusion (Fusion 2022)},
 <pre>
 @article{arXiv20_Kurz,
  author = {Gerhard Kurz and Florian Faion and Florian Pfaff and Antonio Zea and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2012.13580},
  journal = {arXiv preprint arXiv:2012.13580},
  month = {December},
  pdf = {arXiv20_Kurz.pdf},
@@ -3112,6 +3148,7 @@ Information Fusion (Fusion 2022)},
 <pre>
 @article{arXiv20_Li,
  author = {Kailai Li and Meng Li and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2010.13150},
  journal = {arXiv preprint arXiv:2010.13150},
  month = {October},
  pdf = {arXiv20_Li.pdf},
@@ -3267,6 +3304,7 @@ Information Fusion (Fusion 2022)},
 @article{arXiv20_Zea,
  archiveprefix = {arXiv},
  author = {Antonio Zea and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2008.12725},
  eprint = {2008.12725},
  journal = {arXiv preprint arXiv:2008.12725},
  month = {August},
@@ -4046,6 +4084,7 @@ Information Fusion (Fusion 2022)},
 <pre>
 @article{arXiv19_Hanebeck,
  author = {Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1912.12875},
  journal = {arXiv preprint arXiv:1912.12875},
  month = {December},
  pdf = {arXiv19_Hanebeck.pdf},
@@ -4415,6 +4454,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv19_Li,
  author = {Kailai Li and Johannes Cox and Benjamin Noack and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1907.13566},
  journal = {arXiv preprint arXiv:1907.13566},
  month = {July},
  pdf = {arXiv19_Li.pdf},
@@ -4780,6 +4820,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv18_Dolgov,
  author = {Maxim Dolgov and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1809.09193},
  journal = {arXiv preprint arXiv:1809.09193},
  month = {September},
  pdf = {arXiv18_Dolgov.pdf},
@@ -4804,6 +4845,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv18_Hanebeck,
  author = {Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1808.02825},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {August},
  pdf = {arXiv18_Hanebeck.pdf},
@@ -5352,6 +5394,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv17_Kurz,
  author = {Gerhard Kurz and Igor Gilitschenski and Florian Pfaff and Lukas Drude and Uwe D. Hanebeck and Reinhold Haeb-Umbach and Roland Y. Siegwart},
+ doi = {10.48550/arXiv.1712.09718},
  journal = {arXiv preprint: Computation (stat.CO)},
  month = {December},
  pdf = {arXiv17_Kurz.pdf},
@@ -6975,6 +7018,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv15_Steinbring2,
  author = {Jannik Steinbring and Christian Mandery and Nikolaus Vahrenkamp and Tamim Asfour and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1511.04278},
  journal = {arXiv preprint arXiv:1511.04278 [cs.SY]},
  month = {November},
  pdf = {arXiv15_Steinbring2.pdf},
@@ -7723,6 +7767,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv15_Dolgov,
  author = {Maxim Dolgov and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1507.00304},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {July},
  pdf = {arXiv15_Dolgov.pdf},
@@ -7774,6 +7819,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv15_Steinbring,
  author = {Jannik Steinbring and Martin Pander and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1506.03254},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {June},
  pdf = {arXiv15_Steinbring.pdf},
@@ -7853,6 +7899,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv15_Kurz,
  author = {Gerhard Kurz and Igor Gilitschenski and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1501.05151},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {January},
  pdf = {arXiv15_Kurz.pdf},
@@ -8038,6 +8085,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv14_Hanebeck-Reduction,
  author = {Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1411.4586},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {November},
  pdf = {arXiv14_Hanebeck-Reduction.pdf},
@@ -8062,6 +8110,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv14_Baeuerle,
  author = {Nicole Bäuerle and Igor Gilitschenski and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1411.0849},
  journal = {arXiv preprint: Probability (math.PR)},
  month = {November},
  pdf = {arXiv14_Baeuerle.pdf},
@@ -8373,6 +8422,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv14_Hanebeck,
  author = {Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1408.7083},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {August},
  pdf = {arXiv14_Hanebeck.pdf},
@@ -8397,6 +8447,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv14_Munoz,
  author = {Jesús Muñoz Morcillo and Florian Faion and Antonio Zea and Uwe D. Hanebeck and Caroline Y. Robertson-von Trotha},
+ doi = {10.48550/arXiv.1408.1362v1},
  journal = {arXiv preprint: Other Computer Science (cs.OH)},
  month = {August},
  pdf = {arXiv14_Munoz.pdf},
@@ -8967,6 +9018,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv14_Kurz,
  author = {Gerhard Kurz and Igor Gilitschenski and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1405.6397},
  journal = {arXiv preprint: Computation (stat.CO)},
  month = {May},
  pdf = {arXiv14_Kurz.pdf},
@@ -9178,6 +9230,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv13_Gilitschenski,
  author = {Igor Gilitschenski and Gerhard Kurz and Simon J. Julier and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1311.5796},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {November},
  pdf = {arXiv13_Gilitschenski.pdf},
@@ -9701,6 +9754,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv13_Kurz,
  author = {Gerhard Kurz and Igor Gilitschenski and Simon J. Julier and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1304.8019},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {April},
  pdf = {arXiv13_Kurz.pdf},
@@ -9725,6 +9779,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv13_Baum,
  author = {Marcus Baum and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1304.5084},
  journal = {arXiv preprint: Systems and Control (cs.SY), Draft accepted for publication in IEEE Transactions on Aerospace and Electronic Systems},
  month = {April},
  pdf = {arXiv13_Baum.pdf},
@@ -9906,6 +9961,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv12_Baum,
  author = {Marcus Baum and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1212.5882},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {December},
  pdf = {arXiv12_Baum.pdf},
@@ -9956,6 +10012,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv12_FischerLQG,
  author = {Jörg Fischer and Achim Hekler and Maxim Dolgov and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1211.3020},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {November},
  pdf = {arXiv12_FischerLQG.pdf},
@@ -10089,6 +10146,7 @@ Inverse Covariance Intersection},
 <pre>
 @article{arXiv12_Fischer,
  author = {Jörg Fischer and Marc Reinhardt and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1211.5086v1},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {August},
  pdf = {arXiv12_Fischer.pdf},
@@ -10535,6 +10593,7 @@ Control Inputs</b>,</br>arXiv preprint: Systems and Control (cs.SY), June, 2012.
 <pre>
 @article{arXiv12_Hekler,
  author = {Achim Hekler and Jörg Fischer and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1206.0549},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {June},
  pdf = {arXiv12_Hekler.pdf},
@@ -10585,6 +10644,7 @@ Control Inputs},
 <pre>
 @article{arXiv12_Hanebeck,
  author = {Uwe D. Hanebeck and Jannik Steinbring},
+ doi = {10.48550/arXiv.1204.0133},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {March},
  pdf = {arXiv12_Hanebeck.pdf},
@@ -10609,6 +10669,7 @@ Control Inputs},
 <pre>
 @article{arXiv12_Deisenroth,
  author = {Marc Peter Deisenroth and Ryan Turner and Marco F. Huber and Uwe D. Hanebeck and Carl Edward Rasmussen},
+ doi = {10.48550/arXiv.1203.4345},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {March},
  pdf = {arXiv12_Deisenroth.pdf},
@@ -10743,6 +10804,7 @@ Simon Friedberger, Uwe D. Hanebeck</i>,</br> <b>Using a Telepresence System to I
 @article{arXiv11_Kretz,
  author = {Tobias Kretz and Stefan Hengst and Antonia Pérez Arias and
 Simon Friedberger and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1111.1103},
  journal = {arXiv preprint: Human-Computer Interaction (cs.HC)},
  month = {November},
  pdf = {arXiv11_Kretz.pdf},
@@ -11297,6 +11359,7 @@ Simon Friedberger and Uwe D. Hanebeck},
 <pre>
 @article{arXiv11_Lyons,
  author = {Daniel Lyons and Jan-P. Calliess and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.1104.5384},
  journal = {arXiv preprint: Systems and Control (cs.SY)},
  month = {April},
  pdf = {arXiv11_Lyons.pdf},
@@ -12435,6 +12498,7 @@ Simulations</b>,</br>arXiv preprint: Human-Computer Interaction (cs.HC), Februar
 @article{arXiv10_Perez,
  author = {Antonia Pérez Arias and Uwe D. Hanebeck and Peter Ehrhardt
 and Stefan Hengst and Tobias Kretz and Peter Vortisch},
+ doi = {10.48550/arXiv.1002.3770},
  journal = {arXiv preprint: Human-Computer Interaction (cs.HC)},
  month = {February},
  pdf = {arXiv10_Perez.pdf},
