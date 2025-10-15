@@ -1,5 +1,31 @@
 <table id="qs_table" border="1"><tbody>
 <tr class="year"><td></td><td><a name="2025"></a>2025</td></tr>
+<tr id="JAS25_GiraldoGrueso" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Felipe Giraldo Grueso, Andrey A. Popov, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination</b>,</br>The Journal of the Astronautical Sciences, pp. 1–34, Springer Nature, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('JAS25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAS25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_JAS25_GiraldoGrueso" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{JAS25_GiraldoGrueso,
+ author = {Felipe Giraldo Grueso and Andrey A. Popov and Uwe D. Hanebeck and and Renato Zanetti},
+ doi = {10.1007/s40295-025-00521-7},
+ journal = {The Journal of the Astronautical Sciences},
+ link = {https://link.springer.com/article/10.1007/s40295-025-00521-7},
+ pages = {1–34},
+ pdf = {JAS25_GiraldoGrueso.pdf},
+ publisher = {Springer Nature},
+ title = {Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="Haptics25_Fennel" class="entry">
 <td><div class="balken-article"></div>
 </td>
@@ -79,25 +105,25 @@
 </td>
 </tr>
 
-<tr id="JAS25_GiraldoGrueso" class="entry">
-<td><div class="balken-article"></div>
+<tr id="SDF25_Frisch" class="entry">
+<td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Felipe Giraldo Grueso, Andrey A. Popov, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination</b>,</br>The Journal of the Astronautical Sciences, pp. 1–34, Springer Nature, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAS25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAS25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Fokker-Planck Prediction on the Cylindric Manifold using Tensor Decomposition of a Regular Grid</b>,</br>17th Symposium Sensor Data Fusion: Trends, Solutions and Applications, Bonn, Germany, November, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('SDF25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
-<tr id="bib_JAS25_GiraldoGrueso" class="bibtex noshow"><td></td>
+<tr id="bib_SDF25_Frisch" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@article{JAS25_GiraldoGrueso,
- author = {Felipe Giraldo Grueso and Andrey A. Popov and Uwe D. Hanebeck and and Renato Zanetti},
- doi = {10.1007/s40295-025-00521-7},
- journal = {The Journal of the Astronautical Sciences},
- link = {https://link.springer.com/article/10.1007/s40295-025-00521-7},
- pages = {1–34},
- pdf = {JAS25_GiraldoGrueso.pdf},
- publisher = {Springer Nature},
- title = {Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination},
+@inproceedings{SDF25_Frisch,
+ address = {Bonn, Germany},
+ author = {Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {17th Symposium Sensor Data Fusion: Trends, Solutions and Applications},
+ doix = {},
+ month = {November},
+ pdfx = {SDF25_Frisch.pdf},
+ title = {Fokker-Planck Prediction on the Cylindric Manifold using Tensor Decomposition of a Regular Grid},
+ urlx = {},
  year = {2025}
 }
 
@@ -123,30 +149,6 @@
  pdf = {arXiv25_Walker.pdf},
  title = {Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples},
  url = {https://arxiv.org/abs/2510.05706},
- year = {2025}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="EUSIPCO2025_Siebler" class="entry">
-<td><div class="balken-inproceedings"></div>
-</td>
-<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>The 33rd European Signal Processing Conference (EUSIPCO 2025), Isola delle Femmine, Palermo, Italy, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('EUSIPCO2025_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EUSIPCO2025_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
-</td>
-</tr>
-<tr id="bib_EUSIPCO2025_Siebler" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@inproceedings{EUSIPCO2025_Siebler,
- address = {Isola delle Femmine, Palermo, Italy},
- author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
- booktitle = {The 33rd European Signal Processing Conference (EUSIPCO 2025)},
- month = {September},
- pdf = {EUSIPCO2025_Siebler.pdf},
- title = {Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers},
  year = {2025}
 }
 
@@ -268,6 +270,30 @@
  month = {September},
  pdf = {MFI25_Zhou.pdf},
  title = {Joint Pose and Shape Estimation of 3D Extended Objects Using Recursive Tangent-Space Bayesian Filtering on SO(3)},
+ year = {2025}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="EUSIPCO2025_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>The 33rd European Signal Processing Conference (EUSIPCO 2025), Isola delle Femmine, Palermo, Italy, September, 2025.
+<p class="infolinks"> <a href="javascript:toggleInfo('EUSIPCO2025_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EUSIPCO2025_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_EUSIPCO2025_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{EUSIPCO2025_Siebler,
+ address = {Isola delle Femmine, Palermo, Italy},
+ author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {The 33rd European Signal Processing Conference (EUSIPCO 2025)},
+ month = {September},
+ pdf = {EUSIPCO2025_Siebler.pdf},
+ title = {Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers},
  year = {2025}
 }
 
