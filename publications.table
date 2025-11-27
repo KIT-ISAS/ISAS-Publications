@@ -109,7 +109,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Fokker-Planck Prediction on the Cylindric Manifold using Tensor Decomposition of a Regular Grid</b>,</br>17th Symposium Sensor Data Fusion: Trends, Solutions and Applications, Bonn, Germany, November, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('SDF25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SDF25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_SDF25_Frisch" class="bibtex noshow"><td></td>
@@ -121,7 +121,7 @@
  booktitle = {17th Symposium Sensor Data Fusion: Trends, Solutions and Applications},
  doix = {},
  month = {November},
- pdfx = {SDF25_Frisch.pdf},
+ pdf = {SDF25_Frisch.pdf},
  title = {Fokker-Planck Prediction on the Cylindric Manifold using Tensor Decomposition of a Regular Grid},
  urlx = {},
  year = {2025}
