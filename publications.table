@@ -63,7 +63,7 @@
 <pre>
 @article{PT25_Bauer,
  author = {Albert Bauer and Jiachen Zhou and Uwe D. Hanebeck and Harald Kruggel-Emden},
- doi = {https://doi.org/10.1016/j.powtec.2025.121193},
+ doi = {10.1016/j.powtec.2025.121193},
  issn = {0032-5910},
  journal = {Powder Technology},
  pages = {121193},
@@ -160,7 +160,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Leon Winheim, Uwe D. Hanebeck</i>,</br> <b>BNN Training as State Estimation: A Progressive Filtering Approach</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Winheim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Winheim.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Winheim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Winheim.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259353" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Winheim" class="bibtex noshow"><td></td>
@@ -170,9 +170,11 @@
  address = {College Station, Texas},
  author = {Leon Winheim and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)},
+ doi = {10.1109/MFI67357.2025.11259353},
  month = {September},
  pdf = {MFI25_Winheim.pdf},
  title = {BNN Training as State Estimation: A Progressive Filtering Approach},
+ url = {https://ieeexplore.ieee.org/document/11259353},
  year = {2025}
 }
 
@@ -184,7 +186,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Weaknesses of the ANEES and New Calibration Measures for Multivariate Predictions</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259249" target="_blank">URL</a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Walker" class="bibtex noshow"><td></td>
@@ -195,9 +197,11 @@
  annote = {<b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Markus Walker and Marcel Reith-Braun and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)},
+ doi = {10.1109/MFI67357.2025.11259249},
  month = {September},
  pdf = {MFI25_Walker.pdf},
  title = {Weaknesses of the ANEES and New Calibration Measures for Multivariate Predictions},
+ url = {https://ieeexplore.ieee.org/document/11259249},
  year = {2025}
 }
 
@@ -209,7 +213,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Dominik Prossel, Andrey A. Popov, Felipe Giraldo-Grueso, Renato Zanetti</i>,</br> <b>Ensemble Gaussian Mixture Filter based on Projected Cramér-von Mises Distance</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259284" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Hanebeck" class="bibtex noshow"><td></td>
@@ -219,9 +223,11 @@
  address = {College Station, Texas},
  author = {Uwe D. Hanebeck and Dominik Prossel and Andrey A. Popov and Felipe Giraldo-Grueso and Renato Zanetti},
  booktitle = {Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)},
+ doi = {10.1109/MFI67357.2025.11259284},
  month = {September},
  pdf = {MFI25_Hanebeck.pdf},
  title = {Ensemble Gaussian Mixture Filter based on Projected Cramér-von Mises Distance},
+ url = {https://ieeexplore.ieee.org/document/11259284},
  year = {2025}
 }
 
@@ -233,7 +239,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Why You Shouldn't Use TDOA for Multilateration</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259346" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Frisch" class="bibtex noshow"><td></td>
@@ -243,9 +249,11 @@
  address = {College Station, Texas},
  author = {Daniel Frisch and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)},
+ doi = {10.1109/MFI67357.2025.11259346},
  month = {September},
  pdf = {MFI25_Frisch.pdf},
  title = {Why You Shouldn't Use TDOA for Multilateration},
+ url = {https://ieeexplore.ieee.org/document/11259346},
  year = {2025}
 }
 
@@ -257,7 +265,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiachen Zhou, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>Joint Pose and Shape Estimation of 3D Extended Objects Using Recursive Tangent-Space Bayesian Filtering on SO(3)</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259287" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Zhou" class="bibtex noshow"><td></td>
@@ -267,9 +275,11 @@
  address = {College Station, Texas},
  author = {Jiachen Zhou and Harald Kruggel-Emden and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025)},
+ doi = {10.1109/MFI67357.2025.11259287},
  month = {September},
  pdf = {MFI25_Zhou.pdf},
  title = {Joint Pose and Shape Estimation of 3D Extended Objects Using Recursive Tangent-Space Bayesian Filtering on SO(3)},
+ url = {https://ieeexplore.ieee.org/document/11259287},
  year = {2025}
 }
 
@@ -522,7 +532,7 @@
  address = {Rio de Janeiro, Brazil},
  author = {Jiachen Zhou and Uwe D. Hanebeck and Albert Bauer and Harald Kruggel-Emden},
  booktitle = {Proceedings of the 28th International Conference on Information Fusion (FUSION 2025)},
- doi = {https://ieeexplore.ieee.org/document/11124170},
+ doi = {10.23919/FUSION65864.2025.11124170},
  month = {July},
  pdf = {FUSION25_Zhou_Bauer.pdf},
  title = {Stochastic Medial Axis Transform for Bayesian Extended Object Tracking},
