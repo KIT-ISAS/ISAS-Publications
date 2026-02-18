@@ -30,7 +30,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Felipe Giraldo Grueso, Andrey A. Popov, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination</b>,</br>The Journal of the Astronautical Sciences, pp. 1–34, Springer Nature, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAS25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAS25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAS25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAS25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/article/10.1007/s40295-025-00521-7" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAS25_GiraldoGrueso" class="bibtex noshow"><td></td>
@@ -45,6 +45,7 @@
  pdf = {JAS25_GiraldoGrueso.pdf},
  publisher = {Springer Nature},
  title = {Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination},
+ url = {https://link.springer.com/article/10.1007/s40295-025-00521-7},
  year = {2025}
 }
 
@@ -137,7 +138,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Fokker-Planck Prediction on the Cylindric Manifold using Tensor Decomposition of a Regular Grid</b>,</br>17th Symposium Sensor Data Fusion: Trends, Solutions and Applications, Bonn, Germany, November, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('SDF25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SDF25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/11330240" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SDF25_Frisch" class="bibtex noshow"><td></td>
@@ -147,11 +148,11 @@
  address = {Bonn, Germany},
  author = {Daniel Frisch and Uwe D. Hanebeck},
  booktitle = {17th Symposium Sensor Data Fusion: Trends, Solutions and Applications},
- doix = {},
+ doi = {10.1109/SDF67080.2025.11330240},
  month = {November},
  pdf = {SDF25_Frisch.pdf},
  title = {Fokker-Planck Prediction on the Cylindric Manifold using Tensor Decomposition of a Regular Grid},
- urlx = {},
+ url = {https://ieeexplore.ieee.org/abstract/document/11330240},
  year = {2025}
 }
 
@@ -319,7 +320,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>The 33rd European Signal Processing Conference (EUSIPCO 2025), Isola delle Femmine, Palermo, Italy, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('EUSIPCO2025_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EUSIPCO2025_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('EUSIPCO2025_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EUSIPCO2025_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/11226624" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_EUSIPCO2025_Siebler" class="bibtex noshow"><td></td>
@@ -329,9 +330,11 @@
  address = {Isola delle Femmine, Palermo, Italy},
  author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
  booktitle = {The 33rd European Signal Processing Conference (EUSIPCO 2025)},
+ doi = {10.23919/EUSIPCO63237.2025.11226624},
  month = {September},
  pdf = {EUSIPCO2025_Siebler.pdf},
  title = {Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers},
+ url = {https://ieeexplore.ieee.org/abstract/document/11226624},
  year = {2025}
 }
 
@@ -7900,7 +7903,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Marcus Baum, Peter Willett, Uwe D. Hanebeck</i>,</br> <b>Polynomial-Time Algorithms for the Exact MMOSPA Estimate of a Multi-Object Probability Density Represented by Particles</b>,</br>IEEE Transactions on Signal Processing, pp. 2476–2484, May, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('TSP15_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://ieeexplore.ieee.org/document/7041175/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TSP15_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TSP15_Baum.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/7041175/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TSP15_Baum" class="bibtex noshow"><td></td>
@@ -7913,6 +7916,7 @@ Inverse Covariance Intersection},
  month = {May},
  number = {10},
  pages = {2476–2484},
+ pdf = {TSP15_Baum.pdf},
  title = {Polynomial-Time Algorithms for the Exact MMOSPA Estimate of a Multi-Object Probability Density Represented by Particles},
  url = {http://ieeexplore.ieee.org/document/7041175/},
  year = {2015}
@@ -8528,7 +8532,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Antonio Zea, Florian Faion, Uwe D. Hanebeck</i>,</br> <b>Tracking Connected Objects Using Interacting Shape Models</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916182" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Zea" class="bibtex noshow"><td></td>
@@ -8541,6 +8545,7 @@ Inverse Covariance Intersection},
  month = {July},
  pdf = {Fusion14_Zea.pdf},
  title = {Tracking Connected Objects Using Interacting Shape Models},
+ url = {https://ieeexplore.ieee.org/document/6916182},
  year = {2014}
 }
 
@@ -8552,7 +8557,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jannik Steinbring, Uwe D. Hanebeck</i>,</br> <b>Progressive Gaussian Filtering Using Explicit Likelihoods</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Steinbring','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Steinbring.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Steinbring','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Steinbring.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916053" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Steinbring" class="bibtex noshow"><td></td>
@@ -8565,6 +8570,7 @@ Inverse Covariance Intersection},
  month = {July},
  pdf = {Fusion14_Steinbring.pdf},
  title = {Progressive Gaussian Filtering Using Explicit Likelihoods},
+ url = {https://ieeexplore.ieee.org/document/6916053},
  year = {2014}
 }
 
@@ -8600,7 +8606,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Marc Reinhardt, Benjamin Noack, Sanjeev Kulkarni, Uwe D. Hanebeck</i>,</br> <b>Distributed Kalman Filtering in the Presence of Packet Delays and Losses</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Reinhardt','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Reinhardt.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Reinhardt','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Reinhardt.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6915998" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Reinhardt" class="bibtex noshow"><td></td>
@@ -8613,6 +8619,7 @@ Inverse Covariance Intersection},
  month = {July},
  pdf = {Fusion14_Reinhardt.pdf},
  title = {Distributed Kalman Filtering in the Presence of Packet Delays and Losses},
+ url = {https://ieeexplore.ieee.org/document/6915998},
  year = {2014}
 }
 
@@ -8624,7 +8631,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Benjamin Noack, Marc Reinhardt, Uwe D. Hanebeck</i>,</br> <b>On Nonlinear Track-to-track Fusion with Gaussian Mixtures</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/6916008" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Noack" class="bibtex noshow"><td></td>
@@ -8634,9 +8641,11 @@ Inverse Covariance Intersection},
  address = {Salamanca, Spain},
  author = {Benjamin Noack and Marc Reinhardt and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_Noack.pdf},
  title = {On Nonlinear Track-to-track Fusion with Gaussian Mixtures},
+ url = {https://ieeexplore.ieee.org/abstract/document/6916008},
  year = {2014}
 }
 
@@ -8648,7 +8657,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Gerhard Kurz, Igor Gilitschenski, Uwe D. Hanebeck</i>,</br> <b>Deterministic Approximation of Circular Densities with Symmetric Dirac Mixtures Based on Two Circular Moments</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_KurzGilitschenski','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_KurzGilitschenski.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/Fusion2014_best_paper_award.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_KurzGilitschenski','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_KurzGilitschenski.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916063" target="_blank">URL</a> <font color="red"><b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/Fusion2014_best_paper_award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_KurzGilitschenski" class="bibtex noshow"><td></td>
@@ -8659,9 +8668,11 @@ Inverse Covariance Intersection},
  annote = {<b>Winner Best Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/Fusion2014_best_paper_award.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Gerhard Kurz and Igor Gilitschenski and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_KurzGilitschenski.pdf},
  title = {Deterministic Approximation of Circular Densities with Symmetric Dirac Mixtures Based on Two Circular Moments},
+ url = {https://ieeexplore.ieee.org/document/6916063},
  year = {2014}
 }
 
@@ -8673,7 +8684,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Gerhard Kurz, Uwe D. Hanebeck</i>,</br> <b>2D and 3D Image Stabilization for Robotic Beating Heart Surgery</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916180" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Kurz" class="bibtex noshow"><td></td>
@@ -8683,9 +8694,11 @@ Inverse Covariance Intersection},
  address = {Salamanca, Spain},
  author = {Gerhard Kurz and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_Kurz.pdf},
  title = {2D and 3D Image Stabilization for Robotic Beating Heart Surgery},
+ url = {https://ieeexplore.ieee.org/document/6916180},
  year = {2014}
 }
 
@@ -8697,7 +8710,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>Sample Set Design for Nonlinear Kalman Filters viewed as a Moment Problem</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916212" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Hanebeck" class="bibtex noshow"><td></td>
@@ -8707,9 +8720,11 @@ Inverse Covariance Intersection},
  address = {Salamanca, Spain},
  author = {Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_Hanebeck.pdf},
  title = {Sample Set Design for Nonlinear Kalman Filters viewed as a Moment Problem},
+ url = {https://ieeexplore.ieee.org/document/6916212},
  year = {2014}
 }
 
@@ -8721,7 +8736,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Igor Gilitschenski, Gerhard Kurz, Simon J. Julier, Uwe D. Hanebeck</i>,</br> <b>A New Probability Distribution for Simultaneous Representation of Uncertain Position and Orientation</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_GilitschenskiKurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_GilitschenskiKurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <font color="red"><b>Best Student Paper Award First Runner-Up</b> <a href="https://isas.iar.kit.edu/pdf/award/Fusion2014_best_student_paper_award_first_runner_up.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_GilitschenskiKurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_GilitschenskiKurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916001" target="_blank">URL</a> <font color="red"><b>Best Student Paper Award First Runner-Up</b> <a href="https://isas.iar.kit.edu/pdf/award/Fusion2014_best_student_paper_award_first_runner_up.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_GilitschenskiKurz" class="bibtex noshow"><td></td>
@@ -8732,9 +8747,11 @@ Inverse Covariance Intersection},
  annote = {<b>Best Student Paper Award First Runner-Up</b> <a href="https://isas.iar.kit.edu/pdf/award/Fusion2014_best_student_paper_award_first_runner_up.pdf" target="_blank">Certificate (PDF)</a>},
  author = {Igor Gilitschenski and Gerhard Kurz and Simon J. Julier and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isnb = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_GilitschenskiKurz.pdf},
  title = {A New Probability Distribution for Simultaneous Representation of Uncertain Position and Orientation},
+ url = {https://ieeexplore.ieee.org/document/6916001},
  year = {2014}
 }
 
@@ -8746,7 +8763,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Igor Gilitschenski, Jannik Steinbring, Uwe D. Hanebeck, Miroslav Simandl</i>,</br> <b>Deterministic Dirac Mixture Approximation of Gaussian Mixtures</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_GilitschenskiSteinbring','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_GilitschenskiSteinbring.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_GilitschenskiSteinbring','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_GilitschenskiSteinbring.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916002" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_GilitschenskiSteinbring" class="bibtex noshow"><td></td>
@@ -8756,9 +8773,11 @@ Inverse Covariance Intersection},
  address = {Salamanca, Spain},
  author = {Igor Gilitschenski and Jannik Steinbring and Uwe D. Hanebeck and Miroslav Simandl},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_GilitschenskiSteinbring.pdf},
  title = {Deterministic Dirac Mixture Approximation of Gaussian Mixtures},
+ url = {https://ieeexplore.ieee.org/document/6916002},
  year = {2014}
 }
 
@@ -8770,7 +8789,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Florian Faion, Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Reducing Bias in Bayesian Shape Estimation</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Faion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Faion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Faion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Faion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916188" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Faion" class="bibtex noshow"><td></td>
@@ -8780,9 +8799,11 @@ Inverse Covariance Intersection},
  address = {Salamanca, Spain},
  author = {Florian Faion and Antonio Zea and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_Faion.pdf},
  title = {Reducing Bias in Bayesian Shape Estimation},
+ url = {https://ieeexplore.ieee.org/document/6916188},
  year = {2014}
 }
 
@@ -8794,7 +8815,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Zhansheng Duan, Xiao-Rong Li, Uwe D. Hanebeck</i>,</br> <b>Multi-sensor Distributed Estimation Fusion Using Minimum Distance Sum</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Duan','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Duan.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Duan','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Duan.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916177" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Duan" class="bibtex noshow"><td></td>
@@ -8804,9 +8825,11 @@ Inverse Covariance Intersection},
  address = {Salamanca, Spain},
  author = {Zhansheng Duan and Xiao-Rong Li and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_Duan.pdf},
  title = {Multi-sensor Distributed Estimation Fusion Using Minimum Distance Sum},
+ url = {https://ieeexplore.ieee.org/document/6916177},
  year = {2014}
 }
 
@@ -8818,7 +8841,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Christof Chlebek, Uwe D. Hanebeck</i>,</br> <b>Pole-based Distance Measure for Change Detection in Linear Dynamic Systems</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Chlebek','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Chlebek.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Chlebek','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Chlebek.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916014" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Chlebek" class="bibtex noshow"><td></td>
@@ -8828,9 +8851,11 @@ Inverse Covariance Intersection},
  address = {Salamanca, Spain},
  author = {Christof Chlebek and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_Chlebek.pdf},
  title = {Pole-based Distance Measure for Change Detection in Linear Dynamic Systems},
+ url = {https://ieeexplore.ieee.org/document/6916014},
  year = {2014}
 }
 
@@ -8842,7 +8867,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiří Ajgl, Miroslav Šimandl, Marc Reinhardt, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Covariance Intersection in State Estimation of Dynamical Systems</b>,</br>Proceedings of the 17th International Conference on Information Fusion (Fusion 2014), Salamanca, Spain, July, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Ajgl','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Ajgl.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion14_Ajgl','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion14_Ajgl.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/6916138" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion14_Ajgl" class="bibtex noshow"><td></td>
@@ -8852,9 +8877,11 @@ Inverse Covariance Intersection},
  address = {Salamanca, Spain},
  author = {Jiří Ajgl and Miroslav Šimandl and Marc Reinhardt and Benjamin Noack and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 17th International Conference on Information Fusion (Fusion 2014)},
+ isbn = {978-8-4901-2355-3},
  month = {July},
  pdf = {Fusion14_Ajgl.pdf},
  title = {Covariance Intersection in State Estimation of Dynamical Systems},
+ url = {https://ieeexplore.ieee.org/document/6916138},
  year = {2014}
 }
 
@@ -9208,7 +9235,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-other"></div>
 </td>
 <td> <i>Tobias Kretz, Stefan Hengst, Antonia Pérez Arias, Simon Friedberger, Uwe D. Hanebeck</i>,</br> <b>Using a Telepresence System to Investigate Route Choice Behavior</b>,</br>Traffic and Granular Flow 2011, pp. 139–148, springer berlin, 2013.
-<p class="infolinks"> <a href="javascript:toggleInfo('TFG13_Kretz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://link.springer.com/10.1007/978-3-642-39669-4_14" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TFG13_Kretz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TFG13_Kretz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/10.1007/978-3-642-39669-4_14" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TFG13_Kretz" class="bibtex noshow"><td></td>
@@ -9219,6 +9246,7 @@ Inverse Covariance Intersection},
  doi = {10.1007/978-3-642-39669-4_14},
  journal = {Traffic and Granular Flow 2011},
  pages = {139–148},
+ pdf = {TFG13_Kretz.pdf},
  publisher = {springer berlin},
  title = {Using a Telepresence System to Investigate Route Choice Behavior},
  type = {Conference paper},
@@ -12447,7 +12475,7 @@ Simon Friedberger and Uwe D. Hanebeck},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Benjamin Noack, Vesa Klumpp, Daniel Lyons, Uwe D. Hanebeck</i>,</br> <b>Systematische Beschreibung von Unsicherheiten in der Informationsfusion mit Mengen von Wahrscheinlichkeitsdichten</b>,</br>Verteilte Messsysteme, pp. 167–178, KIT Scientific Publishing, March, 2010.
-<p class="infolinks"> <a href="javascript:toggleInfo('VMS10_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://publikationen.bibliothek.kit.edu/1000015670" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('VMS10_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/VMS10_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publikationen.bibliothek.kit.edu/1000015670" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_VMS10_Noack" class="bibtex noshow"><td></td>
@@ -12459,6 +12487,7 @@ Simon Friedberger and Uwe D. Hanebeck},
  editor = {Fernando Puente León and Klaus-Dieter Sommer and Michael Heizmann},
  month = {March},
  pages = {167–178},
+ pdf = {VMS10_Noack.pdf},
  publisher = {KIT Scientific Publishing},
  title = {Systematische Beschreibung von Unsicherheiten in der Informationsfusion mit Mengen von Wahrscheinlichkeitsdichten},
  url = {https://publikationen.bibliothek.kit.edu/1000015670},
@@ -12473,7 +12502,7 @@ Simon Friedberger and Uwe D. Hanebeck},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Daniel Lyons, Achim Hekler, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Maße für Wahrscheinlichkeitsdichten in der informationstheoretischen Sensoreinsatzplanung</b>,</br>Verteilte Messsysteme, pp. 121–132, KIT Scientific Publishing, March, 2010.
-<p class="infolinks"> <a href="javascript:toggleInfo('VMS10_Lyons','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://publikationen.bibliothek.kit.edu/1000015670" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('VMS10_Lyons','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/VMS10_Lyons.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publikationen.bibliothek.kit.edu/1000015670" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_VMS10_Lyons" class="bibtex noshow"><td></td>
@@ -12485,6 +12514,7 @@ Simon Friedberger and Uwe D. Hanebeck},
  editor = {Fernando Puente León and Klaus-Dieter Sommer and Michael Heizmann},
  month = {March},
  pages = {121–132},
+ pdf = {VMS10_Lyons.pdf},
  publisher = {KIT Scientific Publishing},
  title = {Maße für Wahrscheinlichkeitsdichten in der informationstheoretischen Sensoreinsatzplanung},
  url = {https://publikationen.bibliothek.kit.edu/1000015670},
@@ -12499,7 +12529,7 @@ Simon Friedberger and Uwe D. Hanebeck},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Achim Kuwertz, Marco F. Huber, Felix Sawo, Uwe D. Hanebeck</i>,</br> <b>Sensoreinsatzplanung zur Verfolgung von Quellen räumlich ausgedehnter Phänomene</b>,</br>Verteilte Messsysteme, pp. 179–191, KIT Scientific Publishing, March, 2010.
-<p class="infolinks"> <a href="javascript:toggleInfo('VMS10_Kuwertz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://publikationen.bibliothek.kit.edu/1000015670" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('VMS10_Kuwertz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/VMS10_Kuwertz" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publikationen.bibliothek.kit.edu/1000015670" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_VMS10_Kuwertz" class="bibtex noshow"><td></td>
@@ -12511,6 +12541,7 @@ Simon Friedberger and Uwe D. Hanebeck},
  editor = {Fernando Puente León and Klaus-Dieter Sommer and Michael Heizmann},
  month = {March},
  pages = {179–191},
+ pdf = {VMS10_Kuwertz},
  publisher = {KIT Scientific Publishing},
  title = {Sensoreinsatzplanung zur Verfolgung von Quellen räumlich ausgedehnter Phänomene},
  url = {https://publikationen.bibliothek.kit.edu/1000015670},
@@ -12581,7 +12612,7 @@ Simulations},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Hui Wang, Andrei Szabo, Joachim Bamberger, Uwe D. Hanebeck</i>,</br> <b>Simultaneous Multi-Information Fusion and Parameter Estimation for Robust 3-D Indoor Positioning Systems</b>,</br>Multisensor Fusion and Integration for Intelligent Systems: An Edition of the Selected Papers from the IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems 2008, pp. 111–125, Springer Berlin Heidelberg, Berlin, Heidelberg, Lecture Notes in Electrical Engineering, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI09_Wang','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://link.springer.com/10.1007/978-3-540-89859-7_9" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI09_Wang','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI09_Wang.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/10.1007/978-3-540-89859-7_9" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI09_Wang" class="bibtex noshow"><td></td>
@@ -12595,6 +12626,7 @@ Simulations},
  editor = {Hernsoo Hahn and Hanseok Ko and Sukhan Lee},
  isbn = {978-3-540-89859-7},
  pages = {111–125},
+ pdf = {MFI09_Wang.pdf},
  publisher = {Springer Berlin Heidelberg},
  series = {Lecture Notes in Electrical Engineering},
  title = {Simultaneous Multi-Information Fusion and Parameter Estimation for Robust 3-D Indoor Positioning Systems},
@@ -12610,7 +12642,7 @@ Simulations},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Klaus-Dieter Sommer, Uwe D. Hanebeck, Michael Krystek, Felix Sawo</i>,</br> <b>Modelling of Dynamic Measurement Systems and Uncertainty Analysis Employing Discretised State-Space Forms</b>,</br>Advanced Mathematical and Computational Tools in Metrology and Testing VIII, pp. 309–318, World Scientific Publishing Co., 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('AMAS09_Sommer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://www.worldscientific.com/doi/abs/10.1142/9789812839527_0044" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AMAS09_Sommer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AMAS09_Sommer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://www.worldscientific.com/doi/abs/10.1142/9789812839527_0044" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AMAS09_Sommer" class="bibtex noshow"><td></td>
@@ -12623,6 +12655,7 @@ Simulations},
  isbn = {978-981283952-7},
  language = {English},
  pages = {309–318},
+ pdf = {AMAS09_Sommer.pdf},
  publisher = {World Scientific Publishing Co.},
  title = {Modelling of Dynamic Measurement Systems and Uncertainty Analysis Employing Discretised State-Space Forms},
  type = {Book chapter},
@@ -12638,7 +12671,7 @@ Simulations},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Klaus–Dieter Sommer, Uwe D. Hanebeck, Michael Krystek, Anna-Lisa Hauswaldt, Albert Weckenmann</i>,</br> <b>Modelling of dynamic measurements for uncertainty analysis by means of discretized state-space forms</b>,</br>19th IMEKO World Congress 2009, 1:290–294, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('IMEKO09_Sommer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.imeko.org/index.php/proceedings/2527-modelling-of-dynamic-measurements-for-uncertainty-analysis-by-means-of-discretised-state-space-forms" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IMEKO09_Sommer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IMEKO09_Sommer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.imeko.org/index.php/proceedings/2527-modelling-of-dynamic-measurements-for-uncertainty-analysis-by-means-of-discretised-state-space-forms" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IMEKO09_Sommer" class="bibtex noshow"><td></td>
@@ -12648,6 +12681,7 @@ Simulations},
  author = {Klaus–Dieter Sommer and Uwe D. Hanebeck and Michael Krystek and Anna-Lisa Hauswaldt and Albert Weckenmann},
  journal = {19th IMEKO World Congress 2009},
  pages = {290–294},
+ pdf = {IMEKO09_Sommer.pdf},
  title = {Modelling of dynamic measurements for uncertainty analysis by means of discretized state-space forms},
  url = {https://www.imeko.org/index.php/proceedings/2527-modelling-of-dynamic-measurements-for-uncertainty-analysis-by-means-of-discretised-state-space-forms},
  volume = {1},
@@ -12662,7 +12696,7 @@ Simulations},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>G.F. Schwarzenberg, U. Mayer, N.V. Ruiter, Uwe D. Hanebeck</i>,</br> <b>3D reflectivity reconstruction by means of spatially distributed Kalman filters</b>,</br>Lecture Notes in Electrical Engineering, 35 LNEE:407–421, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('LNEE09_Schwarzenberg','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://link.springer.com/10.1007/978-3-540-89859-7_28" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('LNEE09_Schwarzenberg','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LNEE09_Schwarzenberg.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/10.1007/978-3-540-89859-7_28" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_LNEE09_Schwarzenberg" class="bibtex noshow"><td></td>
@@ -12675,6 +12709,7 @@ Simulations},
  issn = {18761119},
  journal = {Lecture Notes in Electrical Engineering},
  pages = {407–421},
+ pdf = {LNEE09_Schwarzenberg.pdf},
  title = {3D reflectivity reconstruction by means of spatially distributed Kalman filters},
  type = {Conference paper},
  url = {https://link.springer.com/10.1007/978-3-540-89859-7_28},
@@ -12690,7 +12725,7 @@ Simulations},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Felix Sawo, Thomas C. Henderson, Christopher Sikorski, Uwe D. Hanebeck</i>,</br> <b>Passive localization methods exploiting models of distributed natural phenomena</b>,</br>Lecture Notes in Electrical Engineering, 35 LNEE:375–392, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('LNEE09_Sawo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://link.springer.com/10.1007/978-3-540-89859-7_26" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('LNEE09_Sawo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LNEE09_Sawo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/10.1007/978-3-540-89859-7_26" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_LNEE09_Sawo" class="bibtex noshow"><td></td>
@@ -12704,6 +12739,7 @@ Simulations},
  journal = {Lecture Notes in Electrical Engineering},
  language = {English},
  pages = {375–392},
+ pdf = {LNEE09_Sawo.pdf},
  title = {Passive localization methods exploiting models of distributed natural phenomena},
  type = {Conference paper},
  url = {https://link.springer.com/10.1007/978-3-540-89859-7_26},
@@ -12719,7 +12755,7 @@ Simulations},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Chongning Na, Hui Wang, Dragan Obradovic, Uwe D. Hanebeck</i>,</br> <b>Fourier density approximation for belief propagation in wireless sensor networks</b>,</br>Lecture Notes in Electrical Engineering, 35 LNEE:359–373, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('LNEE09_Na','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://link.springer.com/10.1007/978-3-540-89859-7_25" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('LNEE09_Na','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LNEE09_Na.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/10.1007/978-3-540-89859-7_25" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_LNEE09_Na" class="bibtex noshow"><td></td>
@@ -12733,6 +12769,7 @@ Simulations},
  journal = {Lecture Notes in Electrical Engineering},
  language = {English},
  pages = {359–373},
+ pdf = {LNEE09_Na.pdf},
  title = {Fourier density approximation for belief propagation in wireless sensor networks},
  type = {Conference paper},
  url = {https://link.springer.com/10.1007/978-3-540-89859-7_25},
@@ -12777,7 +12814,7 @@ Simulations},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Marc Peter Deisenroth, Marco F. Huber, Uwe D. Hanebeck</i>,</br> <b>Analytic moment-based gaussian process filtering</b>,</br>ACM International Conference Proceeding Series, 2009.
-<p class="infolinks"> <a href="javascript:toggleInfo('ACM09_Deisenroth','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://dl.acm.org/doi/10.1145/1553374.1553403" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ACM09_Deisenroth','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACM09_Deisenroth.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://dl.acm.org/doi/10.1145/1553374.1553403" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ACM09_Deisenroth" class="bibtex noshow"><td></td>
@@ -12788,6 +12825,7 @@ Simulations},
  doi = {10.1145/1553374.1553403},
  isbn = {978-160558516-1},
  language = {English},
+ pdf = {ACM09_Deisenroth.pdf},
  series = {ACM International Conference Proceeding Series},
  title = {Analytic moment-based gaussian process filtering},
  type = {Conference paper},
