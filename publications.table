@@ -1,5 +1,58 @@
 <table id="qs_table" border="1"><tbody>
 <tr class="year"><td></td><td><a name="2026"></a>2026</td></tr>
+<tr id="Measurement2026_SonglinLi" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Songlin Li, Ting Yuan, Jiawei Fan, Haonan Zhang, Zhuguo Li, Uwe D. Hanebeck, Jiuchao Qian</i>,</br> <b>Fusiform-Aware Network for online laser welding penetration state monitoring by the utilization of vision measurement system</b>,</br>Measurement, 272:121107, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('Measurement2026_SonglinLi','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Measurement2026_SonglinLi.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S026322412600816X" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_Measurement2026_SonglinLi" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{Measurement2026_SonglinLi,
+ author = {Songlin Li and Ting Yuan and Jiawei Fan and Haonan Zhang and Zhuguo Li and Uwe D. Hanebeck and Jiuchao Qian},
+ doi = {10.1016/j.measurement.2026.121107},
+ issn = {0263-2241},
+ journal = {Measurement},
+ pages = {121107},
+ pdf = {Measurement2026_SonglinLi.pdf},
+ title = {Fusiform-Aware Network for online laser welding penetration state monitoring by the utilization of vision measurement system},
+ url = {https://www.sciencedirect.com/science/article/pii/S026322412600816X},
+ volume = {272},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="Sensors2026_Fan" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Jiawei Fan, Ting Yuan, Haonan Zhang, Songlin Li, Uwe D. Hanebeck, Zhuguo Li</i>,</br> <b>DMAW: A Dynamic Multimodal Measurement Fusion Network With Attention for Reliable Welding Process Monitoring Under Harsh Industrial Environments</b>,</br>IEEE Sensors Journal, 26(2):2347–2358, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('Sensors2026_Fan','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Sensors2026_Fan.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_Sensors2026_Fan" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{Sensors2026_Fan,
+ author = {Jiawei Fan and Ting Yuan and Haonan Zhang and Songlin Li and Uwe D. Hanebeck and Zhuguo Li},
+ doi = {10.1109/JSEN.2025.3634585},
+ journal = {IEEE Sensors Journal},
+ number = {2},
+ pages = {2347-2358},
+ pdf = {Sensors2026_Fan.pdf},
+ title = {DMAW: A Dynamic Multimodal Measurement Fusion Network With Attention for Reliable Welding Process Monitoring Under Harsh Industrial Environments},
+ volume = {26},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="arXiv25_Walker_2" class="entry">
 <td><div class="balken-other"></div>
 </td>
@@ -734,7 +787,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Zheng Wei, Zhansheng Duan, Uwe D. Hanebeck</i>,</br> <b>Distributed Fusion of Multiple Model Estimators Using Minimum Forward Kullback-Leibler Divergence Sum</b>,</br>IEEE Transactions on Aerospace and Electronic Systems, pp. 1–15, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('TAES24_Wei','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TAES24_Wei" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10415171/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TAES24_Wei','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TAES24_Wei.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10415171/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TAES24_Wei" class="bibtex noshow"><td></td>
@@ -745,7 +798,7 @@
  doi = {10.1109/TAES.2024.3358791},
  journal = {IEEE Transactions on Aerospace and Electronic Systems},
  pages = {1–15},
- pdf = {TAES24_Wei},
+ pdf = {TAES24_Wei.pdf},
  title = {Distributed Fusion of Multiple Model Estimators Using Minimum Forward Kullback-Leibler Divergence Sum},
  url = {https://ieeexplore.ieee.org/document/10415171/},
  year = {2024}
@@ -880,6 +933,31 @@
  pdf = {MFI24_Walker.pdf},
  title = {Multi-Scale Uncertainty Calibration Testing for Bayesian Neural Networks Using Ball Trees},
  url = {https://ieeexplore.ieee.org/document/10705766},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="ION-GNSS24_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Accuracy of Magnetic Field-Based Train Localization and the Impact of Unknown Calibration Parameters</b>,</br>Proceedings of the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2024), Baltimore, Maryland, September, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('ION-GNSS24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.ion.org/publications/abstract.cfm?articleID=19927" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_ION-GNSS24_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ION-GNSS24_Siebler,
+ address = {Baltimore, Maryland},
+ author = {Benjamin Siebler and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2024)},
+ doi = {10.33012/2024.19927},
+ month = {September},
+ title = {Accuracy of Magnetic Field-Based Train Localization and the Impact of Unknown Calibration Parameters},
+ url = {https://www.ion.org/publications/abstract.cfm?articleID=19927},
  year = {2024}
 }
 
@@ -2316,7 +2394,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Xianqing Li, Zhansheng Duan, Uwe D. Hanebeck</i>,</br> <b>Recursive joint Cramér-Rao lower bound for parametric systems with two-adjacent-states dependent measurements</b>,</br>IET Signal Processing, 15(4):221–237, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('IET21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IET21_Li" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1049/sil2.12025" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IET21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IET21_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1049/sil2.12025" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IET21_Li" class="bibtex noshow"><td></td>
@@ -2328,7 +2406,7 @@ Information Fusion (Fusion 2022)},
  journal = {IET Signal Processing},
  number = {4},
  pages = {221–237},
- pdf = {IET21_Li},
+ pdf = {IET21_Li.pdf},
  title = {Recursive joint Cramér-Rao lower bound for parametric systems with two-adjacent-states dependent measurements},
  url = {https://onlinelibrary.wiley.com/doi/10.1049/sil2.12025},
  volume = {15},
@@ -2885,7 +2963,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>iviz: A ROS visualization app for mobile devices</b>,</br>Software Impacts, 8:100057, May, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('SIMP21_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SIMP21_Zea" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S2665963821000051" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SIMP21_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SIMP21_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S2665963821000051" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SIMP21_Zea" class="bibtex noshow"><td></td>
@@ -2898,7 +2976,7 @@ Information Fusion (Fusion 2022)},
  journal = {Software Impacts},
  month = {May},
  pages = {100057},
- pdf = {SIMP21_Zea},
+ pdf = {SIMP21_Zea.pdf},
  title = {iviz: A ROS visualization app for mobile devices},
  url = {https://linkinghub.elsevier.com/retrieve/pii/S2665963821000051},
  volume = {8},
@@ -3802,7 +3880,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Correction to: Commentary to: TDOA versus ATDOA for wide area multilateration system</b>,</br>EURASIP Journal on Wireless Communications and Networking, 2020(1):107, May, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('EURASIP20_Frisch_Corr','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EURASIP20_Frisch_Corr" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-020-01704-6" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('EURASIP20_Frisch_Corr','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EURASIP20_Frisch_Corr.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-020-01704-6" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_EURASIP20_Frisch_Corr" class="bibtex noshow"><td></td>
@@ -3816,7 +3894,7 @@ Information Fusion (Fusion 2022)},
  month = {May},
  number = {1},
  pages = {107},
- pdf = {EURASIP20_Frisch_Corr},
+ pdf = {EURASIP20_Frisch_Corr.pdf},
  title = {Correction to: Commentary to: TDOA versus ATDOA for wide area multilateration system},
  url = {https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-020-01704-6},
  volume = {2020},
@@ -3884,7 +3962,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-proceedings"></div>
 </td>
 <td> <i>Florian Pfaff, Uwe D. Hanebeck (Eds.)</i>,</br> <b>Guest Editorial of the Special Issue on Sensor-Based Sorting</b>,</br>at – Automatisierungstechnik, April, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT20_Pfaff-Editorial','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT20_Pfaff-Editorial" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2020-0023/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT20_Pfaff-Editorial','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT20_Pfaff-Editorial.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2020-0023/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT20_Pfaff-Editorial" class="bibtex noshow"><td></td>
@@ -3895,7 +3973,7 @@ Information Fusion (Fusion 2022)},
  editor = {Florian Pfaff and Uwe D. Hanebeck},
  journal = {at – Automatisierungstechnik},
  month = {April},
- pdf = {AT20_Pfaff-Editorial},
+ pdf = {AT20_Pfaff-Editorial.pdf},
  title = {Guest Editorial of the Special Issue on Sensor-Based Sorting},
  url = {https://www.degruyter.com/document/doi/10.1515/auto-2020-0023/html},
  year = {2020}
@@ -3909,7 +3987,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Florian Pfaff, Christoph Pieper, Georg Maier, Benjamin Noack, Robin Gruna, Harald Kruggel-Emden, Uwe D. Hanebeck, Siegmar Wirtz, Viktor Scherer, Thomas Längle, Jürgen Beyerer</i>,</br> <b>Predictive Tracking with Improved Motion Models for Optical Belt Sorting</b>,</br>at – Automatisierungstechnik, April, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT20_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT20_Pfaff" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2019-0134/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT20_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT20_Pfaff.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2019-0134/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT20_Pfaff" class="bibtex noshow"><td></td>
@@ -3920,7 +3998,7 @@ Information Fusion (Fusion 2022)},
  doi = {10.1515/auto-2019-0134},
  journal = {at – Automatisierungstechnik},
  month = {April},
- pdf = {AT20_Pfaff},
+ pdf = {AT20_Pfaff.pdf},
  title = {Predictive Tracking with Improved Motion Models for Optical Belt Sorting},
  url = {https://www.degruyter.com/document/doi/10.1515/auto-2019-0134/html},
  year = {2020}
@@ -3934,7 +4012,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Georg Maier, Florian Pfaff, Andrea Bittner, Robin Gruna, Benjamin Noack, Harald Kruggel-Emden, Uwe D. Hanebeck, Thomas Längle, Jürgen Beyerer</i>,</br> <b>Characterizing Material Flow in Sensor-Based Sorting Systems Using an Instrumented Particle</b>,</br>at – Automatisierungstechnik, April, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT20_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT20_Maier" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2019-0128/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT20_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT20_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-2019-0128/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT20_Maier" class="bibtex noshow"><td></td>
@@ -3945,7 +4023,7 @@ Information Fusion (Fusion 2022)},
  doi = {10.1515/auto-2019-0128},
  journal = {at – Automatisierungstechnik},
  month = {April},
- pdf = {AT20_Maier},
+ pdf = {AT20_Maier.pdf},
  title = {Characterizing Material Flow in Sensor-Based Sorting Systems Using an Instrumented Particle},
  url = {https://www.degruyter.com/document/doi/10.1515/auto-2019-0128/html},
  year = {2020}
@@ -4010,7 +4088,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Commentary to: TDOA versus ATDOA for Wide Area Multilateration System</b>,</br>EURASIP Journal on Wireless Communications and Networking, 2020(1):43, February, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('EURASIP20_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EURASIP20_Frisch" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-020-1656-1" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('EURASIP20_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EURASIP20_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-020-1656-1" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_EURASIP20_Frisch" class="bibtex noshow"><td></td>
@@ -4024,7 +4102,7 @@ Information Fusion (Fusion 2022)},
  month = {February},
  number = {1},
  pages = {43},
- pdf = {EURASIP20_Frisch},
+ pdf = {EURASIP20_Frisch.pdf},
  title = {Commentary to: TDOA versus ATDOA for Wide Area Multilateration System},
  url = {https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-020-1656-1},
  volume = {2020},
@@ -4090,7 +4168,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Martin Klemm, Uwe D. Hanebeck, Harald Hoppe</i>,</br> <b>Control Algorithms for 3-DoF Handheld Robotic Devices Used in Orthopedic Surgery</b>,</br>Journal of Medical Robotics Research, 04(02):1950002, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('JMRR19_Klemm','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JMRR19_Klemm" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.worldscientific.com/doi/abs/10.1142/S2424905X19500028" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JMRR19_Klemm','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JMRR19_Klemm.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.worldscientific.com/doi/abs/10.1142/S2424905X19500028" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JMRR19_Klemm" class="bibtex noshow"><td></td>
@@ -4102,7 +4180,7 @@ Information Fusion (Fusion 2022)},
  journal = {Journal of Medical Robotics Research},
  number = {02},
  pages = {1950002},
- pdf = {JMRR19_Klemm},
+ pdf = {JMRR19_Klemm.pdf},
  title = {Control Algorithms for 3-DoF Handheld Robotic Devices Used in Orthopedic Surgery},
  url = {https://www.worldscientific.com/doi/abs/10.1142/S2424905X19500028},
  volume = {04},
@@ -4720,7 +4798,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Gerhard Kurz, Igor Gilitschenski, Florian Pfaff, Lukas Drude, Uwe D. Hanebeck, Reinhold Haeb-Umbach, Roland Y. Siegwart</i>,</br> <b>Directional Statistics and Filtering Using libDirectional</b>,</br>Journal of Statistical Software, May, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('JSS19_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JSS19_Kurz" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://www.jstatsoft.org/v89/i04/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JSS19_Kurz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JSS19_Kurz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://www.jstatsoft.org/v89/i04/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JSS19_Kurz" class="bibtex noshow"><td></td>
@@ -4731,7 +4809,7 @@ Inverse Covariance Intersection},
  doi = {10.18637/jss.v089.i04},
  journal = {Journal of Statistical Software},
  month = {May},
- pdf = {JSS19_Kurz},
+ pdf = {JSS19_Kurz.pdf},
  title = {Directional Statistics and Filtering Using libDirectional},
  url = {http://www.jstatsoft.org/v89/i04/},
  year = {2019}
@@ -4799,7 +4877,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Florian Rosenthal, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>State Estimation in Networked Control Systems with Delayed and Lossy Acknowledgments</b>,</br>Multisensor Fusion and Integration in the Wake of Big Data, Deep Learning and Cyber Physical System, pp. 22–38, Springer International Publishing, Cham, Lecture Notes in Electrical Engineering, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('LNEE18_Rosenthal','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LNEE18_Rosenthal" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://link.springer.com/10.1007/978-3-319-90509-9_2" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('LNEE18_Rosenthal','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LNEE18_Rosenthal.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://link.springer.com/10.1007/978-3-319-90509-9_2" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_LNEE18_Rosenthal" class="bibtex noshow"><td></td>
@@ -4813,7 +4891,7 @@ Inverse Covariance Intersection},
  editor = {Sukhan Lee and Hanseok Ko and Songhwai Oh},
  isbn = {978-3-319-90509-9},
  pages = {22–38},
- pdf = {LNEE18_Rosenthal},
+ pdf = {LNEE18_Rosenthal.pdf},
  publisher = {Springer International Publishing},
  series = {Lecture Notes in Electrical Engineering},
  title = {State Estimation in Networked Control Systems with Delayed and Lossy Acknowledgments},
@@ -5111,7 +5189,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Jindřich Duník, Ondřej Straka, Benjamin Noack, Jannik Steinbring, Uwe D. Hanebeck</i>,</br> <b>Directional Splitting of Gaussian Density in Non-Linear Random Variable Transformation</b>,</br>IET Signal Processing, 12(9):1073–1081, July, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('IETSP2018_Dunik','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IETSP2018_Dunik" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1049/iet-spr.2017.0286" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IETSP2018_Dunik','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IETSP2018_Dunik.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1049/iet-spr.2017.0286" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IETSP2018_Dunik" class="bibtex noshow"><td></td>
@@ -5125,7 +5203,7 @@ Inverse Covariance Intersection},
  month = {July},
  number = {9},
  pages = {1073–1081},
- pdf = {IETSP2018_Dunik},
+ pdf = {IETSP2018_Dunik.pdf},
  title = {Directional Splitting of Gaussian Density in Non-Linear Random Variable Transformation},
  url = {https://onlinelibrary.wiley.com/doi/10.1049/iet-spr.2017.0286},
  volume = {12},
@@ -5350,7 +5428,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-proceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Marcus Baum, Marco F. Huber (Eds.)</i>,</br> <b>Guest Editorial Special Section on Multisensor Fusion and Integration for Intelligent Systems</b>,</br>IEEE Transactions on Industrial Informatics, March, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('TII18_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TII18_Hanebeck" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/8306224/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TII18_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TII18_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/8306224/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TII18_Hanebeck" class="bibtex noshow"><td></td>
@@ -5361,7 +5439,7 @@ Inverse Covariance Intersection},
  editor = {Uwe D. Hanebeck and Marcus Baum and Marco F. Huber},
  journal = {IEEE Transactions on Industrial Informatics},
  month = {March},
- pdf = {TII18_Hanebeck},
+ pdf = {TII18_Hanebeck.pdf},
  title = {Guest Editorial Special Section on Multisensor Fusion and Integration for Intelligent Systems},
  url = {https://ieeexplore.ieee.org/document/8306224/},
  volume = {14},
@@ -7182,7 +7260,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Marcus Baum, Peter Willett, Uwe D. Hanebeck</i>,</br> <b>On Wasserstein Barycenters and MMOSPA Estimation</b>,</br>IEEE Signal Processing Letters, 22(10):1511–1515, October, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('SPL15_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://ieeexplore.ieee.org/document/7054438/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SPL15_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SPL15_Baum.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/7054438/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SPL15_Baum" class="bibtex noshow"><td></td>
@@ -7195,6 +7273,7 @@ Inverse Covariance Intersection},
  month = {October},
  number = {10},
  pages = {1511–1515},
+ pdf = {SPL15_Baum.pdf},
  title = {On Wasserstein Barycenters and MMOSPA Estimation},
  url = {http://ieeexplore.ieee.org/document/7054438/},
  volume = {22},
@@ -7472,7 +7551,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Benjamin Noack, Joris Sijs, Marc Reinhardt, Uwe D. Hanebeck</i>,</br> <b>Treatment of Dependent Information in Multisensor Kalman Filtering and Data Fusion</b>,</br>Multisensor Data Fusion: From Algorithms and Architectural Design to Applications, pp. 169–192, CRC Press, August, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('CRC15_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.taylorfrancis.com/books/9781482263756" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CRC15_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.taylorfrancis.com/books/edit/10.1201/b18851/multisensor-data-fusion-hassen-fourati" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CRC15_Noack" class="bibtex noshow"><td></td>
@@ -7487,7 +7566,7 @@ Inverse Covariance Intersection},
  pages = {169–192},
  publisher = {CRC Press},
  title = {Treatment of Dependent Information in Multisensor Kalman Filtering and Data Fusion},
- url = {https://www.taylorfrancis.com/books/9781482263756},
+ url = {https://www.taylorfrancis.com/books/edit/10.1201/b18851/multisensor-data-fusion-hassen-fourati},
  year = {2015}
 }
 
@@ -9076,7 +9155,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Marcus Baum, Peter Willet, Yaakov Bar-Shalom, Uwe D. Hanebeck</i>,</br> <b>Approximate Calculation of Marginal Association Probabilities using a Hybrid Data Association Model</b>,</br>SPIE – Signal and Data Processing of Small Targets 2014, Baltimore, Maryland, USA, June, 2014.
-<p class="infolinks"> <a href="javascript:toggleInfo('SPIE14_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2053431" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SPIE14_Baum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SPIE14_Baum.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2053431" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SPIE14_Baum" class="bibtex noshow"><td></td>
@@ -9088,6 +9167,7 @@ Inverse Covariance Intersection},
  booktitle = {SPIE – Signal and Data Processing of Small Targets 2014},
  doi = {10.1117/12.2053431},
  month = {June},
+ pdf = {SPIE14_Baum.pdf},
  title = {Approximate Calculation of Marginal Association Probabilities using a Hybrid Data Association Model},
  url = {http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2053431},
  year = {2014}
@@ -13539,7 +13619,7 @@ Control and Evaluation},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Florian Weissel, Marco F. Huber, Uwe D. Hanebeck</i>,</br> <b>Stochastic Nonlinear Model Predictive Control based on Gaussian Mixture Approximations</b>,</br>Informatics in Control, Automation and Robotics — Selected Papers from the International Conference on Informatics in Control, Automation and Robotics 2007, 24:239–252, Springer, Lecture Notes in Electrical Engineering, September, 2008.
-<p class="infolinks"> <a href="javascript:toggleInfo('LNEE_ICINCO08_WeisselHuber','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://link.springer.com/10.1007/978-3-540-85640-5_18" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('LNEE_ICINCO08_WeisselHuber','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LNEE_ICINCO08_WeisselHuber.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://link.springer.com/10.1007/978-3-540-85640-5_18" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_LNEE_ICINCO08_WeisselHuber" class="bibtex noshow"><td></td>
@@ -13551,6 +13631,7 @@ Control and Evaluation},
  doi = {10.1007/978-3-540-85640-5_18},
  month = {September},
  pages = {239–252},
+ pdf = {LNEE_ICINCO08_WeisselHuber.pdf},
  publisher = {Springer},
  series = {Lecture Notes in Electrical Engineering},
  timestamp = {2007.12.19},
@@ -15275,7 +15356,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <tr id="AMS05_RobertsSzabo" class="entry">
 <td><div class="balken-incollection"></div>
 </td>
-<td> <i>Kathrin Roberts, Gábor Szabó, Uwe D. Hanebeck</i>,</br> <b>Sensor-based motion synchronization of surgical instruments on the beating heart</b>,</br>Autonome Mobile Systeme 2005 (AMS 2005), 19. Fachgespräch, Stuttgart, Informatik Aktuell, pp. 269–275, Springer, Informatik aktuell, October, 2005.
+<td> <i>Kathrin Roberts, Gábor Szabó, Uwe D. Hanebeck</i>,</br> <b>Sensorgestützte Bewegungssynchronisation von Operationsinstrumenten am schlagenden Herzen</b>,</br>Autonome Mobile Systeme 2005 (AMS 2005), 19. Fachgespräch, Stuttgart, Informatik Aktuell, pp. 269–275, Springer, Informatik aktuell, October, 2005.
 <p class="infolinks"> <a href="javascript:toggleInfo('AMS05_RobertsSzabo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/InfoAktuell05_RobertsSzabo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
@@ -15292,8 +15373,8 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pdf = {InfoAktuell05_RobertsSzabo.pdf},
  publisher = {Springer},
  series = {Informatik aktuell},
- subtitle = {Sensorgestützte Bewegungssynchronisation von Operationsinstrumenten am schlagenden Herzen},
- title = {Sensor-based motion synchronization of surgical instruments on the beating heart},
+ subtitle = {Sensor-based motion synchronization of surgical instruments on the beating heart},
+ title = {Sensorgestützte Bewegungssynchronisation von Operationsinstrumenten am schlagenden Herzen},
  year = {2005}
 }
 
@@ -15439,7 +15520,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Kai Briechle, Uwe D. Hanebeck</i>,</br> <b>Localization using set-theoretic nonlinear filtering methods</b>,</br>at – Automatisierungstechnik, 53:415–424, Oldenbourg Verlag, September, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Briechle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.2005.53.9.415/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Briechle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Briechle.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.2005.53.9.415/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT05_Briechle" class="bibtex noshow"><td></td>
@@ -15452,6 +15533,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  language = {German},
  month = {September},
  pages = {415–424},
+ pdf = {AT05_Briechle.pdf},
  publisher = {Oldenbourg Verlag},
  subtitle = {Lokalisierung mittels mengenbasierter nichtlinearer Filterung im Hyperraum},
  title = {Localization using set-theoretic nonlinear filtering methods},
@@ -15658,7 +15740,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Marian Grigoras, Olga Feiermann, Uwe D. Hanebeck</i>,</br> <b>Data-Driven Modeling of Signal Strength Distributions for Localization in Cellular Radio Networks</b>,</br>Sonderheft: Datenfusion in der Automatisierungstechnik, 53(7):314–321, Oldenbourg Verlag, at – Automatisierungstechnik, July, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Grigoras','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.53.7.314.66708/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Grigoras','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Grigoras.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.53.7.314.66708/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT05_Grigoras" class="bibtex noshow"><td></td>
@@ -15671,6 +15753,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  month = {July},
  number = {7},
  pages = {314–321},
+ pdf = {AT05_Grigoras.pdf},
  publisher = {Oldenbourg Verlag},
  series = {at – Automatisierungstechnik},
  subtitle = {Datengetriebene Modellierung von Feldstärkeverteilungen für die Ortung in zellulären Funknetzen},
@@ -15743,7 +15826,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Jianbo Su, Yugeng Xi, Uwe D. Hanebeck, G. Schmidt</i>,</br> <b>Nonlinear Visual Mapping Model for 3-D Visual Tracking with Uncalibrated Eye-in-Hand Robotic System</b>,</br>IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics, 34(1):652–659, 2004.
-<p class="infolinks"> <a href="javascript:toggleInfo('SMC04_Jianbo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://ieeexplore.ieee.org/document/1262535/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SMC04_Jianbo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SMC04_Jianbo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/1262535/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SMC04_Jianbo" class="bibtex noshow"><td></td>
@@ -15757,6 +15840,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  language = {English},
  number = {1},
  pages = {652–659},
+ pdf = {SMC04_Jianbo.pdf},
  title = {Nonlinear Visual Mapping Model for 3-D Visual Tracking with Uncalibrated Eye-in-Hand Robotic System},
  type = {Article},
  url = {http://ieeexplore.ieee.org/document/1262535/},
@@ -15902,7 +15986,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Norbert Nitzsche, Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Motion Compression for Telepresent Walking in Large Target Environments</b>,</br>Presence: Teleoperators and Virtual Environments, 13(1):44–60, The MIT press, February, 2004.
-<p class="infolinks"> <a href="javascript:toggleInfo('PRE04_Nitzsche','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://direct.mit.edu/pvar/article/13/1/44-60/18484" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('PRE04_Nitzsche','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PRE04_Nitzsche.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://direct.mit.edu/pvar/article/13/1/44-60/18484" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_PRE04_Nitzsche" class="bibtex noshow"><td></td>
@@ -15915,6 +15999,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  month = {February},
  number = {1},
  pages = {44–60},
+ pdf = {PRE04_Nitzsche.pdf},
  publisher = {The MIT press},
  title = {Motion Compression for Telepresent Walking in Large Target Environments},
  url = {https://direct.mit.edu/pvar/article/13/1/44-60/18484},
@@ -15958,7 +16043,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Norbert Nitzsche, Uwe D. Hanebeck, G. Schmidt</i>,</br> <b>Design issues of mobile haptic interfaces</b>,</br>Journal of Robotic Systems, 20(9):549–556, 2003.
-<p class="infolinks"> <a href="javascript:toggleInfo('JRSys03_Nitzsche','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1002/rob.10105" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JRSys03_Nitzsche','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JRSys03_Nitzsche.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1002/rob.10105" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JRSys03_Nitzsche" class="bibtex noshow"><td></td>
@@ -15972,6 +16057,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  language = {English},
  number = {9},
  pages = {549–556},
+ pdf = {JRSys03_Nitzsche.pdf},
  title = {Design issues of mobile haptic interfaces},
  type = {Article},
  url = {https://onlinelibrary.wiley.com/doi/10.1002/rob.10105},
@@ -16035,32 +16121,6 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 </td>
 </tr>
 
-<tr id="ECC03_Horn-SetBasedLocalization" class="entry">
-<td><div class="balken-inproceedings"></div>
-</td>
-<td> <i>Joachim Horn, Uwe D. Hanebeck, Konrad Riegel, Kai Heesche, Werner Hauptmann</i>,</br> <b>Nonlinear Set-Theoretic Position Estimation of Cellular Phones</b>,</br>Proceedings of the 2003 European Control Conference (ECC 2003), Cambridge, United Kingdom, September, 2003.
-<p class="infolinks"> <a href="javascript:toggleInfo('ECC03_Horn-SetBasedLocalization','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ECC03_Horn-SetBasedLocalization.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7085093/" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_ECC03_Horn-SetBasedLocalization" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@inproceedings{ECC03_Horn-SetBasedLocalization,
- address = {Cambridge, United Kingdom},
- author = {Joachim Horn and Uwe D. Hanebeck and Konrad Riegel and Kai Heesche and Werner Hauptmann},
- booktitle = {Proceedings of the 2003 European Control Conference (ECC 2003)},
- doi = {10.23919/ecc.2003.7085093},
- month = {September},
- pdf = {ECC03_Horn-SetBasedLocalization.pdf},
- title = {Nonlinear Set-Theoretic Position Estimation of Cellular Phones},
- url = {https://ieeexplore.ieee.org/document/7085093/},
- year = {2003}
-}
-
-</pre>
-</td>
-</tr>
-
 <tr id="ECC03_Hanebeck" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -16080,6 +16140,32 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pdf = {ECC03_Hanebeck.pdf},
  title = {Data Validation in the Presence of Imprecisely Known Correlations},
  url = {https://ieeexplore.ieee.org/document/7086438/},
+ year = {2003}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="ECC03_Horn-SetBasedLocalization" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Joachim Horn, Uwe D. Hanebeck, Konrad Riegel, Kai Heesche, Werner Hauptmann</i>,</br> <b>Nonlinear Set-Theoretic Position Estimation of Cellular Phones</b>,</br>Proceedings of the 2003 European Control Conference (ECC 2003), Cambridge, United Kingdom, September, 2003.
+<p class="infolinks"> <a href="javascript:toggleInfo('ECC03_Horn-SetBasedLocalization','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ECC03_Horn-SetBasedLocalization.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/7085093/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_ECC03_Horn-SetBasedLocalization" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ECC03_Horn-SetBasedLocalization,
+ address = {Cambridge, United Kingdom},
+ author = {Joachim Horn and Uwe D. Hanebeck and Konrad Riegel and Kai Heesche and Werner Hauptmann},
+ booktitle = {Proceedings of the 2003 European Control Conference (ECC 2003)},
+ doi = {10.23919/ecc.2003.7085093},
+ month = {September},
+ pdf = {ECC03_Horn-SetBasedLocalization.pdf},
+ title = {Nonlinear Set-Theoretic Position Estimation of Cellular Phones},
+ url = {https://ieeexplore.ieee.org/document/7085093/},
  year = {2003}
 }
 
@@ -16226,33 +16312,6 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 </td>
 </tr>
 
-<tr id="SPIE03_Horn" class="entry">
-<td><div class="balken-inproceedings"></div>
-</td>
-<td> <i>Joachim Horn, Uwe D. Hanebeck, Konrad Riegel, Kai Heesche, Werner Hauptmann</i>,</br> <b>Nonlinear Set–Theoretic Localization of Cellular Phones</b>,</br>Proceedings of SPIE, Vol. 5084, AeroSense Symposium, pp. 51–58, Orlando, Florida, USA, May, 2003.
-<p class="infolinks"> <a href="javascript:toggleInfo('SPIE03_Horn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SPIE03_Horn.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.487805" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_SPIE03_Horn" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@inproceedings{SPIE03_Horn,
- address = {Orlando, Florida, USA},
- author = {Joachim Horn and Uwe D. Hanebeck and Konrad Riegel and Kai Heesche and Werner Hauptmann},
- booktitle = {Proceedings of SPIE, Vol. 5084, AeroSense Symposium},
- doi = {10.1117/12.487805},
- month = {May},
- pages = {51–58},
- pdf = {SPIE03_Horn.pdf},
- title = {Nonlinear Set–Theoretic Localization of Cellular Phones},
- url = {http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.487805},
- year = {2003}
-}
-
-</pre>
-</td>
-</tr>
-
 <tr id="SPIE03_HanebeckBriechle-ProgBayes" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -16274,6 +16333,33 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  title = {Progressive Bayes: A New Framework for Nonlinear State Estimation},
  url = {http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.487806},
  volume = {5099},
+ year = {2003}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="SPIE03_Horn" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Joachim Horn, Uwe D. Hanebeck, Konrad Riegel, Kai Heesche, Werner Hauptmann</i>,</br> <b>Nonlinear Set–Theoretic Localization of Cellular Phones</b>,</br>Proceedings of SPIE, Vol. 5084, AeroSense Symposium, pp. 51–58, Orlando, Florida, USA, May, 2003.
+<p class="infolinks"> <a href="javascript:toggleInfo('SPIE03_Horn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SPIE03_Horn.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.487805" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_SPIE03_Horn" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{SPIE03_Horn,
+ address = {Orlando, Florida, USA},
+ author = {Joachim Horn and Uwe D. Hanebeck and Konrad Riegel and Kai Heesche and Werner Hauptmann},
+ booktitle = {Proceedings of SPIE, Vol. 5084, AeroSense Symposium},
+ doi = {10.1117/12.487805},
+ month = {May},
+ pages = {51–58},
+ pdf = {SPIE03_Horn.pdf},
+ title = {Nonlinear Set–Theoretic Localization of Cellular Phones},
+ url = {http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.487805},
  year = {2003}
 }
 
@@ -16317,7 +16403,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Joachim Horn, Uwe D. Hanebeck, Konrad Riegel, Kai Heesche, Werner Hauptmann</i>,</br> <b>Nonlinear Set–Theoretic Position Estimation of Cellular Phones</b>,</br>Ortung und Navigation, Deutsche Gesellschaft für Ortung und Navigation e.V. (DGON), 1:93–99, 2002.
-<p class="infolinks"> <a href="javascript:toggleInfo('DGON02_Horn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('DGON02_Horn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ECC03_Horn-SetBasedLocalization.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_DGON02_Horn" class="bibtex noshow"><td></td>
@@ -16327,6 +16413,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  author = {Joachim Horn and Uwe D. Hanebeck and Konrad Riegel and Kai Heesche and Werner Hauptmann},
  journal = {Ortung und Navigation, Deutsche Gesellschaft für Ortung und Navigation e.V. (DGON)},
  pages = {93–99},
+ pdf = {ECC03_Horn-SetBasedLocalization.pdf},
  timestamp = {2007.05.23},
  title = {Nonlinear Set–Theoretic Position Estimation of Cellular Phones},
  volume = {1},
@@ -16415,7 +16502,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Oliver Lorch, Javier F. Seara, Klaus H. Strobl, Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Perception Errors in Vision Guided Walking: Analysis, Modeling, and Filtering</b>,</br>Proceedings of the 2002 IEEE International Conference on Robotics and Automation (ICRA 2002), Washington D.C., USA, May, 2002.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICRA02_Lorch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://ieeexplore.ieee.org/document/1014842/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICRA02_Lorch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICRA02_Lorch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/1014842/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICRA02_Lorch" class="bibtex noshow"><td></td>
@@ -16427,6 +16514,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  booktitle = {Proceedings of the 2002 IEEE International Conference on Robotics and Automation (ICRA 2002)},
  doi = {10.1109/ROBOT.2002.1014842},
  month = {May},
+ pdf = {ICRA02_Lorch.pdf},
  timestamp = {2007.05.23},
  title = {Perception Errors in Vision Guided Walking: Analysis, Modeling, and Filtering},
  url = {http://ieeexplore.ieee.org/document/1014842/},
@@ -16441,7 +16529,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Joachim Horn, Uwe D. Hanebeck, Konrad Riegel, Kai Heesche, Werner Hauptmann</i>,</br> <b>Nonlinear Set–Theoretic Position Estimation of Cellular Phones</b>,</br>International Symposium on Location Based Services for Cellular Users (LOCELLUS 2002), Munich, Germany, April, 2002.
-<p class="infolinks"> <a href="javascript:toggleInfo('LOCELLUS02_Horn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('LOCELLUS02_Horn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ECC03_Horn-SetBasedLocalization.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_LOCELLUS02_Horn" class="bibtex noshow"><td></td>
@@ -16452,6 +16540,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  author = {Joachim Horn and Uwe D. Hanebeck and Konrad Riegel and Kai Heesche and Werner Hauptmann},
  booktitle = {International Symposium on Location Based Services for Cellular Users (LOCELLUS 2002)},
  month = {April},
+ pdf = {ECC03_Horn-SetBasedLocalization.pdf},
  timestamp = {2007.05.23},
  title = {Nonlinear Set–Theoretic Position Estimation of Cellular Phones},
  year = {2002}
@@ -16759,7 +16848,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Joachim Horn</i>,</br> <b>State estimation in case of mixed set theoretic and stochastic uncertainties</b>,</br>at – Automatisierungstechnik, 48(6):265–272, Oldenbourg Verlag, 2000.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.2000.48.6.265/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT00_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.2000.48.6.265/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT00_Hanebeck" class="bibtex noshow"><td></td>
@@ -16771,6 +16860,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  journal = {at – Automatisierungstechnik},
  number = {6},
  pages = {265–272},
+ pdf = {AT00_Hanebeck.pdf},
  publisher = {Oldenbourg Verlag},
  subtitle = {Zustandsschätzung im Fall simultan auftretender mengenbasierter und stochastischer Unsicherheiten},
  timestamp = {2007.05.23},
@@ -16839,6 +16929,33 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 </td>
 </tr>
 
+<tr id="Robotik00_Hanebeck" class="entry">
+<td><div class="balken-incollection"></div>
+</td>
+<td> <i>Uwe D. Hanebeck, Nihad Šaldić, Franz Freyberger, Günther Schmidt</i>,</br> <b>Modulare Radsatzsysteme für omnidirektionale mobile Roboter</b>,</br>Robotik 2000 Tagung (VDI/VDE-Gesellschaft Mess- und Automatisierungstechnik), VDI Berichte 1552, pp. 39–44, VDI, Berlin, VDI Berichte, June, 2000.
+<p class="infolinks"> <a href="javascript:toggleInfo('Robotik00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.tib.eu/de/suchen/id/BLCP:CN035163165/Modulare-Radsatzsysteme-fur-omnidirektionale-mobile" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_Robotik00_Hanebeck" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@incollection{Robotik00_Hanebeck,
+ author = {Uwe D. Hanebeck and Nihad Šaldić and Franz Freyberger and Günther Schmidt},
+ booktitle = {Robotik 2000 Tagung (VDI/VDE-Gesellschaft Mess- und Automatisierungstechnik), VDI Berichte 1552},
+ month = {June},
+ pages = {39–44},
+ publisher = {VDI, Berlin},
+ series = {VDI Berichte},
+ timestamp = {2007.05.23},
+ title = {Modulare Radsatzsysteme für omnidirektionale mobile Roboter},
+ url = {https://www.tib.eu/de/suchen/id/BLCP:CN035163165/Modulare-Radsatzsysteme-fur-omnidirektionale-mobile},
+ year = {2000}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="RAAD00_Saldic" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -16857,33 +16974,6 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {11–16},
  timestamp = {2007.05.23},
  title = {Modular Wheel Systems for Omnidirectional Service Robots},
- year = {2000}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="Robotik00_Hanebeck" class="entry">
-<td><div class="balken-incollection"></div>
-</td>
-<td> <i>Uwe D. Hanebeck, Nihad Šaldić, Franz Freyberger, Günther Schmidt</i>,</br> <b>Modulare Radsatzsysteme für omnidirektionale mobile Roboter</b>,</br>Robotik 2000 Tagung (VDI/VDE-Gesellschaft Mess- und Automatisierungstechnik), VDI Berichte 1552, pp. 39–44, VDI, Berlin, VDI Berichte, June, 2000.
-<p class="infolinks"> <a href="javascript:toggleInfo('Robotik00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.tib.eu/de/suchen/id/BLCP" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_Robotik00_Hanebeck" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@incollection{Robotik00_Hanebeck,
- author = {Uwe D. Hanebeck and Nihad Šaldić and Franz Freyberger and Günther Schmidt},
- booktitle = {Robotik 2000 Tagung (VDI/VDE-Gesellschaft Mess- und Automatisierungstechnik), VDI Berichte 1552},
- month = {June},
- pages = {39–44},
- publisher = {VDI, Berlin},
- series = {VDI Berichte},
- timestamp = {2007.05.23},
- title = {Modulare Radsatzsysteme für omnidirektionale mobile Roboter},
- url = {https://www.tib.eu/de/suchen/id/BLCP},
  year = {2000}
 }
 
@@ -16946,7 +17036,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-other"></div>
 </td>
 <td> <i>Kai Briechle, Uwe D. Hanebeck</i>,</br> <b>Self-localization of a mobile robot using fast normalized cross correlation</b>,</br>Proceedings of the IEEE International Conference on Systems, Man and Cybernetics, 4:IV–720–IV–725, IEEE, 1999.
-<p class="infolinks"> <a href="javascript:toggleInfo('SMC99_Briechle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SMC99_Briechle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SMC99_Briechle.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_SMC99_Briechle" class="bibtex noshow"><td></td>
@@ -16958,6 +17048,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  journal = {Proceedings of the IEEE International Conference on Systems, Man and Cybernetics},
  language = {English},
  pages = {IV-720–IV-725},
+ pdf = {SMC99_Briechle.pdf},
  publisher = {IEEE},
  title = {Self-localization of a mobile robot using fast normalized cross correlation},
  type = {Conference paper},
@@ -17051,7 +17142,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <tr id="IROS99_HanebeckSaldic-WheelSystem" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Uwe D. Hanebeck, Nihad Šaldić</i>,</br> <b>Modular Wheel System for Mobile Robot Applications</b>,</br>Proceedings of the 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 1999), Kjongju, Republic of Korea, October, 1999.
+<td> <i>Uwe D. Hanebeck, Nihad Šaldić</i>,</br> <b>A Modular Wheel System for Mobile Robot Applications</b>,</br>Proceedings of the 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 1999), Kjongju, Republic of Korea, October, 1999.
 <p class="infolinks"> <a href="javascript:toggleInfo('IROS99_HanebeckSaldic-WheelSystem','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IROS99_WHEEL.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
@@ -17065,7 +17156,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  month = {October},
  pdf = {IROS99_WHEEL.pdf},
  timestamp = {2007.05.23},
- title = {Modular Wheel System for Mobile Robot Applications},
+ title = {A Modular Wheel System for Mobile Robot Applications},
  year = {1999}
 }
 
@@ -17321,7 +17412,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Eugen Ettelt, Ralf Furtwängler, Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Design Issues of a Semi–Autonomous Robotic Assistant for the Health Care Environment</b>,</br>Journal of Intelligent and Robotic Systems: Theory and Applications, 22(3–4):191–209, Kluwer Academic Publishers, July, 1998.
-<p class="infolinks"> <a href="javascript:toggleInfo('JIRSTA98_Ettelt','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://link.springer.com/10.1023/A:1008082024638" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JIRSTA98_Ettelt','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JIRSTA98_Ettelt.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://link.springer.com/10.1023/A:1008082024638" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JIRSTA98_Ettelt" class="bibtex noshow"><td></td>
@@ -17334,6 +17425,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  month = {July},
  number = {3–4},
  pages = {191–209},
+ pdf = {JIRSTA98_Ettelt.pdf},
  publisher = {Kluwer Academic Publishers},
  timestamp = {2007.05.23},
  title = {Design Issues of a Semi–Autonomous Robotic Assistant for the Health Care Environment},
@@ -17350,7 +17442,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Ralf Furtwängler, Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Dynamic Control of a Mobile Manipulator</b>,</br>Proceedings of the 5th International Workshop on Advanced Motion Control (AMC 1998), pp. 440–445, Coimbra, Portugal, June, 1998.
-<p class="infolinks"> <a href="javascript:toggleInfo('AMC98_Furtwaengler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/743577/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AMC98_Furtwaengler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AMC98_Furtwaengler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/743577/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AMC98_Furtwaengler" class="bibtex noshow"><td></td>
@@ -17362,6 +17454,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  booktitle = {Proceedings of the 5th International Workshop on Advanced Motion Control (AMC 1998)},
  month = {June},
  pages = {440–445},
+ pdf = {AMC98_Furtwaengler.pdf},
  timestamp = {2007.05.23},
  title = {Dynamic Control of a Mobile Manipulator},
  url = {https://ieeexplore.ieee.org/document/743577/},
@@ -17376,7 +17469,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck</i>,</br> <b>Pipelined Sampling Techniques for Sonar Tracking Systems</b>,</br>Proceedings of the 1998 IEEE International Conference on Robotics and Automation (ICRA 1998), pp. 2813–2818, Leuven, Belgium, May, 1998.
-<p class="infolinks"> <a href="javascript:toggleInfo('ICRA98_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://ieeexplore.ieee.org/document/680477/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ICRA98_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICRA98_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/680477/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ICRA98_Hanebeck" class="bibtex noshow"><td></td>
@@ -17389,6 +17482,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  doi = {10.1109/ROBOT.1998.680477},
  month = {May},
  pages = {2813–2818},
+ pdf = {ICRA98_Hanebeck.pdf},
  timestamp = {2007.05.23},
  title = {Pipelined Sampling Techniques for Sonar Tracking Systems},
  url = {http://ieeexplore.ieee.org/document/680477/},
@@ -17453,7 +17547,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Christian Fischer, Günther Schmidt</i>,</br> <b>ROMAN: A Mobile Robotic Assistant for Indoor Service Applications</b>,</br>Proceedings of the 1997 IEEE/RSJ/GI International Conference on Intelligent Robots and Systems (IROS 1997), pp. 518–525, Grenoble, France, September, 1997.
-<p class="infolinks"> <a href="javascript:toggleInfo('IROS97_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/655061/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IROS97_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IROS97_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/655061/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IROS97_Hanebeck" class="bibtex noshow"><td></td>
@@ -17465,6 +17559,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  booktitle = {Proceedings of the 1997 IEEE/RSJ/GI International Conference on Intelligent Robots and Systems (IROS 1997)},
  month = {September},
  pages = {518–525},
+ pdf = {IROS97_Hanebeck.pdf},
  timestamp = {2007.05.23},
  title = {ROMAN: A Mobile Robotic Assistant for Indoor Service Applications},
  url = {https://ieeexplore.ieee.org/document/655061/},
@@ -17753,7 +17848,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Günther K. Schmidt</i>,</br> <b>Absolute Localization of Fast Mobile Robots Based on an Angle Measurement Technique</b>,</br>19th Annual German Conference on Artificial Intelligence (KI'95), Bielefeld, KI–95 Activities: Workshops, Posters, Demos, pp. 164–166, Gesellschaft für Informatik e.V., Bielefeld, Germany, September, 1995.
-<p class="infolinks"> <a href="javascript:toggleInfo('KI95_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('KI95_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ICASAV95_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_KI95_Hanebeck" class="bibtex noshow"><td></td>
@@ -17766,6 +17861,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  editor = {Leonie Dreschler–Fischer and Simone Pribbenow},
  month = {September},
  pages = {164–166},
+ pdf = {ICASAV95_Hanebeck.pdf},
  publisher = {Gesellschaft für Informatik e.V.},
  timestamp = {2007.05.23},
  title = {Absolute Localization of Fast Mobile Robots Based on an Angle Measurement Technique},
@@ -17856,7 +17952,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>A New High Performance Multisonar System for Fast Mobile Robots</b>,</br>Proceedings of the 1994 IEEE/RSJ/GI International Conference on Intelligent Robots and Systems (IROS 1994), pp. 1853–1860, Munich, Germany, September, 1994.
-<p class="infolinks"> <a href="javascript:toggleInfo('IROS94_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/407607/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IROS94_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IROS94_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/407607/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IROS94_Hanebeck" class="bibtex noshow"><td></td>
@@ -17868,6 +17964,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  booktitle = {Proceedings of the 1994 IEEE/RSJ/GI International Conference on Intelligent Robots and Systems (IROS 1994)},
  month = {September},
  pages = {1853–1860},
+ pdf = {IROS94_Hanebeck.pdf},
  timestamp = {2007.05.23},
  title = {A New High Performance Multisonar System for Fast Mobile Robots},
  url = {https://ieeexplore.ieee.org/document/407607/},
@@ -17882,8 +17979,8 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <tr id="AT93_Hanebeck" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Emphasizing fuzzy logic control design by means of laboratory experiments</b>,</br>at – Automatisierungstechnik, 41(8):300–306, Oldenbourg Verlag, 1993.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT93_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-1993-0806/html" target="_blank">URL</a></p>
+<td> <i>Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Experimentelle Vertiefung der Ausbildung im Fuzzy-Logik-Reglerentwurf</b>,</br>at – Automatisierungstechnik, 41(8):300–306, Oldenbourg Verlag, 1993.
+<p class="infolinks"> <a href="javascript:toggleInfo('AT93_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT93_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/auto-1993-0806/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT93_Hanebeck" class="bibtex noshow"><td></td>
@@ -17895,10 +17992,11 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  journal = {at – Automatisierungstechnik},
  number = {8},
  pages = {300–306},
+ pdf = {AT93_Hanebeck.pdf},
  publisher = {Oldenbourg Verlag},
- subtitle = {Experimentelle Vertiefung der Ausbildung im Fuzzy-Logik-Reglerentwurf},
+ subtitle = {Emphasizing fuzzy logic control design by means of laboratory experiments},
  timestamp = {2007.05.23},
- title = {Emphasizing fuzzy logic control design by means of laboratory experiments},
+ title = {Experimentelle Vertiefung der Ausbildung im Fuzzy-Logik-Reglerentwurf},
  url = {https://www.degruyter.com/document/doi/10.1515/auto-1993-0806/html},
  volume = {41},
  year = {1993}
@@ -17912,7 +18010,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Günther Schmidt, Uwe D. Hanebeck</i>,</br> <b>Teaching Fuzzy Logic Control Design Through Laboratory Experiments and Student Projects</b>,</br>Proceedings of the 12th World Congress of the International Federation of Automatic Control (IFAC 1993), pp. 147–150, Sydney, Australia, July, 1993.
-<p class="infolinks"> <a href="javascript:toggleInfo('IFAC93_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S1474667017483716" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC93_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IFAC93_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S1474667017483716" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IFAC93_Hanebeck" class="bibtex noshow"><td></td>
@@ -17924,6 +18022,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  booktitle = {Proceedings of the 12th World Congress of the International Federation of Automatic Control (IFAC 1993)},
  month = {July},
  pages = {147–150},
+ pdf = {IFAC93_Hanebeck.pdf},
  timestamp = {2007.05.23},
  title = {Teaching Fuzzy Logic Control Design Through Laboratory Experiments and Student Projects},
  url = {https://www.sciencedirect.com/science/article/pii/S1474667017483716},
