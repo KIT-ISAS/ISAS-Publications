@@ -49,10 +49,10 @@ Auf der ISAS-Publikationsseite (isas.iar.kit.edu/Publications.php) werden die Pu
    - Hier hinterlegen:
       - Linux: `smb://i81server.iar.kit.edu/WWWMaterial/ISAS-Publikationen/PDF/`
       - Windows: `\\i81server.iar.kit.edu\WWWMaterial\ISAS-Publikationen\PDF`
+      - (Alternativ PDF hier auf i81server hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`)
     
 6. Literaturliste auf Server synchronisieren. 
    - Auf Server einloggen: `ssh i81server.iar.kit.edu`
-   - (Alternativ PDF hier hinterlegen: `/localhome/isaswebwiki/ISASPublikationen/PDF`)
    - Synchronisieren: `sudo bibTexUpdate.sh`
 
 7. Website prüfen:
