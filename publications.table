@@ -31,7 +31,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Jiawei Fan, Ting Yuan, Haonan Zhang, Songlin Li, Uwe D. Hanebeck, Zhuguo Li</i>,</br> <b>DMAW: A Dynamic Multimodal Measurement Fusion Network With Attention for Reliable Welding Process Monitoring Under Harsh Industrial Environments</b>,</br>IEEE Sensors Journal, 26(2):2347–2358, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('Sensors2026_Fan','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Sensors2026_Fan.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Sensors2026_Fan','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Sensors2026_Fan.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11278485/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Sensors2026_Fan" class="bibtex noshow"><td></td>
@@ -45,6 +45,7 @@
  pages = {2347-2358},
  pdf = {Sensors2026_Fan.pdf},
  title = {DMAW: A Dynamic Multimodal Measurement Fusion Network With Attention for Reliable Welding Process Monitoring Under Harsh Industrial Environments},
+ url = {https://ieeexplore.ieee.org/document/11278485/},
  volume = {26},
  year = {2026}
 }
@@ -83,7 +84,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Felipe Giraldo Grueso, Andrey A. Popov, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination</b>,</br>The Journal of the Astronautical Sciences, pp. 1–34, Springer Nature, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('JAS25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAS25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/article/10.1007/s40295-025-00521-7" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JAS25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JAS25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/10.1007/s40295-025-00521-7" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JAS25_GiraldoGrueso" class="bibtex noshow"><td></td>
@@ -93,12 +94,11 @@
  author = {Felipe Giraldo Grueso and Andrey A. Popov and Uwe D. Hanebeck and and Renato Zanetti},
  doi = {10.1007/s40295-025-00521-7},
  journal = {The Journal of the Astronautical Sciences},
- link = {https://link.springer.com/article/10.1007/s40295-025-00521-7},
  pages = {1–34},
  pdf = {JAS25_GiraldoGrueso.pdf},
  publisher = {Springer Nature},
  title = {Optimal Sampling for Point Mass Filtering with Applications to Cislunar Orbit Determination},
- url = {https://link.springer.com/article/10.1007/s40295-025-00521-7},
+ url = {https://link.springer.com/10.1007/s40295-025-00521-7},
  year = {2025}
 }
 
@@ -110,7 +110,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Michael Fennel, Markus Walker, Dominik Pikos, Uwe D. Hanebeck</i>,</br> <b>HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control</b>,</br>IEEE Transactions on Haptics, 18(4):862–875, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('Haptics25_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv25_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11125831" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Haptics25_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv25_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11125831/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Haptics25_Fennel" class="bibtex noshow"><td></td>
@@ -124,7 +124,7 @@
  pages = {862-875},
  pdf = {arXiv25_Fennel.pdf},
  title = {HapticGiant: A Novel Very Large Kinesthetic Haptic Interface with Hierarchical Force Control},
- url = {https://ieeexplore.ieee.org/document/11125831},
+ url = {https://ieeexplore.ieee.org/document/11125831/},
  volume = {18},
  year = {2025}
 }
@@ -164,7 +164,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Albert Bauer, Florian Pfaff, Georg Maier, Robin Gruna, Thomas Längle, Jürgen Beyerer, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>Stochastic Optimal Control of an Optical Sorter with Material Recirculation</b>,</br>IEEE Transactions on Control Systems Technology, 33(1):354–368, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('TCST4_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TCST4_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10731570" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TCST4_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TCST4_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10731570/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TCST4_Reith-Braun" class="bibtex noshow"><td></td>
@@ -178,7 +178,7 @@
  pages = {354-368},
  pdf = {TCST4_Reith-Braun.pdf},
  title = {Stochastic Optimal Control of an Optical Sorter with Material Recirculation},
- url = {https://ieeexplore.ieee.org/document/10731570},
+ url = {https://ieeexplore.ieee.org/document/10731570/},
  volume = {33},
  year = {2025}
 }
@@ -191,7 +191,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Fokker-Planck Prediction on the Cylindric Manifold using Tensor Decomposition of a Regular Grid</b>,</br>17th Symposium Sensor Data Fusion: Trends, Solutions and Applications, Bonn, Germany, November, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('SDF25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/11330240" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SDF25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11330240/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SDF25_Frisch" class="bibtex noshow"><td></td>
@@ -205,7 +205,7 @@
  month = {November},
  pdf = {SDF25_Frisch.pdf},
  title = {Fokker-Planck Prediction on the Cylindric Manifold using Tensor Decomposition of a Regular Grid},
- url = {https://ieeexplore.ieee.org/abstract/document/11330240},
+ url = {https://ieeexplore.ieee.org/document/11330240/},
  year = {2025}
 }
 
@@ -242,7 +242,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Leon Winheim, Uwe D. Hanebeck</i>,</br> <b>BNN Training as State Estimation: A Progressive Filtering Approach</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Winheim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Winheim.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259353" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Winheim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Winheim.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259353/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Winheim" class="bibtex noshow"><td></td>
@@ -256,7 +256,7 @@
  month = {September},
  pdf = {MFI25_Winheim.pdf},
  title = {BNN Training as State Estimation: A Progressive Filtering Approach},
- url = {https://ieeexplore.ieee.org/document/11259353},
+ url = {https://ieeexplore.ieee.org/document/11259353/},
  year = {2025}
 }
 
@@ -268,7 +268,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Weaknesses of the ANEES and New Calibration Measures for Multivariate Predictions</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259249" target="_blank">URL</a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259249/" target="_blank">URL</a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Walker" class="bibtex noshow"><td></td>
@@ -283,7 +283,7 @@
  month = {September},
  pdf = {MFI25_Walker.pdf},
  title = {Weaknesses of the ANEES and New Calibration Measures for Multivariate Predictions},
- url = {https://ieeexplore.ieee.org/document/11259249},
+ url = {https://ieeexplore.ieee.org/document/11259249/},
  year = {2025}
 }
 
@@ -295,7 +295,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Dominik Prossel, Andrey A. Popov, Felipe Giraldo-Grueso, Renato Zanetti</i>,</br> <b>Ensemble Gaussian Mixture Filter based on Projected Cramér-von Mises Distance</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259284" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259284/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Hanebeck" class="bibtex noshow"><td></td>
@@ -309,7 +309,7 @@
  month = {September},
  pdf = {MFI25_Hanebeck.pdf},
  title = {Ensemble Gaussian Mixture Filter based on Projected Cramér-von Mises Distance},
- url = {https://ieeexplore.ieee.org/document/11259284},
+ url = {https://ieeexplore.ieee.org/document/11259284/},
  year = {2025}
 }
 
@@ -321,7 +321,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Why You Shouldn't Use TDOA for Multilateration</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259346" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259346/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Frisch" class="bibtex noshow"><td></td>
@@ -335,7 +335,7 @@
  month = {September},
  pdf = {MFI25_Frisch.pdf},
  title = {Why You Shouldn't Use TDOA for Multilateration},
- url = {https://ieeexplore.ieee.org/document/11259346},
+ url = {https://ieeexplore.ieee.org/document/11259346/},
  year = {2025}
 }
 
@@ -347,7 +347,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiachen Zhou, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>Joint Pose and Shape Estimation of 3D Extended Objects Using Recursive Tangent-Space Bayesian Filtering on SO(3)</b>,</br>Proceedings of the 2025 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2025), College Station, Texas, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259287" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI25_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11259287/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI25_Zhou" class="bibtex noshow"><td></td>
@@ -361,7 +361,7 @@
  month = {September},
  pdf = {MFI25_Zhou.pdf},
  title = {Joint Pose and Shape Estimation of 3D Extended Objects Using Recursive Tangent-Space Bayesian Filtering on SO(3)},
- url = {https://ieeexplore.ieee.org/document/11259287},
+ url = {https://ieeexplore.ieee.org/document/11259287/},
  year = {2025}
 }
 
@@ -373,7 +373,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers</b>,</br>The 33rd European Signal Processing Conference (EUSIPCO 2025), Isola delle Femmine, Palermo, Italy, September, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('EUSIPCO2025_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EUSIPCO2025_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/11226624" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('EUSIPCO2025_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/EUSIPCO2025_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11226624/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_EUSIPCO2025_Siebler" class="bibtex noshow"><td></td>
@@ -387,7 +387,7 @@
  month = {September},
  pdf = {EUSIPCO2025_Siebler.pdf},
  title = {Snapshot Estimator for Magnetic Field-based Train Localization with Uncalibrated Magnetometers},
- url = {https://ieeexplore.ieee.org/abstract/document/11226624},
+ url = {https://ieeexplore.ieee.org/document/11226624/},
  year = {2025}
 }
 
@@ -449,7 +449,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Local Calibration Testing in Supervised Machine Learning Models Using Input Space Kernels</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11123977" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11123977/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Walker" class="bibtex noshow"><td></td>
@@ -463,7 +463,7 @@
  month = {July},
  pdf = {FUSION25_Walker.pdf},
  title = {Local Calibration Testing in Supervised Machine Learning Models Using Input Space Kernels},
- url = {https://ieeexplore.ieee.org/document/11123977},
+ url = {https://ieeexplore.ieee.org/document/11123977/},
  year = {2025}
 }
 
@@ -475,7 +475,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Hayk Amirkhanian, Markus Walker, Uwe D. Hanebeck, and Marco F. Huber</i>,</br> <b>Bridging Bayesian Inference and Neural Network Training: Equivalence of KBNN and Statistical Linearization</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Amirkhanian','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Amirkhanian.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124135" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Amirkhanian','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Amirkhanian.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124135/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Amirkhanian" class="bibtex noshow"><td></td>
@@ -489,7 +489,7 @@
  month = {July},
  pdf = {FUSION25_Amirkhanian.pdf},
  title = {Bridging Bayesian Inference and Neural Network Training: Equivalence of KBNN and Statistical Linearization},
- url = {https://ieeexplore.ieee.org/document/11124135},
+ url = {https://ieeexplore.ieee.org/document/11124135/},
  year = {2025}
 }
 
@@ -501,7 +501,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Felipe Giraldo-Grueso, Andrey A. Popov, Uwe D. Hanebeck, and Renato Zanetti</i>,</br> <b>Optimal Transport as a Reduction Technique for Deterministic Nonlinear Filtering</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124037" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_GiraldoGrueso','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_GiraldoGrueso.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124037/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_GiraldoGrueso" class="bibtex noshow"><td></td>
@@ -515,7 +515,7 @@
  month = {July},
  pdf = {FUSION25_GiraldoGrueso.pdf},
  title = {Optimal Transport as a Reduction Technique for Deterministic Nonlinear Filtering},
- url = {https://ieeexplore.ieee.org/document/11124037},
+ url = {https://ieeexplore.ieee.org/document/11124037/},
  year = {2025}
 }
 
@@ -527,7 +527,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Ryne Beeson, Uwe D. Hanebeck</i>,</br> <b>Nudged Particle Filter with Optimal Resampling Applied to the Duffing Oscillator</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Beeson','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Beeson.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124138" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Beeson','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Beeson.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124138/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Beeson" class="bibtex noshow"><td></td>
@@ -541,7 +541,7 @@
  month = {July},
  pdf = {FUSION25_Beeson.pdf},
  title = {Nudged Particle Filter with Optimal Resampling Applied to the Duffing Oscillator},
- url = {https://ieeexplore.ieee.org/document/11124138},
+ url = {https://ieeexplore.ieee.org/document/11124138/},
  year = {2025}
 }
 
@@ -553,7 +553,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Deterministic Sampling with Separation of Variables in Spherical Coordinates</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124009" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124009/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Frisch" class="bibtex noshow"><td></td>
@@ -567,7 +567,7 @@
  month = {July},
  pdf = {FUSION25_Frisch.pdf},
  title = {Deterministic Sampling with Separation of Variables in Spherical Coordinates},
- url = {https://ieeexplore.ieee.org/document/11124009},
+ url = {https://ieeexplore.ieee.org/document/11124009/},
  year = {2025}
 }
 
@@ -579,7 +579,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiachen Zhou, Uwe D. Hanebeck</i>,</br> <b>High-Quality Assumed Gaussian Filtering Based on Wasserstein Barycentric Interpolation</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11123890" target="_blank">URL</a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/FUSION2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11123890/" target="_blank">URL</a> <font color="red"><b>Winner Best Student Paper Award</b> <a href="https://isas.iar.kit.edu/pdf/award/FUSION2025_Best_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Zhou" class="bibtex noshow"><td></td>
@@ -594,7 +594,7 @@
  month = {July},
  pdf = {FUSION25_Zhou.pdf},
  title = {High-Quality Assumed Gaussian Filtering Based on Wasserstein Barycentric Interpolation},
- url = {https://ieeexplore.ieee.org/document/11123890},
+ url = {https://ieeexplore.ieee.org/document/11123890/},
  year = {2025}
 }
 
@@ -606,7 +606,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiachen Zhou, Uwe D. Hanebeck, Albert Bauer, Harald Kruggel-Emden</i>,</br> <b>Stochastic Medial Axis Transform for Bayesian Extended Object Tracking</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Zhou_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Zhou_Bauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124170" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Zhou_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Zhou_Bauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124170/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Zhou_Bauer" class="bibtex noshow"><td></td>
@@ -620,7 +620,7 @@
  month = {July},
  pdf = {FUSION25_Zhou_Bauer.pdf},
  title = {Stochastic Medial Axis Transform for Bayesian Extended Object Tracking},
- url = {https://ieeexplore.ieee.org/document/11124170},
+ url = {https://ieeexplore.ieee.org/document/11124170/},
  year = {2025}
 }
 
@@ -632,7 +632,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Andrew Millard, Joshua Murphy, Daniel Frisch, Simon Maskell</i>,</br> <b>Incorporating the ChEES Criterion into Sequential Monte Carlo Samplers</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Millard','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Millard.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124101" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Millard','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Millard.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124101/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Millard" class="bibtex noshow"><td></td>
@@ -646,7 +646,7 @@
  month = {July},
  pdf = {FUSION25_Millard.pdf},
  title = {Incorporating the ChEES Criterion into Sequential Monte Carlo Samplers},
- url = {https://ieeexplore.ieee.org/document/11124101},
+ url = {https://ieeexplore.ieee.org/document/11124101/},
  year = {2025}
 }
 
@@ -658,7 +658,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Dominik Prossel, Uwe D. Hanebeck</i>,</br> <b>Deterministic Proposal Sampling Using Projected Cumulative Distributions</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Prossel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124096" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Prossel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124096/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Prossel" class="bibtex noshow"><td></td>
@@ -672,7 +672,7 @@
  month = {July},
  pdf = {FUSION25_Prossel.pdf},
  title = {Deterministic Proposal Sampling Using Projected Cumulative Distributions},
- url = {https://ieeexplore.ieee.org/document/11124096},
+ url = {https://ieeexplore.ieee.org/document/11124096/},
  year = {2025}
 }
 
@@ -684,7 +684,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Ondřej Straka, Uwe D. Hanebeck</i>,</br> <b>Efficient Gaussian Mixture Filters based on Transition Density Approximation</b>,</br>Proceedings of the 28th International Conference on Information Fusion (FUSION 2025), Rio de Janeiro, Brazil, July, 2025.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Straka','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Straka.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124060" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION25_Straka','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION25_Straka.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11124060/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION25_Straka" class="bibtex noshow"><td></td>
@@ -698,7 +698,7 @@
  month = {July},
  pdf = {FUSION25_Straka.pdf},
  title = {Efficient Gaussian Mixture Filters based on Transition Density Approximation},
- url = {https://ieeexplore.ieee.org/document/11124060},
+ url = {https://ieeexplore.ieee.org/document/11124060/},
  year = {2025}
 }
 
@@ -838,7 +838,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Philipp S. Bien, Uwe D. Hanebeck</i>,</br> <b>Voronoi Trust Regions for Local Calibration Testing in Supervised Machine Learning Models</b>,</br>16th Symposium Sensor Data Fusion: Trends, Solutions, and Applications, Bonn, Germany, November, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('SDF24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF24_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/abstract/document/10773946" target="_blank">URL</a> <font color="red"><b>Winner Best Paper Award 2nd Place</b> <a href="https://isas.iar.kit.edu/pdf/award/SDF24_Paper_Award_2nd_Place.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SDF24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SDF24_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10773946/" target="_blank">URL</a> <font color="red"><b>Winner Best Paper Award 2nd Place</b> <a href="https://isas.iar.kit.edu/pdf/award/SDF24_Paper_Award_2nd_Place.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_SDF24_Walker" class="bibtex noshow"><td></td>
@@ -853,7 +853,7 @@
  month = {November},
  pdf = {SDF24_Walker.pdf},
  title = {Voronoi Trust Regions for Local Calibration Testing in Supervised Machine Learning Models},
- url = {https://ieeexplore.ieee.org/abstract/document/10773946},
+ url = {https://ieeexplore.ieee.org/document/10773946/},
  year = {2024}
 }
 
@@ -865,7 +865,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Dominik Prossel, Uwe D. Hanebeck</i>,</br> <b>Three Approaches to Approximating the Fisher Information Number for Gaussian Mixture Densities</b>,</br>Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024), Pilsen, Czechia, September, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Prossel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10705763" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Prossel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10705763/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI24_Prossel" class="bibtex noshow"><td></td>
@@ -879,7 +879,7 @@
  month = {September},
  pdf = {MFI24_Prossel.pdf},
  title = {Three Approaches to Approximating the Fisher Information Number for Gaussian Mixture Densities},
- url = {https://ieeexplore.ieee.org/document/10705763},
+ url = {https://ieeexplore.ieee.org/document/10705763/},
  year = {2024}
 }
 
@@ -891,7 +891,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiachen Zhou, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Inverse Gaussian Process Interpolation for High-Quality Assumed Gaussian Filtering</b>,</br>Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024), Pilsen, Czechia, September, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10705784" target="_blank">URL</a> <font color="red"><b>Winner Student Paper Award - Third Place</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2024_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10705784/" target="_blank">URL</a> <font color="red"><b>Winner Student Paper Award - Third Place</b> <a href="https://isas.iar.kit.edu/pdf/award/MFI2024_Paper_Award.pdf" target="_blank">Certificate (PDF)</a></font></p>
 </td>
 </tr>
 <tr id="bib_MFI24_Zhou" class="bibtex noshow"><td></td>
@@ -906,7 +906,7 @@
  month = {September},
  pdf = {MFI24_Zhou.pdf},
  title = {Inverse Gaussian Process Interpolation for High-Quality Assumed Gaussian Filtering},
- url = {https://ieeexplore.ieee.org/document/10705784},
+ url = {https://ieeexplore.ieee.org/document/10705784/},
  year = {2024}
 }
 
@@ -918,7 +918,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Uwe D. Hanebeck</i>,</br> <b>Multi-Scale Uncertainty Calibration Testing for Bayesian Neural Networks Using Ball Trees</b>,</br>Proceedings of the 2024 IEEE International Conference on Multisensor Fusion and Integration (MFI 2024), Pilsen, Czechia, September, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10705766" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI24_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10705766/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI24_Walker" class="bibtex noshow"><td></td>
@@ -932,7 +932,7 @@
  month = {September},
  pdf = {MFI24_Walker.pdf},
  title = {Multi-Scale Uncertainty Calibration Testing for Bayesian Neural Networks Using Ball Trees},
- url = {https://ieeexplore.ieee.org/document/10705766},
+ url = {https://ieeexplore.ieee.org/document/10705766/},
  year = {2024}
 }
 
@@ -969,7 +969,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Magnetic Field Mapping of Railway Lines with Graph SLAM</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706392" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706392/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION24_Siebler" class="bibtex noshow"><td></td>
@@ -983,7 +983,7 @@
  month = {July},
  pdf = {FUSION24_Siebler.pdf},
  title = {Magnetic Field Mapping of Railway Lines with Graph SLAM},
- url = {https://ieeexplore.ieee.org/document/10706392},
+ url = {https://ieeexplore.ieee.org/document/10706392/},
  year = {2024}
 }
 
@@ -995,7 +995,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Hayk Amirkhanian, Marco F. Huber, Uwe D. Hanebeck</i>,</br> <b>Trustworthy Bayesian Perceptrons</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706490" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706490/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION24_Walker" class="bibtex noshow"><td></td>
@@ -1009,7 +1009,7 @@
  month = {July},
  pdf = {FUSION24_Walker.pdf},
  title = {Trustworthy Bayesian Perceptrons},
- url = {https://ieeexplore.ieee.org/document/10706490},
+ url = {https://ieeexplore.ieee.org/document/10706490/},
  year = {2024}
 }
 
@@ -1021,7 +1021,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Tim Baur, Patrick Hoher, Johannes Reuter, Uwe D. Hanebeck</i>,</br> <b>Tracking Extended Objects with Basic Parametric Shapes Using Deformable Superellipses</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Baur','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Baur.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706433" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Baur','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Baur.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706433/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION24_Baur" class="bibtex noshow"><td></td>
@@ -1035,7 +1035,7 @@
  month = {July},
  pdf = {FUSION24_Baur.pdf},
  title = {Tracking Extended Objects with Basic Parametric Shapes Using Deformable Superellipses},
- url = {https://ieeexplore.ieee.org/document/10706433},
+ url = {https://ieeexplore.ieee.org/document/10706433/},
  year = {2024}
 }
 
@@ -1047,7 +1047,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Gaussian Mixture Particle Filter Step based on Method of Moments</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706458" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706458/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION24_Frisch" class="bibtex noshow"><td></td>
@@ -1061,7 +1061,7 @@
  month = {July},
  pdf = {FUSION24_Frisch.pdf},
  title = {Gaussian Mixture Particle Filter Step based on Method of Moments},
- url = {https://ieeexplore.ieee.org/document/10706458},
+ url = {https://ieeexplore.ieee.org/document/10706458/},
  year = {2024}
 }
 
@@ -1073,7 +1073,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Dominik Prossel, Uwe D. Hanebeck</i>,</br> <b>Spline-Based Density Estimation Minimizing Fisher Information</b>,</br>Proceedings of the 27th International Conference on Information Fusion (FUSION 2024), Venice, Italy, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Prossel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706290" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION24_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION24_Prossel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10706290/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_FUSION24_Prossel" class="bibtex noshow"><td></td>
@@ -1087,7 +1087,7 @@
  month = {July},
  pdf = {FUSION24_Prossel.pdf},
  title = {Spline-Based Density Estimation Minimizing Fisher Information},
- url = {https://ieeexplore.ieee.org/document/10706290},
+ url = {https://ieeexplore.ieee.org/document/10706290/},
  year = {2024}
 }
 
@@ -1099,7 +1099,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Daniel Frisch, Dominik Prossel</i>,</br> <b>Closed-Form Information-Theoretic Roughness Measures for Mixture Densities</b>,</br>Proceedings of the 2024 American Control Conference (ACC 2024), Toronto, Canada, July, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('ACC24_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC24_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10645015" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ACC24_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC24_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/10645015/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ACC24_Hanebeck" class="bibtex noshow"><td></td>
@@ -1113,7 +1113,7 @@
  month = {July},
  pdf = {ACC24_Hanebeck.pdf},
  title = {Closed-Form Information-Theoretic Roughness Measures for Mixture Densities},
- url = {https://ieeexplore.ieee.org/document/10645015},
+ url = {https://ieeexplore.ieee.org/document/10645015/},
  year = {2024}
 }
 
@@ -1125,7 +1125,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Marcel Reith-Braun, Kevin Liang, Florian Pfaff, Georg Maier, Robin Gruna, Albert Bauer, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer,  Uwe D. Hanebeck</i>,</br> <b>Particle-Specific Deflection Windows for Optical Sorting by Uncertainty Quantification</b>,</br>Proceedings of the 10th Sensor-Based Sorting & Control Conference (SBSC 2024), Aachen, Germany, March, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('SBSC24_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC24_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://d-nb.info/1326501380/34#page=24" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SBSC24_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC24_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://www.shaker.de/shop/978-3-8440-9413-8" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SBSC24_Reith-Braun" class="bibtex noshow"><td></td>
@@ -1139,7 +1139,7 @@
  month = {March},
  pdf = {SBSC24_Reith-Braun.pdf},
  title = {Particle-Specific Deflection Windows for Optical Sorting by Uncertainty Quantification},
- url = {https://d-nb.info/1326501380/34#page=24},
+ url = {http://www.shaker.de/shop/978-3-8440-9413-8},
  year = {2024}
 }
 
@@ -1151,7 +1151,7 @@
 <tr id="NAVIGATION23_Siebler" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Simultaneous Localization and Calibration (SLAC) Methods for a Train-Mounted Magnetometer</b>,</br>Navigation, Journal of the Institute of Navigation, Institute of Navigation, 2023.
+<td> <i>Benjamin Siebler, Andreas Lehner, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Simultaneous Localization and Calibration (SLAC) Methods for a Train-Mounted Magnetometer</b>,</br>Navigation: Journal of the Institute of Navigation, Institute of Navigation, 2023.
 <p class="infolinks"> <a href="javascript:toggleInfo('NAVIGATION23_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/NAVIGATION23_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://navi.ion.org/lookup/doi/10.33012/navi.557" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -1162,7 +1162,7 @@
  author = {Benjamin Siebler and Andreas Lehner and Stephan Sand and Uwe D. Hanebeck},
  doi = {10.33012/navi.557},
  issn = {0028-1522},
- journal = {Navigation, Journal of the Institute of Navigation},
+ journal = {Navigation: Journal of the Institute of Navigation},
  number = {1},
  pdf = {NAVIGATION23_Siebler.pdf},
  publisher = {Institute of Navigation},
@@ -1650,7 +1650,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Georg Maier, Marcel Reith-Braun, Albert Bauer, Robin Gruna, Florian Pfaff, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Simulation Study and Experimental Validation of a Neural Network-Based Predictive Tracking System for Sensor-Based Sorting</b>,</br>Technisches Messen, May, 2023.
-<p class="infolinks"> <a href="javascript:toggleInfo('TM23_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TM23_Maier" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/teme-2023-0033/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TM23_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TM23_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/teme-2023-0033/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TM23_Maier" class="bibtex noshow"><td></td>
@@ -1661,7 +1661,7 @@
  doi = {10.1515/teme-2023-0033},
  journal = {Technisches Messen},
  month = {May},
- pdf = {TM23_Maier},
+ pdf = {TM23_Maier.pdf},
  title = {Simulation Study and Experimental Validation of a Neural Network-Based Predictive Tracking System for Sensor-Based Sorting},
  url = {https://www.degruyter.com/document/doi/10.1515/teme-2023-0033/html},
  year = {2023}
@@ -1853,7 +1853,7 @@
 <tr id="CIT22_Bauer" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Albert Bauer, Georg Maier, Marcel Reith-Braun, Harald Kruggel-Emden, Florian Pfaff, Robin Gruna, Uwe D. Hanebeck, Thomas Längle</i>,</br> <b>Benchmarking a DEM-CFD Model of an Optical Belt Sorter by Experimental Comparison</b>,</br>Chemie-Ingenieur-Technik, 2022.
+<td> <i>Albert Bauer, Georg Maier, Marcel Reith-Braun, Harald Kruggel-Emden, Florian Pfaff, Robin Gruna, Uwe D. Hanebeck, Thomas Längle</i>,</br> <b>Benchmarking a DEM-CFD Model of an Optical Belt Sorter by Experimental Comparison</b>,</br>Chemie Ingenieur Technik, 2022.
 <p class="infolinks"> <a href="javascript:toggleInfo('CIT22_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CIT22_Bauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1002/cite.202200124" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -1863,7 +1863,7 @@
 @article{CIT22_Bauer,
  author = {Albert Bauer and Georg Maier and Marcel Reith-Braun and Harald Kruggel-Emden and Florian Pfaff and Robin Gruna and Uwe D. Hanebeck and Thomas Längle},
  doi = {10.1002/cite.202200124},
- journal = {Chemie-Ingenieur-Technik},
+ journal = {Chemie Ingenieur Technik},
  pdf = {CIT22_Bauer.pdf},
  title = {Benchmarking a DEM-CFD Model of an Optical Belt Sorter by Experimental Comparison},
  url = {https://onlinelibrary.wiley.com/doi/10.1002/cite.202200124},
@@ -1877,7 +1877,7 @@
 <tr id="FB22_Maier" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Georg Maier, Marcel Reith-Braun, Albert Bauer, Robin Gruna, Florian Pfaff, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Machine Learning-Based Multiobject Tracking for Sensor-Based Sorting</b>,</br>Proceedings of the Image Processing Forum 2022, Karlsruhe, Germany, November, 2022.
+<td> <i>Georg Maier, Marcel Reith-Braun, Albert Bauer, Robin Gruna, Florian Pfaff, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Machine Learning-Based Multiobject Tracking for Sensor-Based Sorting</b>,</br>Forum Bildverarbeitung 2022 - Proceedings of the Image Processing Forum 2022, Karlsruhe, Germany, November, 2022.
 <p class="infolinks"> <a href="javascript:toggleInfo('FB22_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FB22_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publica.fraunhofer.de/handle/publica/429560" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -1887,7 +1887,7 @@
 @inproceedings{FB22_Maier,
  address = {Karlsruhe, Germany},
  author = {Georg Maier and Marcel Reith-Braun and Albert Bauer and Robin Gruna and Florian Pfaff and Harald Kruggel-Emden and Thomas Längle and Uwe D. Hanebeck and Jürgen Beyerer},
- booktitle = {Proceedings of the Image Processing Forum 2022},
+ booktitle = {Forum Bildverarbeitung 2022 - Proceedings of the Image Processing Forum 2022},
  doi = {10.24406/publica-586},
  month = {November},
  pdf = {FB22_Maier.pdf},
@@ -2034,7 +2034,7 @@
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Albert Bauer, Georg Maier, Harald Kruggel-Emden, Marcel Reith-Braun, Florian Pfaff, Robin Gruna, Uwe D. Hanebeck, Thomas Längle, Jürgen Beyerer</i>,</br> <b>Numerical Modelling of an Optical Belt Sorter Using a DEM–CFD Approach Coupled with Particle Tracking and Comparison with Experiments</b>,</br>Powder Technology, September, 2022.
-<p class="infolinks"> <a href="javascript:toggleInfo('PowTec22_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PowTec22_Bauer" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S0032591018307307" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('PowTec22_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PowTec22_Bauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S0032591018307307" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_PowTec22_Bauer" class="bibtex noshow"><td></td>
@@ -2045,7 +2045,7 @@
  doi = {10.1016/j.powtec.2018.09.003},
  journal = {Powder Technology},
  month = {September},
- pdf = {PowTec22_Bauer},
+ pdf = {PowTec22_Bauer.pdf},
  title = {Numerical Modelling of an Optical Belt Sorter Using a DEM–CFD Approach Coupled with Particle Tracking and Comparison with Experiments},
  url = {https://linkinghub.elsevier.com/retrieve/pii/S0032591018307307},
  year = {2022}
@@ -2394,7 +2394,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Xianqing Li, Zhansheng Duan, Uwe D. Hanebeck</i>,</br> <b>Recursive joint Cramér-Rao lower bound for parametric systems with two-adjacent-states dependent measurements</b>,</br>IET Signal Processing, 15(4):221–237, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('IET21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IET21_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1049/sil2.12025" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IET21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IET21_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/sil2.12025" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IET21_Li" class="bibtex noshow"><td></td>
@@ -2408,7 +2408,7 @@ Information Fusion (Fusion 2022)},
  pages = {221–237},
  pdf = {IET21_Li.pdf},
  title = {Recursive joint Cramér-Rao lower bound for parametric systems with two-adjacent-states dependent measurements},
- url = {https://onlinelibrary.wiley.com/doi/10.1049/sil2.12025},
+ url = {https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/sil2.12025},
  volume = {15},
  year = {2021}
 }
@@ -4143,7 +4143,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Janko Petereit, Jürgen Beyerer, Tamim Asfour, Sascha Gentes, Björn Hein, Uwe D. Hanebeck, Frank Kirchner, Rüdiger Dillmann, Hans Heinrich Götting, Martin Weiser, Michael Gustmann, Thomas Egloffstein</i>,</br> <b>ROBDEKON: Robotic Systems for Decontamination in Hazardous Environments</b>,</br>2019 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), pp. 249–255, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('SSRR19_Petereit','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SSRR19_Petereit" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/8848969/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SSRR19_Petereit','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SSRR19_Petereit.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/8848969/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_SSRR19_Petereit" class="bibtex noshow"><td></td>
@@ -4154,7 +4154,7 @@ Information Fusion (Fusion 2022)},
  booktitle = {2019 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR)},
  doi = {10.1109/SSRR.2019.8848969},
  pages = {249–255},
- pdf = {SSRR19_Petereit},
+ pdf = {SSRR19_Petereit.pdf},
  title = {ROBDEKON: Robotic Systems for Decontamination in Hazardous Environments},
  url = {https://ieeexplore.ieee.org/document/8848969/},
  year = {2019}
@@ -4379,7 +4379,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Susanne Radtke, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Distributed Estimation using Square Root Decompositions of Dependent Information</b>,</br>Proceedings of the 22nd International Conference on Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Radtke','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Radtke.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011162" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Radtke','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Radtke.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011162/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion19_Radtke" class="bibtex noshow"><td></td>
@@ -4393,7 +4393,7 @@ Information Fusion (Fusion 2022)},
  month = {July},
  pdf = {Fusion19_Radtke.pdf},
  title = {Distributed Estimation using Square Root Decompositions of Dependent Information},
- url = {https://ieeexplore.ieee.org/document/9011162},
+ url = {https://ieeexplore.ieee.org/document/9011162/},
  year = {2019}
 }
 
@@ -4405,7 +4405,7 @@ Information Fusion (Fusion 2022)},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Florian Pfaff, Kailai Li, Uwe D. Hanebeck</i>,</br> <b>Fourier Filters, Grid Filters, and the Fourier-Interpreted Grid Filter</b>,</br>Proceedings of the 22nd International Conference on Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Pfaff.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011318" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Pfaff','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Pfaff.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011318/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion19_Pfaff" class="bibtex noshow"><td></td>
@@ -4419,7 +4419,7 @@ Information Fusion (Fusion 2022)},
  month = {July},
  pdf = {Fusion19_Pfaff.pdf},
  title = {Fourier Filters, Grid Filters, and the Fourier-Interpreted Grid Filter},
- url = {https://ieeexplore.ieee.org/document/9011318},
+ url = {https://ieeexplore.ieee.org/document/9011318/},
  year = {2019}
 }
 
@@ -4487,7 +4487,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Kailai Li, Florian Pfaff, Uwe D. Hanebeck</i>,</br> <b>Hyperspherical Deterministic Sampling Based on Riemannian Geometry for Improved Nonlinear Bingham Filtering</b>,</br>Proceedings of the 22nd International Conference on Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011390" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011390/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion19_Li" class="bibtex noshow"><td></td>
@@ -4501,7 +4501,7 @@ Inverse Covariance Intersection},
  month = {July},
  pdf = {Fusion19_Li.pdf},
  title = {Hyperspherical Deterministic Sampling Based on Riemannian Geometry for Improved Nonlinear Bingham Filtering},
- url = {https://ieeexplore.ieee.org/document/9011390},
+ url = {https://ieeexplore.ieee.org/document/9011390/},
  year = {2019}
 }
 
@@ -4513,7 +4513,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Tobias Kronauer, Florian Pfaff, Benjamin Noack, Wei Tian, Georg Maier, Uwe D. Hanebeck</i>,</br> <b>Feature-Aided Multitarget Tracking for Optical Belt Sorters</b>,</br>Proceedings of the 22nd International Conference on Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Kronauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Kronauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011447" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Kronauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Kronauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011447/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion19_Kronauer" class="bibtex noshow"><td></td>
@@ -4527,7 +4527,7 @@ Inverse Covariance Intersection},
  month = {July},
  pdf = {Fusion19_Kronauer.pdf},
  title = {Feature-Aided Multitarget Tracking for Optical Belt Sorters},
- url = {https://ieeexplore.ieee.org/document/9011447},
+ url = {https://ieeexplore.ieee.org/document/9011447/},
  year = {2019}
 }
 
@@ -4565,7 +4565,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Simon Bultmann, Kailai Li, Uwe D. Hanebeck</i>,</br> <b>Stereo Visual SLAM Based on Unscented Dual Quaternion Filtering</b>,</br>Proceedings of the 22nd International Conference on Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
-<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Bultmann','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Bultmann.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011391" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Bultmann','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Bultmann.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011391/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Fusion19_Bultmann" class="bibtex noshow"><td></td>
@@ -4579,7 +4579,7 @@ Inverse Covariance Intersection},
  month = {July},
  pdf = {Fusion19_Bultmann.pdf},
  title = {Stereo Visual SLAM Based on Unscented Dual Quaternion Filtering},
- url = {https://ieeexplore.ieee.org/document/9011391},
+ url = {https://ieeexplore.ieee.org/document/9011391/},
  year = {2019}
 }
 
@@ -4907,7 +4907,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Christoph Pieper, Florian Pfaff, Georg Maier, Harald Kruggel-Emden, Siegmar Wirtz, Benjamin Noack, Robin Gruna, Viktor Scherer, Uwe D. Hanebeck, Thomas Längle, Jürgen Beyerer</i>,</br> <b>Numerical Modelling of an Optical Belt Sorter Using a DEM–CFD Approach Coupled with Particle Tracking Algorithm and Comparison with Experiments</b>,</br>Powder Technology, December, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('PowTec18_Pieper','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PowTec18_Pieper" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S0032591018307307" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('PowTec18_Pieper','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PowTec18_Pieper.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S0032591018307307" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_PowTec18_Pieper" class="bibtex noshow"><td></td>
@@ -4918,7 +4918,7 @@ Inverse Covariance Intersection},
  doi = {10.1016/j.powtec.2018.09.003},
  journal = {Powder Technology},
  month = {December},
- pdf = {PowTec18_Pieper},
+ pdf = {PowTec18_Pieper.pdf},
  title = {Numerical Modelling of an Optical Belt Sorter Using a DEM–CFD Approach Coupled with Particle Tracking Algorithm and Comparison with Experiments},
  url = {https://linkinghub.elsevier.com/retrieve/pii/S0032591018307307},
  year = {2018}
@@ -5189,7 +5189,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Jindřich Duník, Ondřej Straka, Benjamin Noack, Jannik Steinbring, Uwe D. Hanebeck</i>,</br> <b>Directional Splitting of Gaussian Density in Non-Linear Random Variable Transformation</b>,</br>IET Signal Processing, 12(9):1073–1081, July, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('IETSP2018_Dunik','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IETSP2018_Dunik.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1049/iet-spr.2017.0286" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IETSP2018_Dunik','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IETSP2018_Dunik.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-spr.2017.0286" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IETSP2018_Dunik" class="bibtex noshow"><td></td>
@@ -5205,7 +5205,7 @@ Inverse Covariance Intersection},
  pages = {1073–1081},
  pdf = {IETSP2018_Dunik.pdf},
  title = {Directional Splitting of Gaussian Density in Non-Linear Random Variable Transformation},
- url = {https://onlinelibrary.wiley.com/doi/10.1049/iet-spr.2017.0286},
+ url = {https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-spr.2017.0286},
  volume = {12},
  year = {2018}
 }
@@ -5346,7 +5346,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Katharina Dormann, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Optimally Distributed Kalman Filtering with Data-Driven Communication</b>,</br>Sensors, April, 2018.
-<p class="infolinks"> <a href="javascript:toggleInfo('Sensors2018_Dormann','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Sensors18_Dormann.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://www.mdpi.com/1424-8220/18/4/1034" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('Sensors2018_Dormann','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Sensors18_Dormann.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.mdpi.com/1424-8220/18/4/1034" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_Sensors2018_Dormann" class="bibtex noshow"><td></td>
@@ -5361,7 +5361,7 @@ Inverse Covariance Intersection},
  number = {4},
  pdf = {Sensors18_Dormann.pdf},
  title = {Optimally Distributed Kalman Filtering with Data-Driven Communication},
- url = {http://www.mdpi.com/1424-8220/18/4/1034},
+ url = {https://www.mdpi.com/1424-8220/18/4/1034},
  volume = {18},
  year = {2018}
 }
@@ -6579,7 +6579,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Christoph Pieper, Georg Maier, Florian Pfaff, Harald Kruggel-Emden, Siegmar Wirtz, Robin Gruna, Benjamin Noack, Viktor Scherer, Thomas Längle, Jürgen Beyerer, Uwe D. Hanebeck</i>,</br> <b>Numerical Modeling of an Automated Optical Belt Sorter Using the Discrete Element Method</b>,</br>Powder Technology, July, 2016.
-<p class="infolinks"> <a href="javascript:toggleInfo('PowTec16_Pieper','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PowTec16_Pieper" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S0032591016304119" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('PowTec16_Pieper','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/PowTec16_Pieper.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S0032591016304119" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_PowTec16_Pieper" class="bibtex noshow"><td></td>
@@ -6590,7 +6590,7 @@ Inverse Covariance Intersection},
  doi = {10.1016/j.powtec.2016.07.018},
  journal = {Powder Technology},
  month = {July},
- pdf = {PowTec16_Pieper},
+ pdf = {PowTec16_Pieper.pdf},
  title = {Numerical Modeling of an Automated Optical Belt Sorter Using the Discrete Element Method},
  url = {https://linkinghub.elsevier.com/retrieve/pii/S0032591016304119},
  year = {2016}
@@ -7551,7 +7551,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Benjamin Noack, Joris Sijs, Marc Reinhardt, Uwe D. Hanebeck</i>,</br> <b>Treatment of Dependent Information in Multisensor Kalman Filtering and Data Fusion</b>,</br>Multisensor Data Fusion: From Algorithms and Architectural Design to Applications, pp. 169–192, CRC Press, August, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('CRC15_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.taylorfrancis.com/books/edit/10.1201/b18851/multisensor-data-fusion-hassen-fourati" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CRC15_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.taylorfrancis.com/books/9781482263756" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CRC15_Noack" class="bibtex noshow"><td></td>
@@ -7566,7 +7566,7 @@ Inverse Covariance Intersection},
  pages = {169–192},
  publisher = {CRC Press},
  title = {Treatment of Dependent Information in Multisensor Kalman Filtering and Data Fusion},
- url = {https://www.taylorfrancis.com/books/edit/10.1201/b18851/multisensor-data-fusion-hassen-fourati},
+ url = {https://www.taylorfrancis.com/books/9781482263756},
  year = {2015}
 }
 
@@ -11580,7 +11580,7 @@ Simon Friedberger and Uwe D. Hanebeck},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Benjamin Noack, Vesa Klumpp, Daniel Lyons, Uwe D. Hanebeck</i>,</br> <b>Modeling of Uncertainties and State Estimation with Sets of Probability Densities</b>,</br>Technisches Messen, 77(10):544–550, 2010.
-<p class="infolinks"> <a href="javascript:toggleInfo('TM10_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/teme.2010.0087/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TM10_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0087/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TM10_Noack" class="bibtex noshow"><td></td>
@@ -11596,7 +11596,7 @@ Simon Friedberger and Uwe D. Hanebeck},
  pages = {544–550},
  title = {Modeling of Uncertainties and State Estimation with Sets of Probability Densities},
  type = {Article},
- url = {https://www.degruyter.com/document/doi/10.1524/teme.2010.0087/html},
+ url = {https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0087/html},
  volume = {77},
  year = {2010}
 }
@@ -11688,7 +11688,7 @@ Simon Friedberger and Uwe D. Hanebeck},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Achim Kuwertz, Marco F. Huber, Felix Sawo, Uwe D. Hanebeck</i>,</br> <b>Model-based tracking of movable sources in spatially distributed phenomena using sensor management</b>,</br>Technisches Messen, 77(10):551–557, Oldenbourg Verlag, October, 2010.
-<p class="infolinks"> <a href="javascript:toggleInfo('TM10_Kuwertz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TM10_Kuwertz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/teme.2010.0088/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('TM10_Kuwertz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TM10_Kuwertz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0088/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TM10_Kuwertz" class="bibtex noshow"><td></td>
@@ -11707,7 +11707,7 @@ Simon Friedberger and Uwe D. Hanebeck},
  publisher = {Oldenbourg Verlag},
  subtitle = {Modellbasierte Quellenverfolgung in räumlich ausgedehnten Phänomenen mittels Sensoreinsatzplanung},
  title = {Model-based tracking of movable sources in spatially distributed phenomena using sensor management},
- url = {https://www.degruyter.com/document/doi/10.1524/teme.2010.0088/html},
+ url = {https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0088/html},
  volume = {77},
  year = {2010}
 }
@@ -12609,7 +12609,7 @@ Simon Friedberger and Uwe D. Hanebeck},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Achim Kuwertz, Marco F. Huber, Felix Sawo, Uwe D. Hanebeck</i>,</br> <b>Sensoreinsatzplanung zur Verfolgung von Quellen räumlich ausgedehnter Phänomene</b>,</br>Verteilte Messsysteme, pp. 179–191, KIT Scientific Publishing, March, 2010.
-<p class="infolinks"> <a href="javascript:toggleInfo('VMS10_Kuwertz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/VMS10_Kuwertz" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publikationen.bibliothek.kit.edu/1000015670" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('VMS10_Kuwertz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/VMS10_Kuwertz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publikationen.bibliothek.kit.edu/1000015670" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_VMS10_Kuwertz" class="bibtex noshow"><td></td>
@@ -12621,7 +12621,7 @@ Simon Friedberger and Uwe D. Hanebeck},
  editor = {Fernando Puente León and Klaus-Dieter Sommer and Michael Heizmann},
  month = {March},
  pages = {179–191},
- pdf = {VMS10_Kuwertz},
+ pdf = {VMS10_Kuwertz.pdf},
  publisher = {KIT Scientific Publishing},
  title = {Sensoreinsatzplanung zur Verfolgung von Quellen räumlich ausgedehnter Phänomene},
  url = {https://publikationen.bibliothek.kit.edu/1000015670},
@@ -13815,7 +13815,7 @@ Control and Evaluation},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Vesa Klumpp, Uwe D. Hanebeck</i>,</br> <b>Direct Fusion of Dirac Mixture Densities using an Efficient Approximation in Joint State Space</b>,</br>Proceedings of the 2008 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2008), pp. 168–174, Seoul, Republic of Korea, August, 2008.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_Klumpp-DiracFusion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_Klumpp-DiracFusion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/4648060/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_Klumpp-DiracFusion','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_Klumpp-DiracFusion.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/4648060/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI08_Klumpp-DiracFusion" class="bibtex noshow"><td></td>
@@ -13831,7 +13831,7 @@ Control and Evaluation},
  pdf = {MFI08_Klumpp-DiracFusion.pdf},
  timestamp = {2008.06.27},
  title = {Direct Fusion of Dirac Mixture Densities using an Efficient Approximation in Joint State Space},
- url = {http://ieeexplore.ieee.org/document/4648060/},
+ url = {https://ieeexplore.ieee.org/document/4648060/},
  year = {2008}
 }
 
@@ -13871,7 +13871,7 @@ Control and Evaluation},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Marco F. Huber, Tim Bailey, Hugh Durrant-Whyte, Uwe D. Hanebeck</i>,</br> <b>On Entropy Approximation for Gaussian Mixture Random Vectors</b>,</br>Proceedings of the 2008 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2008), pp. 181–188, Seoul, Republic of Korea, August, 2008.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_HuberBailey','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_HuberBailey.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/4648062/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_HuberBailey','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_HuberBailey.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/4648062/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI08_HuberBailey" class="bibtex noshow"><td></td>
@@ -13887,7 +13887,7 @@ Control and Evaluation},
  pdf = {MFI08_HuberBailey.pdf},
  timestamp = {2008.06.27},
  title = {On Entropy Approximation for Gaussian Mixture Random Vectors},
- url = {http://ieeexplore.ieee.org/document/4648062/},
+ url = {https://ieeexplore.ieee.org/document/4648062/},
  year = {2008}
 }
 
@@ -13899,7 +13899,7 @@ Control and Evaluation},
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Vesa Klumpp</i>,</br> <b>Localized Cumulative Distributions and a Multivariate Generalization of the Cramér-von Mises Distance</b>,</br>Proceedings of the 2008 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI 2008), pp. 33–39, Seoul, Republic of Korea, August, 2008.
-<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_Hanebeck-LCD','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_Hanebeck-LCD.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/4648104/" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI08_Hanebeck-LCD','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI08_Hanebeck-LCD.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/4648104/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_MFI08_Hanebeck-LCD" class="bibtex noshow"><td></td>
@@ -13915,7 +13915,7 @@ Control and Evaluation},
  pdf = {MFI08_Hanebeck-LCD.pdf},
  timestamp = {2008.06.27},
  title = {Localized Cumulative Distributions and a Multivariate Generalization of the Cramér-von Mises Distance},
- url = {http://ieeexplore.ieee.org/document/4648104/},
+ url = {https://ieeexplore.ieee.org/document/4648104/},
  year = {2008}
 }
 
@@ -14733,7 +14733,7 @@ Control and Evaluation},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Dietrich Brunn, Felix Sawo, Uwe D. Hanebeck</i>,</br> <b>Model-based Reconstruction of Distributed Phenomena and Optimal Sensor Placement</b>,</br>Informationsfusion in der Mess- und Sensortechnik, 3:75–90, Oldenbourg Verlag, March, 2007.
-<p class="infolinks"> <a href="javascript:toggleInfo('ITM07_BrunnSawo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ITM07_BrunnSawo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/teme.2007.74.3.147/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ITM07_BrunnSawo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ITM07_BrunnSawo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/teme.2007.74.3.147/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ITM07_BrunnSawo" class="bibtex noshow"><td></td>
@@ -14752,7 +14752,7 @@ Control and Evaluation},
  publisher = {Oldenbourg Verlag},
  subtitle = {Modellbasierte Vermessung verteilter Phänomene und Generierung optimaler Messsequenzen},
  title = {Model-based Reconstruction of Distributed Phenomena and Optimal Sensor Placement},
- url = {https://www.degruyter.com/document/doi/10.1524/teme.2007.74.3.147/html},
+ url = {https://www.degruyterbrill.com/document/doi/10.1524/teme.2007.74.3.147/html},
  volume = {3},
  year = {2007}
 }
@@ -15520,7 +15520,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Kai Briechle, Uwe D. Hanebeck</i>,</br> <b>Localization using set-theoretic nonlinear filtering methods</b>,</br>at – Automatisierungstechnik, 53:415–424, Oldenbourg Verlag, September, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Briechle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Briechle.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.2005.53.9.415/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Briechle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Briechle.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/auto.2005.53.9.415/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT05_Briechle" class="bibtex noshow"><td></td>
@@ -15537,7 +15537,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  publisher = {Oldenbourg Verlag},
  subtitle = {Lokalisierung mittels mengenbasierter nichtlinearer Filterung im Hyperraum},
  title = {Localization using set-theoretic nonlinear filtering methods},
- url = {https://www.degruyter.com/document/doi/10.1524/auto.2005.53.9.415/html},
+ url = {https://www.degruyterbrill.com/document/doi/10.1524/auto.2005.53.9.415/html},
  volume = {53},
  year = {2005}
 }
@@ -15711,7 +15711,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-proceedings"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Hartwig Steusloff (Eds.)</i>,</br> <b>Datenfusion in der Automatisierungstechnik</b>,</br>Oldenbourg Verlag, at – Automatisierungstechnik, July, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.53.7.293.66709/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/auto.53.7.293.66709/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT05_Hanebeck" class="bibtex noshow"><td></td>
@@ -15727,7 +15727,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  series = {at – Automatisierungstechnik},
  subtitle = {Sonderheft},
  title = {Datenfusion in der Automatisierungstechnik},
- url = {https://www.degruyter.com/document/doi/10.1524/auto.53.7.293.66709/html},
+ url = {https://www.degruyterbrill.com/document/doi/10.1524/auto.53.7.293.66709/html},
  volume = {53},
  year = {2005}
 }
@@ -15740,7 +15740,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Marian Grigoras, Olga Feiermann, Uwe D. Hanebeck</i>,</br> <b>Data-Driven Modeling of Signal Strength Distributions for Localization in Cellular Radio Networks</b>,</br>Sonderheft: Datenfusion in der Automatisierungstechnik, 53(7):314–321, Oldenbourg Verlag, at – Automatisierungstechnik, July, 2005.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Grigoras','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Grigoras.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.53.7.314.66708/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT05_Grigoras','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Grigoras.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/auto.53.7.314.66708/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT05_Grigoras" class="bibtex noshow"><td></td>
@@ -15758,7 +15758,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  series = {at – Automatisierungstechnik},
  subtitle = {Datengetriebene Modellierung von Feldstärkeverteilungen für die Ortung in zellulären Funknetzen},
  title = {Data-Driven Modeling of Signal Strength Distributions for Localization in Cellular Radio Networks},
- url = {https://www.degruyter.com/document/doi/10.1524/auto.53.7.314.66708/html},
+ url = {https://www.degruyterbrill.com/document/doi/10.1524/auto.53.7.314.66708/html},
  volume = {53},
  year = {2005}
 }
@@ -16371,7 +16371,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Norbert Nitzsche, Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Mobile haptic interfaces for extended area telepresence: Idea and methodology</b>,</br>at – Automatisierungstechnik, 51(1):5–12, Oldenbourg Verlag, January, 2003.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT03_Nitzsche','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT03_Nitzsche.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.51.1.5.18872/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT03_Nitzsche','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT03_Nitzsche.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/auto.51.1.5.18872/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT03_Nitzsche" class="bibtex noshow"><td></td>
@@ -16389,7 +16389,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  subtitle = {Mobile haptische Schnittstellen für weiträumige Telepräsenz: Idee und Methodik},
  timestamp = {2007.05.23},
  title = {Mobile haptic interfaces for extended area telepresence: Idea and methodology},
- url = {https://www.degruyter.com/document/doi/10.1524/auto.51.1.5.18872/html},
+ url = {https://www.degruyterbrill.com/document/doi/10.1524/auto.51.1.5.18872/html},
  volume = {51},
  year = {2003}
 }
@@ -16848,7 +16848,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Uwe D. Hanebeck, Joachim Horn</i>,</br> <b>State estimation in case of mixed set theoretic and stochastic uncertainties</b>,</br>at – Automatisierungstechnik, 48(6):265–272, Oldenbourg Verlag, 2000.
-<p class="infolinks"> <a href="javascript:toggleInfo('AT00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT00_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1524/auto.2000.48.6.265/html" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('AT00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT00_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/auto.2000.48.6.265/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_AT00_Hanebeck" class="bibtex noshow"><td></td>
@@ -16865,7 +16865,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  subtitle = {Zustandsschätzung im Fall simultan auftretender mengenbasierter und stochastischer Unsicherheiten},
  timestamp = {2007.05.23},
  title = {State estimation in case of mixed set theoretic and stochastic uncertainties},
- url = {https://www.degruyter.com/document/doi/10.1524/auto.2000.48.6.265/html},
+ url = {https://www.degruyterbrill.com/document/doi/10.1524/auto.2000.48.6.265/html},
  volume = {48},
  year = {2000}
 }
@@ -17412,7 +17412,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <td><div class="balken-article"></div>
 </td>
 <td> <i>Eugen Ettelt, Ralf Furtwängler, Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Design Issues of a Semi–Autonomous Robotic Assistant for the Health Care Environment</b>,</br>Journal of Intelligent and Robotic Systems: Theory and Applications, 22(3–4):191–209, Kluwer Academic Publishers, July, 1998.
-<p class="infolinks"> <a href="javascript:toggleInfo('JIRSTA98_Ettelt','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JIRSTA98_Ettelt.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://link.springer.com/10.1023/A:1008082024638" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('JIRSTA98_Ettelt','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/JIRSTA98_Ettelt.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://link.springer.com/10.1023/A:1008082024638" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_JIRSTA98_Ettelt" class="bibtex noshow"><td></td>
@@ -17429,7 +17429,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  publisher = {Kluwer Academic Publishers},
  timestamp = {2007.05.23},
  title = {Design Issues of a Semi–Autonomous Robotic Assistant for the Health Care Environment},
- url = {http://link.springer.com/10.1023/A:1008082024638},
+ url = {https://link.springer.com/10.1023/A:1008082024638},
  volume = {22},
  year = {1998}
 }
