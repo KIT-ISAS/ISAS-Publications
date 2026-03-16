@@ -1,6 +1,5 @@
-2016: https://www.taylorfrancis.com/books/edit/10.1201/b18851/multisensor-data-fusion-hassen-fourati
 
-2015: https://www.taylorfrancis.com/books/edit/10.1201/b19013/event-based-control-signal-processing-marek-miskowicz
+2009: AMAS09_Sommer: non-final title in PDF 
 
 2009: https://link.springer.com/chapter/10.1007/978-3-540-85640-5_22
 
