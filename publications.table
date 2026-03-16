@@ -54,6 +54,60 @@
 </td>
 </tr>
 
+<tr id="Measurement2026_SonglinLi" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Songlin Li, Ting Yuan, Jiawei Fan, Haonan Zhang, Zhuguo Li, Uwe D. Hanebeck, Jiuchao Qian</i>,</br> <b>Fusiform-Aware Network for online laser welding penetration state monitoring by the utilization of vision measurement system</b>,</br>Measurement, 272:121107, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('Measurement2026_SonglinLi','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Measurement2026_SonglinLi.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.sciencedirect.com/science/article/pii/S026322412600816X" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_Measurement2026_SonglinLi" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{Measurement2026_SonglinLi,
+ author = {Songlin Li and Ting Yuan and Jiawei Fan and Haonan Zhang and Zhuguo Li and Uwe D. Hanebeck and Jiuchao Qian},
+ doi = {10.1016/j.measurement.2026.121107},
+ issn = {0263-2241},
+ journal = {Measurement},
+ pages = {121107},
+ pdf = {Measurement2026_SonglinLi.pdf},
+ title = {Fusiform-Aware Network for online laser welding penetration state monitoring by the utilization of vision measurement system},
+ url = {https://www.sciencedirect.com/science/article/pii/S026322412600816X},
+ volume = {272},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="Sensors2026_Fan" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Jiawei Fan, Ting Yuan, Haonan Zhang, Songlin Li, Uwe D. Hanebeck, Zhuguo Li</i>,</br> <b>DMAW: A Dynamic Multimodal Measurement Fusion Network With Attention for Reliable Welding Process Monitoring Under Harsh Industrial Environments</b>,</br>IEEE Sensors Journal, 26(2):2347–2358, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('Sensors2026_Fan','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Sensors2026_Fan.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/11278485/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_Sensors2026_Fan" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{Sensors2026_Fan,
+ author = {Jiawei Fan and Ting Yuan and Haonan Zhang and Songlin Li and Uwe D. Hanebeck and Zhuguo Li},
+ doi = {10.1109/JSEN.2025.3634585},
+ journal = {IEEE Sensors Journal},
+ number = {2},
+ pages = {2347-2358},
+ pdf = {Sensors2026_Fan.pdf},
+ title = {DMAW: A Dynamic Multimodal Measurement Fusion Network With Attention for Reliable Welding Process Monitoring Under Harsh Industrial Environments},
+ url = {https://ieeexplore.ieee.org/document/11278485/},
+ volume = {26},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="arXiv25_Walker_2" class="entry">
 <td><div class="balken-other"></div>
 </td>
@@ -854,6 +908,31 @@
  pdf = {SDF24_Walker.pdf},
  title = {Voronoi Trust Regions for Local Calibration Testing in Supervised Machine Learning Models},
  url = {https://ieeexplore.ieee.org/document/10773946/},
+ year = {2024}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="ION-GNSS24_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Accuracy of Magnetic Field-Based Train Localization and the Impact of Unknown Calibration Parameters</b>,</br>Proceedings of the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2024), Baltimore, Maryland, September, 2024.
+<p class="infolinks"> <a href="javascript:toggleInfo('ION-GNSS24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.ion.org/publications/abstract.cfm?articleID=19927" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_ION-GNSS24_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ION-GNSS24_Siebler,
+ address = {Baltimore, Maryland},
+ author = {Benjamin Siebler and Stephan Sand and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2024)},
+ doi = {10.33012/2024.19927},
+ month = {September},
+ title = {Accuracy of Magnetic Field-Based Train Localization and the Impact of Unknown Calibration Parameters},
+ url = {https://www.ion.org/publications/abstract.cfm?articleID=19927},
  year = {2024}
 }
 
@@ -1874,6 +1953,103 @@
 </td>
 </tr>
 
+<tr id="TII21_Thumm" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Jakob Thumm, Marcel Reith-Braun, Florian Pfaff, Uwe D. Hanebeck, Merle Flitter, Georg Maier, Robin Gruna, Thomas Längle, Albert Bauer, Harald Kruggel-Emden</i>,</br> <b>Mixture of Experts of Neural Networks and Kalman Filters for Optical Belt Sorting</b>,</br>IEEE Transactions on Industrial Informatics, 2022.
+<p class="infolinks"> <a href="javascript:toggleInfo('TII21_Thumm','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TII21_Thumm.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9543590/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_TII21_Thumm" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{TII21_Thumm,
+ author = {Jakob Thumm and Marcel Reith-Braun and Florian Pfaff and Uwe D. Hanebeck and Merle Flitter and Georg Maier and Robin Gruna and Thomas Längle and Albert Bauer and Harald Kruggel-Emden},
+ doi = {10.1109/TII.2021.3114282},
+ journal = {IEEE Transactions on Industrial Informatics},
+ pdf = {TII21_Thumm.pdf},
+ title = {Mixture of Experts of Neural Networks and Kalman Filters for Optical Belt Sorting},
+ url = {https://ieeexplore.ieee.org/document/9543590/},
+ year = {2022}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="LCSS21_Ristic-2" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Marko Ristic, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Cryptographically Privileged State Estimation With Gaussian Keystreams</b>,</br>IEEE Control Systems Letters, 2022.
+<p class="infolinks"> <a href="javascript:toggleInfo('LCSS21_Ristic-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LCSS21_Ristic-2.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9442826/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_LCSS21_Ristic-2" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{LCSS21_Ristic-2,
+ author = {Marko Ristic and Benjamin Noack and Uwe D. Hanebeck},
+ doi = {10.1109/LCSYS.2021.3084405},
+ issn = {2475-1456},
+ journal = {IEEE Control Systems Letters},
+ pdf = {LCSS21_Ristic-2.pdf},
+ title = {Cryptographically Privileged State Estimation With Gaussian Keystreams},
+ url = {https://ieeexplore.ieee.org/document/9442826/},
+ year = {2022}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="Haptics21_Fennel" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Michael Fennel, Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Optimization-Driven Design of a Kinesthetic Haptic Interface with Human-Like Capabilities</b>,</br>IEEE Transactions on Haptics, 2022.
+<p class="infolinks"> <a href="javascript:toggleInfo('Haptics21_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Haptics21_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9662208/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_Haptics21_Fennel" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{Haptics21_Fennel,
+ author = {Michael Fennel and Antonio Zea and Uwe D. Hanebeck},
+ doi = {10.1109/TOH.2021.3137938},
+ journal = {IEEE Transactions on Haptics},
+ pdf = {Haptics21_Fennel.pdf},
+ title = {Optimization-Driven Design of a Kinesthetic Haptic Interface with Human-Like Capabilities},
+ url = {https://ieeexplore.ieee.org/document/9662208/},
+ year = {2022}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="LCSS21_Fennel" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Michael Fennel, Antonio Zea, Johannes Mangler, Arne Roennau, Uwe D. Hanebeck</i>,</br> <b>Haptic Rendering of Arbitrary Serial Manipulators for Robot Programming</b>,</br>IEEE Control Systems Letters, 2022.
+<p class="infolinks"> <a href="javascript:toggleInfo('LCSS21_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LCSS21_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9446567/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_LCSS21_Fennel" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{LCSS21_Fennel,
+ author = {Michael Fennel and Antonio Zea and Johannes Mangler and Arne Roennau and Uwe D. Hanebeck},
+ doi = {10.1109/LCSYS.2021.3086059},
+ journal = {IEEE Control Systems Letters},
+ pdf = {LCSS21_Fennel.pdf},
+ title = {Haptic Rendering of Arbitrary Serial Manipulators for Robot Programming},
+ url = {https://ieeexplore.ieee.org/document/9446567/},
+ year = {2022}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="FB22_Maier" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -2417,23 +2593,27 @@ Information Fusion (Fusion 2022)},
 </td>
 </tr>
 
-<tr id="Haptics21_Fennel" class="entry">
+<tr id="LCSS21_Li" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Michael Fennel, Antonio Zea, Uwe D. Hanebeck</i>,</br> <b>Optimization-Driven Design of a Kinesthetic Haptic Interface with Human-Like Capabilities</b>,</br>IEEE Transactions on Haptics, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('Haptics21_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Haptics21_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9662208/" target="_blank">URL</a></p>
+<td> <i>Kailai Li, Florian Pfaff, Uwe D. Hanebeck</i>,</br> <b>Unscented Dual Quaternion Particle Filter for SE(3) Estimation</b>,</br>IEEE Control Systems Letters, 5(2):647–652, 2021.
+<p class="infolinks"> <a href="javascript:toggleInfo('LCSS21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LCSS21_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9125962/" target="_blank">URL</a></p>
 </td>
 </tr>
-<tr id="bib_Haptics21_Fennel" class="bibtex noshow"><td></td>
+<tr id="bib_LCSS21_Li" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@article{Haptics21_Fennel,
- author = {Michael Fennel and Antonio Zea and Uwe D. Hanebeck},
- doi = {10.1109/TOH.2021.3137938},
- journal = {IEEE Transactions on Haptics},
- pdf = {Haptics21_Fennel.pdf},
- title = {Optimization-Driven Design of a Kinesthetic Haptic Interface with Human-Like Capabilities},
- url = {https://ieeexplore.ieee.org/document/9662208/},
+@article{LCSS21_Li,
+ author = {Kailai Li and Florian Pfaff and Uwe D. Hanebeck},
+ doi = {10.1109/LCSYS.2020.3005066},
+ issn = {2475-1456},
+ journal = {IEEE Control Systems Letters},
+ number = {2},
+ pages = {647–652},
+ pdf = {LCSS21_Li.pdf},
+ title = {Unscented Dual Quaternion Particle Filter for SE(3) Estimation},
+ url = {https://ieeexplore.ieee.org/document/9125962/},
+ volume = {5},
  year = {2021}
 }
 
@@ -2563,31 +2743,6 @@ Information Fusion (Fusion 2022)},
  pdf = {MFI21_Zhao.pdf},
  title = {Kalman Filtered Compressive Sensing Using Pseudo-Measurements},
  url = {https://ieeexplore.ieee.org/document/9591186/},
- year = {2021}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="TII21_Thumm" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Jakob Thumm, Marcel Reith-Braun, Florian Pfaff, Uwe D. Hanebeck, Merle Flitter, Georg Maier, Robin Gruna, Thomas Längle, Albert Bauer, Harald Kruggel-Emden</i>,</br> <b>Mixture of Experts of Neural Networks and Kalman Filters for Optical Belt Sorting</b>,</br>IEEE Transactions on Industrial Informatics, September, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('TII21_Thumm','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TII21_Thumm.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9543590/" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_TII21_Thumm" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{TII21_Thumm,
- author = {Jakob Thumm and Marcel Reith-Braun and Florian Pfaff and Uwe D. Hanebeck and Merle Flitter and Georg Maier and Robin Gruna and Thomas Längle and Albert Bauer and Harald Kruggel-Emden},
- doi = {10.1109/TII.2021.3114282},
- journal = {IEEE Transactions on Industrial Informatics},
- month = {September},
- pdf = {TII21_Thumm.pdf},
- title = {Mixture of Experts of Neural Networks and Kalman Filters for Optical Belt Sorting},
- url = {https://ieeexplore.ieee.org/document/9543590/},
  year = {2021}
 }
 
@@ -2909,31 +3064,6 @@ Information Fusion (Fusion 2022)},
 </td>
 </tr>
 
-<tr id="LCSS21_Fennel" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Michael Fennel, Antonio Zea, Johannes Mangler, Arne Roennau, Uwe D. Hanebeck</i>,</br> <b>Haptic Rendering of Arbitrary Serial Manipulators for Robot Programming</b>,</br>IEEE Control Systems Letters, June, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('LCSS21_Fennel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LCSS21_Fennel.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9446567/" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_LCSS21_Fennel" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{LCSS21_Fennel,
- author = {Michael Fennel and Antonio Zea and Johannes Mangler and Arne Roennau and Uwe D. Hanebeck},
- doi = {10.1109/LCSYS.2021.3086059},
- journal = {IEEE Control Systems Letters},
- month = {June},
- pdf = {LCSS21_Fennel.pdf},
- title = {Haptic Rendering of Arbitrary Serial Manipulators for Robot Programming},
- url = {https://ieeexplore.ieee.org/document/9446567/},
- year = {2021}
-}
-
-</pre>
-</td>
-</tr>
-
 <tr id="arXiv21_Frisch-2" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
@@ -2980,32 +3110,6 @@ Information Fusion (Fusion 2022)},
  title = {iviz: A ROS visualization app for mobile devices},
  url = {https://linkinghub.elsevier.com/retrieve/pii/S2665963821000051},
  volume = {8},
- year = {2021}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="LCSS21_Ristic-2" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Marko Ristic, Benjamin Noack, Uwe D. Hanebeck</i>,</br> <b>Cryptographically Privileged State Estimation With Gaussian Keystreams</b>,</br>IEEE Control Systems Letters, May, 2021.
-<p class="infolinks"> <a href="javascript:toggleInfo('LCSS21_Ristic-2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LCSS21_Ristic-2.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9442826/" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_LCSS21_Ristic-2" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{LCSS21_Ristic-2,
- author = {Marko Ristic and Benjamin Noack and Uwe D. Hanebeck},
- doi = {10.1109/LCSYS.2021.3084405},
- issn = {2475-1456},
- journal = {IEEE Control Systems Letters},
- month = {May},
- pdf = {LCSS21_Ristic-2.pdf},
- title = {Cryptographically Privileged State Estimation With Gaussian Keystreams},
- url = {https://ieeexplore.ieee.org/document/9442826/},
  year = {2021}
 }
 
@@ -3116,6 +3220,31 @@ Information Fusion (Fusion 2022)},
  title = {Localization with Magnetic Field Distortions and Simultaneous Magnetometer Calibration},
  url = {https://ieeexplore.ieee.org/document/9195842/},
  volume = {21},
+ year = {2021}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="TIE20_Maier" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Georg Maier, Florian Pfaff, Christoph Pieper, Robin Gruna, Benjamin Noack, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Experimental Evaluation of a Novel Sensor-Based Sorting Approach Featuring Predictive Real-Time Multiobject Tracking</b>,</br>IEEE Transactions on Industrial Electronics, February, 2021.
+<p class="infolinks"> <a href="javascript:toggleInfo('TIE20_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TIE20_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/8984697/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_TIE20_Maier" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{TIE20_Maier,
+ author = {Georg Maier and Florian Pfaff and Christoph Pieper and Robin Gruna and Benjamin Noack and Harald Kruggel-Emden and Thomas Längle and Uwe D. Hanebeck and Jürgen Beyerer},
+ doi = {10.1109/TIE.2020.2970643},
+ journal = {IEEE Transactions on Industrial Electronics},
+ month = {February},
+ pdf = {TIE20_Maier.pdf},
+ title = {Experimental Evaluation of a Novel Sensor-Based Sorting Approach Featuring Predictive Real-Time Multiobject Tracking},
+ url = {https://ieeexplore.ieee.org/document/8984697/},
  year = {2021}
 }
 
@@ -3795,35 +3924,6 @@ Information Fusion (Fusion 2022)},
 </td>
 </tr>
 
-<tr id="LCSS21_Li" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Kailai Li, Florian Pfaff, Uwe D. Hanebeck</i>,</br> <b>Unscented Dual Quaternion Particle Filter for SE(3) Estimation</b>,</br>IEEE Control Systems Letters, 5(2):647–652, June, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('LCSS21_Li','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LCSS21_Li.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9125962/" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_LCSS21_Li" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{LCSS21_Li,
- author = {Kailai Li and Florian Pfaff and Uwe D. Hanebeck},
- doi = {10.1109/LCSYS.2020.3005066},
- issn = {2475-1456},
- journal = {IEEE Control Systems Letters},
- month = {June},
- number = {2},
- pages = {647–652},
- pdf = {LCSS21_Li.pdf},
- title = {Unscented Dual Quaternion Particle Filter for SE(3) Estimation},
- url = {https://ieeexplore.ieee.org/document/9125962/},
- volume = {5},
- year = {2020}
-}
-
-</pre>
-</td>
-</tr>
-
 <tr id="ICRA20_Li" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -4052,31 +4152,6 @@ Information Fusion (Fusion 2022)},
  pdf = {CISS20_Hanebeck.pdf},
  title = {Deterministic Sampling of Multivariate Densities based on Projected Cumulative Distributions},
  url = {https://ieeexplore.ieee.org/document/9086228/},
- year = {2020}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="TIE20_Maier" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Georg Maier, Florian Pfaff, Christoph Pieper, Robin Gruna, Benjamin Noack, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Experimental Evaluation of a Novel Sensor-Based Sorting Approach Featuring Predictive Real-Time Multiobject Tracking</b>,</br>IEEE Transactions on Industrial Electronics, February, 2020.
-<p class="infolinks"> <a href="javascript:toggleInfo('TIE20_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TIE20_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/8984697/" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_TIE20_Maier" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{TIE20_Maier,
- author = {Georg Maier and Florian Pfaff and Christoph Pieper and Robin Gruna and Benjamin Noack and Harald Kruggel-Emden and Thomas Längle and Uwe D. Hanebeck and Jürgen Beyerer},
- doi = {10.1109/TIE.2020.2970643},
- journal = {IEEE Transactions on Industrial Electronics},
- month = {February},
- pdf = {TIE20_Maier.pdf},
- title = {Experimental Evaluation of a Novel Sensor-Based Sorting Approach Featuring Predictive Real-Time Multiobject Tracking},
- url = {https://ieeexplore.ieee.org/document/8984697/},
  year = {2020}
 }
 
@@ -4430,8 +4505,7 @@ Information Fusion (Fusion 2022)},
 <tr id="Fusion19_Noack" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Benjamin Noack, Umut Orguner, Uwe D. Hanebeck</i>,</br> <b>Nonlinear Decentralized Data Fusion with Generalized
-Inverse Covariance Intersection</b>,</br>Proceedings of the 22nd International Conference on
+<td> <i>Benjamin Noack, Umut Orguner, Uwe D. Hanebeck</i>,</br> <b>Nonlinear Decentralized Data Fusion with Generalized Inverse Covariance Intersection</b>,</br>Proceedings of the 22nd International Conference on
 Information Fusion (Fusion 2019), Ottawa, Canada, July, 2019.
 <p class="infolinks"> <a href="javascript:toggleInfo('Fusion19_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/Fusion19_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/9011163/" target="_blank">URL</a></p>
 </td>
@@ -4447,8 +4521,7 @@ Information Fusion (Fusion 2019)},
  doi = {10.23919/FUSION43075.2019.9011163},
  month = {July},
  pdf = {Fusion19_Noack.pdf},
- title = {Nonlinear Decentralized Data Fusion with Generalized
-Inverse Covariance Intersection},
+ title = {Nonlinear Decentralized Data Fusion with Generalized Inverse Covariance Intersection},
  url = {https://ieeexplore.ieee.org/document/9011163/},
  year = {2019}
 }
@@ -5451,30 +5524,6 @@ Inverse Covariance Intersection},
 </tr>
 
 <tr class="year"><td></td><td><a name="2017"></a>2017</td></tr>
-<tr id="TAES17_Zea" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Antonio Zea, Florian Faion, Marcus Baum, Uwe D. Hanebeck</i>,</br> <b>Level-Set Random Hypersurface Models for Tracking Nonconvex Extended Objects</b>,</br>IEEE Transactions on Aerospace and Electronic Systems, 2017.
-<p class="infolinks"> <a href="javascript:toggleInfo('TAES17_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TAES17_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/7855600/" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_TAES17_Zea" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{TAES17_Zea,
- author = {Antonio Zea and Florian Faion and Marcus Baum and Uwe D. Hanebeck},
- doi = {10.1109/TAES.2016.130704},
- journal = {IEEE Transactions on Aerospace and Electronic Systems},
- pdf = {TAES17_Zea.pdf},
- title = {Level-Set Random Hypersurface Models for Tracking Nonconvex Extended Objects},
- url = {http://ieeexplore.ieee.org/document/7855600/},
- year = {2017}
-}
-
-</pre>
-</td>
-</tr>
-
 <tr id="IRS17_Nuss" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -6153,6 +6202,30 @@ Inverse Covariance Intersection},
 </tr>
 
 <tr class="year"><td></td><td><a name="2016"></a>2016</td></tr>
+<tr id="TAES17_Zea" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Antonio Zea, Florian Faion, Marcus Baum, Uwe D. Hanebeck</i>,</br> <b>Level-Set Random Hypersurface Models for Tracking Nonconvex Extended Objects</b>,</br>IEEE Transactions on Aerospace and Electronic Systems, 2016.
+<p class="infolinks"> <a href="javascript:toggleInfo('TAES17_Zea','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TAES17_Zea.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://ieeexplore.ieee.org/document/7855600/" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_TAES17_Zea" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{TAES17_Zea,
+ author = {Antonio Zea and Florian Faion and Marcus Baum and Uwe D. Hanebeck},
+ doi = {10.1109/TAES.2016.130704},
+ journal = {IEEE Transactions on Aerospace and Electronic Systems},
+ pdf = {TAES17_Zea.pdf},
+ title = {Level-Set Random Hypersurface Models for Tracking Nonconvex Extended Objects},
+ url = {http://ieeexplore.ieee.org/document/7855600/},
+ year = {2016}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="BRI16_Oesterlein" class="entry">
 <td><div class="balken-article"></div>
 </td>
@@ -7128,7 +7201,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Joris Sijs, Benjamin Noack, Mircea Lazar, Uwe D. Hanebeck</i>,</br> <b>Time-Periodic State Estimation with Event-Based Measurement Updates</b>,</br>Event-Based Control and Signal Processing, pp. 261–279, CRC Press, November, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('CRC15_Sijs','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.taylorfrancis.com/books/9781482256567" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CRC15_Sijs','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CRC15_Sijs.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.taylorfrancis.com/books/9781482256567" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CRC15_Sijs" class="bibtex noshow"><td></td>
@@ -7141,6 +7214,7 @@ Inverse Covariance Intersection},
  editor = {Marek Miskowicz},
  month = {November},
  pages = {261–279},
+ pdf = {CRC15_Sijs.pdf},
  publisher = {CRC Press},
  title = {Time-Periodic State Estimation with Event-Based Measurement Updates},
  url = {https://www.taylorfrancis.com/books/9781482256567},
@@ -7551,7 +7625,7 @@ Inverse Covariance Intersection},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Benjamin Noack, Joris Sijs, Marc Reinhardt, Uwe D. Hanebeck</i>,</br> <b>Treatment of Dependent Information in Multisensor Kalman Filtering and Data Fusion</b>,</br>Multisensor Data Fusion: From Algorithms and Architectural Design to Applications, pp. 169–192, CRC Press, August, 2015.
-<p class="infolinks"> <a href="javascript:toggleInfo('CRC15_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.taylorfrancis.com/books/9781482263756" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('CRC15_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CRC15_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.taylorfrancis.com/books/9781482263756" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_CRC15_Noack" class="bibtex noshow"><td></td>
@@ -7564,6 +7638,7 @@ Inverse Covariance Intersection},
  editor = {Hassen Fourati},
  month = {August},
  pages = {169–192},
+ pdf = {CRC15_Noack.pdf},
  publisher = {CRC Press},
  title = {Treatment of Dependent Information in Multisensor Kalman Filtering and Data Fusion},
  url = {https://www.taylorfrancis.com/books/9781482263756},
@@ -13535,7 +13610,7 @@ Control and Evaluation},
 <td><div class="balken-incollection"></div>
 </td>
 <td> <i>Felix Sawo, Kathrin Roberts, Uwe D. Hanebeck</i>,</br> <b>Model-Based Reconstruction of Distributed Phenomena Using Discretized Representations of Partial Differential Equations</b>,</br>Informatics in Control, Automation and Robotics, Selected Papers from ICINCO 2006, Springer, Lecture Notes in Electrical Engineering, 2008.
-<p class="infolinks"> <a href="javascript:toggleInfo('LNEE_ICINCO07_SawoRoberts','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="http://link.springer.com/10.1007/978-3-540-79142-3_24" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('LNEE_ICINCO07_SawoRoberts','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/LNEE_ICINCO07_SawoRoberts.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="http://link.springer.com/10.1007/978-3-540-79142-3_24" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_LNEE_ICINCO07_SawoRoberts" class="bibtex noshow"><td></td>
@@ -13545,6 +13620,7 @@ Control and Evaluation},
  author = {Felix Sawo and Kathrin Roberts and Uwe D. Hanebeck},
  booktitle = {Informatics in Control, Automation and Robotics, Selected Papers from ICINCO 2006},
  doi = {10.1007/978-3-540-79142-3_24},
+ pdf = {LNEE_ICINCO07_SawoRoberts.pdf},
  publisher = {Springer},
  series = {Lecture Notes in Electrical Engineering},
  title = {Model-Based Reconstruction of Distributed Phenomena Using Discretized Representations of Partial Differential Equations},
@@ -17009,8 +17085,8 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <tr id="IROS99_HanebeckHorn" class="entry">
 <td><div class="balken-other"></div>
 </td>
-<td> <i>Uwe D. Hanebeck, Joachim Horn</i>,</br> <b>State estimation based on observations simultaneously corrupted by random noise with known distribution and uncertainties with known bounds</b>,</br>IEEE International Conference on Intelligent Robots and Systems, 2:665–670, IEEE, 1999.
-<p class="infolinks"> <a href="javascript:toggleInfo('IROS99_HanebeckHorn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<td> <i>Uwe D. Hanebeck, Joachim Horn</i>,</br> <b>State estimation based on observations simultaneously corrupted by random noise with known distribution and uncertainties with known bounds</b>,</br>Proceedings of the 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 1999), 2:665–670, IEEE, 1999.
+<p class="infolinks"> <a href="javascript:toggleInfo('IROS99_HanebeckHorn','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://ieeexplore.ieee.org/document/812756/" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_IROS99_HanebeckHorn" class="bibtex noshow"><td></td>
@@ -17018,12 +17094,14 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <pre>
 @conference{IROS99_HanebeckHorn,
  author = {Uwe D. Hanebeck and Joachim Horn},
- journal = {IEEE International Conference on Intelligent Robots and Systems},
+ doi = {10.1109/IROS.1999.812756},
+ journal = {Proceedings of the 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 1999)},
  language = {English},
  pages = {665–670},
  publisher = {IEEE},
  title = {State estimation based on observations simultaneously corrupted by random noise with known distribution and uncertainties with known bounds},
  type = {Conference paper},
+ url = {https://ieeexplore.ieee.org/document/812756/},
  volume = {2},
  year = {1999}
 }
@@ -17153,6 +17231,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  address = {Kjongju, Republic of Korea},
  author = {Uwe D. Hanebeck and Nihad Šaldić},
  booktitle = {Proceedings of the 1999 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 1999)},
+ doi = {10.1109/IROS.1999.812974},
  month = {October},
  pdf = {IROS99_WHEEL.pdf},
  timestamp = {2007.05.23},
