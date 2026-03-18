@@ -1253,6 +1253,30 @@
 </td>
 </tr>
 
+<tr id="CIT22_Bauer" class="entry">
+<td><div class="balken-article"></div>
+</td>
+<td> <i>Albert Bauer, Georg Maier, Marcel Reith-Braun, Harald Kruggel-Emden, Florian Pfaff, Robin Gruna, Uwe D. Hanebeck, Thomas Längle</i>,</br> <b>Benchmarking a DEM-CFD Model of an Optical Belt Sorter by Experimental Comparison</b>,</br>Chemie Ingenieur Technik, 2023.
+<p class="infolinks"> <a href="javascript:toggleInfo('CIT22_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CIT22_Bauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1002/cite.202200124" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_CIT22_Bauer" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@article{CIT22_Bauer,
+ author = {Albert Bauer and Georg Maier and Marcel Reith-Braun and Harald Kruggel-Emden and Florian Pfaff and Robin Gruna and Uwe D. Hanebeck and Thomas Längle},
+ doi = {10.1002/cite.202200124},
+ journal = {Chemie Ingenieur Technik},
+ pdf = {CIT22_Bauer.pdf},
+ title = {Benchmarking a DEM-CFD Model of an Optical Belt Sorter by Experimental Comparison},
+ url = {https://onlinelibrary.wiley.com/doi/10.1002/cite.202200124},
+ year = {2023}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="SDF-MFI23_Walker" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -1649,7 +1673,7 @@
 <tr id="TM23_Maier" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Georg Maier, Marcel Reith-Braun, Albert Bauer, Robin Gruna, Florian Pfaff, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Simulation Study and Experimental Validation of a Neural Network-Based Predictive Tracking System for Sensor-Based Sorting</b>,</br>Technisches Messen, May, 2023.
+<td> <i>Georg Maier, Marcel Reith-Braun, Albert Bauer, Robin Gruna, Florian Pfaff, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Simulation Study and Experimental Validation of a Neural Network-Based Predictive Tracking System for Sensor-Based Sorting</b>,</br>tm - Technisches Messen, May, 2023.
 <p class="infolinks"> <a href="javascript:toggleInfo('TM23_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TM23_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyter.com/document/doi/10.1515/teme-2023-0033/html" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -1659,7 +1683,7 @@
 @article{TM23_Maier,
  author = {Georg Maier and Marcel Reith-Braun and Albert Bauer and Robin Gruna and Florian Pfaff and Harald Kruggel-Emden and Thomas Längle and Uwe D. Hanebeck and Jürgen Beyerer},
  doi = {10.1515/teme-2023-0033},
- journal = {Technisches Messen},
+ journal = {tm - Technisches Messen},
  month = {May},
  pdf = {TM23_Maier.pdf},
  title = {Simulation Study and Experimental Validation of a Neural Network-Based Predictive Tracking System for Sensor-Based Sorting},
@@ -1843,30 +1867,6 @@
  title = {Towards a feed material adaptive optical belt sorter: A simulation study utilizing a DEM-CFD approach},
  url = {https://linkinghub.elsevier.com/retrieve/pii/S0032591022007987},
  volume = {411},
- year = {2022}
-}
-
-</pre>
-</td>
-</tr>
-
-<tr id="CIT22_Bauer" class="entry">
-<td><div class="balken-article"></div>
-</td>
-<td> <i>Albert Bauer, Georg Maier, Marcel Reith-Braun, Harald Kruggel-Emden, Florian Pfaff, Robin Gruna, Uwe D. Hanebeck, Thomas Längle</i>,</br> <b>Benchmarking a DEM-CFD Model of an Optical Belt Sorter by Experimental Comparison</b>,</br>Chemie Ingenieur Technik, 2022.
-<p class="infolinks"> <a href="javascript:toggleInfo('CIT22_Bauer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CIT22_Bauer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://onlinelibrary.wiley.com/doi/10.1002/cite.202200124" target="_blank">URL</a></p>
-</td>
-</tr>
-<tr id="bib_CIT22_Bauer" class="bibtex noshow"><td></td>
-<td><b>BibTeX</b>:
-<pre>
-@article{CIT22_Bauer,
- author = {Albert Bauer and Georg Maier and Marcel Reith-Braun and Harald Kruggel-Emden and Florian Pfaff and Robin Gruna and Uwe D. Hanebeck and Thomas Längle},
- doi = {10.1002/cite.202200124},
- journal = {Chemie Ingenieur Technik},
- pdf = {CIT22_Bauer.pdf},
- title = {Benchmarking a DEM-CFD Model of an Optical Belt Sorter by Experimental Comparison},
- url = {https://onlinelibrary.wiley.com/doi/10.1002/cite.202200124},
  year = {2022}
 }
 
@@ -10783,7 +10783,7 @@ Control Inputs},
 <tr id="SPIE12_FischerBaum" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Yvonne Fischer, Marcus Baum, Fabian Flohr, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Evaluation of Tracking Methods for Maritime Surveillance </b>,</br>Signal Processing, Sensor Fusion, and Target Recognition XXI (Proceedings of SPIE), Baltimore, Maryland, USA, April, 2012.
+<td> <i>Yvonne Fischer, Marcus Baum, Fabian Flohr, Uwe D. Hanebeck, Jürgen Beyerer</i>,</br> <b>Evaluation of Tracking Methods for Maritime Surveillance</b>,</br>Signal Processing, Sensor Fusion, and Target Recognition XXI (Proceedings of SPIE), Baltimore, Maryland, USA, April, 2012.
 <p class="infolinks"> <a href="javascript:toggleInfo('SPIE12_FischerBaum','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1354645" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -10796,7 +10796,7 @@ Control Inputs},
  booktitle = {Signal Processing, Sensor Fusion, and Target Recognition XXI (Proceedings of SPIE)},
  doi = {10.1117/12.919234},
  month = {April},
- title = {Evaluation of Tracking Methods for Maritime Surveillance },
+ title = {Evaluation of Tracking Methods for Maritime Surveillance},
  url = {https://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1354645},
  year = {2012}
 }
@@ -11562,8 +11562,8 @@ Simon Friedberger and Uwe D. Hanebeck},
 <tr id="TM10_Noack" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Benjamin Noack, Vesa Klumpp, Daniel Lyons, Uwe D. Hanebeck</i>,</br> <b>Modeling of Uncertainties and State Estimation with Sets of Probability Densities</b>,</br>Technisches Messen, 77(10):544–550, 2010.
-<p class="infolinks"> <a href="javascript:toggleInfo('TM10_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0087/html" target="_blank">URL</a></p>
+<td> <i>Benjamin Noack, Vesa Klumpp, Daniel Lyons, Uwe D. Hanebeck</i>,</br> <b>Modellierung von Unsicherheiten und Zustandsschätzung mit Mengen von Wahrscheinlichkeitsdichten</b>,</br>Technisches Messen, 77(10):544–550, 2010.
+<p class="infolinks"> <a href="javascript:toggleInfo('TM10_Noack','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TM10_Noack.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0087/html" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_TM10_Noack" class="bibtex noshow"><td></td>
@@ -11577,7 +11577,9 @@ Simon Friedberger and Uwe D. Hanebeck},
  language = {German},
  number = {10},
  pages = {544–550},
- title = {Modeling of Uncertainties and State Estimation with Sets of Probability Densities},
+ pdf = {TM10_Noack.pdf},
+ subtitle = {Modeling of Uncertainties and State Estimation with Sets of Probability Densities},
+ title = {Modellierung von Unsicherheiten und Zustandsschätzung mit Mengen von Wahrscheinlichkeitsdichten},
  type = {Article},
  url = {https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0087/html},
  volume = {77},
@@ -11670,7 +11672,7 @@ Simon Friedberger and Uwe D. Hanebeck},
 <tr id="TM10_Kuwertz" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Achim Kuwertz, Marco F. Huber, Felix Sawo, Uwe D. Hanebeck</i>,</br> <b>Model-based tracking of movable sources in spatially distributed phenomena using sensor management</b>,</br>Technisches Messen, 77(10):551–557, Oldenbourg Verlag, October, 2010.
+<td> <i>Achim Kuwertz, Marco F. Huber, Felix Sawo, Uwe D. Hanebeck</i>,</br> <b>Modellbasierte Quellenverfolgung in räumlich ausgedehnten Phänomenen mittels Sensoreinsatzplanung</b>,</br>Technisches Messen, 77(10):551–557, Oldenbourg Verlag, October, 2010.
 <p class="infolinks"> <a href="javascript:toggleInfo('TM10_Kuwertz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/TM10_Kuwertz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0088/html" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -11688,8 +11690,8 @@ Simon Friedberger and Uwe D. Hanebeck},
  pages = {551–557},
  pdf = {TM10_Kuwertz.pdf},
  publisher = {Oldenbourg Verlag},
- subtitle = {Modellbasierte Quellenverfolgung in räumlich ausgedehnten Phänomenen mittels Sensoreinsatzplanung},
- title = {Model-based tracking of movable sources in spatially distributed phenomena using sensor management},
+ subtitle = {Model-based tracking of movable sources in spatially distributed phenomena using sensor management},
+ title = {Modellbasierte Quellenverfolgung in räumlich ausgedehnten Phänomenen mittels Sensoreinsatzplanung},
  url = {https://www.degruyterbrill.com/document/doi/10.1524/teme.2010.0088/html},
  volume = {77},
  year = {2010}
@@ -14727,7 +14729,7 @@ Simulations},
 <tr id="ITM07_BrunnSawo" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Dietrich Brunn, Felix Sawo, Uwe D. Hanebeck</i>,</br> <b>Model-based Reconstruction of Distributed Phenomena and Optimal Sensor Placement</b>,</br>Informationsfusion in der Mess- und Sensortechnik, 3:75–90, Oldenbourg Verlag, March, 2007.
+<td> <i>Dietrich Brunn, Felix Sawo, Uwe D. Hanebeck</i>,</br> <b>Modellbasierte Vermessung verteilter Phänomene und Generierung optimaler Messsequenzen</b>,</br>Informationsfusion in der Mess- und Sensortechnik, 3:75–90, Oldenbourg Verlag, March, 2007.
 <p class="infolinks"> <a href="javascript:toggleInfo('ITM07_BrunnSawo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ITM07_BrunnSawo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/teme.2007.74.3.147/html" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -14745,8 +14747,8 @@ Simulations},
  pages = {75–90},
  pdf = {ITM07_BrunnSawo.pdf},
  publisher = {Oldenbourg Verlag},
- subtitle = {Modellbasierte Vermessung verteilter Phänomene und Generierung optimaler Messsequenzen},
- title = {Model-based Reconstruction of Distributed Phenomena and Optimal Sensor Placement},
+ subtitle = {Model-based Reconstruction of Distributed Phenomena and Optimal Sensor Placement},
+ title = {Modellbasierte Vermessung verteilter Phänomene und Generierung optimaler Messsequenzen},
  url = {https://www.degruyterbrill.com/document/doi/10.1524/teme.2007.74.3.147/html},
  volume = {3},
  year = {2007}
@@ -15514,7 +15516,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <tr id="AT05_Briechle" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Kai Briechle, Uwe D. Hanebeck</i>,</br> <b>Localization using set-theoretic nonlinear filtering methods</b>,</br>at – Automatisierungstechnik, 53:415–424, Oldenbourg Verlag, September, 2005.
+<td> <i>Kai Briechle, Uwe D. Hanebeck</i>,</br> <b>Lokalisierung mittels mengenbasierter nichtlinearer Filterung im Hyperraum</b>,</br>at – Automatisierungstechnik, 53:415–424, Oldenbourg Verlag, September, 2005.
 <p class="infolinks"> <a href="javascript:toggleInfo('AT05_Briechle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT05_Briechle.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/auto.2005.53.9.415/html" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -15530,8 +15532,8 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {415–424},
  pdf = {AT05_Briechle.pdf},
  publisher = {Oldenbourg Verlag},
- subtitle = {Lokalisierung mittels mengenbasierter nichtlinearer Filterung im Hyperraum},
- title = {Localization using set-theoretic nonlinear filtering methods},
+ subtitle = {Localization using set-theoretic nonlinear filtering methods},
+ title = {Lokalisierung mittels mengenbasierter nichtlinearer Filterung im Hyperraum},
  url = {https://www.degruyterbrill.com/document/doi/10.1524/auto.2005.53.9.415/html},
  volume = {53},
  year = {2005}
@@ -16367,7 +16369,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <tr id="AT03_Nitzsche" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Norbert Nitzsche, Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Mobile haptic interfaces for extended area telepresence: Idea and methodology</b>,</br>at – Automatisierungstechnik, 51(1):5–12, Oldenbourg Verlag, January, 2003.
+<td> <i>Norbert Nitzsche, Uwe D. Hanebeck, Günther Schmidt</i>,</br> <b>Mobile haptische Schnittstellen für weiträumige Telepräsenz: Idee und Methodik</b>,</br>at – Automatisierungstechnik, 51(1):5–12, Oldenbourg Verlag, January, 2003.
 <p class="infolinks"> <a href="javascript:toggleInfo('AT03_Nitzsche','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT03_Nitzsche.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/auto.51.1.5.18872/html" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -16383,9 +16385,9 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {5–12},
  pdf = {AT03_Nitzsche.pdf},
  publisher = {Oldenbourg Verlag},
- subtitle = {Mobile haptische Schnittstellen für weiträumige Telepräsenz: Idee und Methodik},
+ subtitle = {Mobile haptic interfaces for extended area telepresence: Idea and methodology},
  timestamp = {2007.05.23},
- title = {Mobile haptic interfaces for extended area telepresence: Idea and methodology},
+ title = {Mobile haptische Schnittstellen für weiträumige Telepräsenz: Idee und Methodik},
  url = {https://www.degruyterbrill.com/document/doi/10.1524/auto.51.1.5.18872/html},
  volume = {51},
  year = {2003}
@@ -16851,7 +16853,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
 <tr id="AT00_Hanebeck" class="entry">
 <td><div class="balken-article"></div>
 </td>
-<td> <i>Uwe D. Hanebeck, Joachim Horn</i>,</br> <b>State estimation in case of mixed set theoretic and stochastic uncertainties</b>,</br>at – Automatisierungstechnik, 48(6):265–272, Oldenbourg Verlag, 2000.
+<td> <i>Uwe D. Hanebeck, Joachim Horn</i>,</br> <b>Zustandsschätzung im Fall simultan auftretender mengenbasierter und stochastischer Unsicherheiten</b>,</br>at – Automatisierungstechnik, 48(6):265–272, Oldenbourg Verlag, 2000.
 <p class="infolinks"> <a href="javascript:toggleInfo('AT00_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/AT00_Hanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.degruyterbrill.com/document/doi/10.1524/auto.2000.48.6.265/html" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -16866,9 +16868,9 @@ Informatik (IBFI), Schloss Dagstuhl, Germany},
  pages = {265–272},
  pdf = {AT00_Hanebeck.pdf},
  publisher = {Oldenbourg Verlag},
- subtitle = {Zustandsschätzung im Fall simultan auftretender mengenbasierter und stochastischer Unsicherheiten},
+ subtitle = {State estimation in case of mixed set theoretic and stochastic uncertainties},
  timestamp = {2007.05.23},
- title = {State estimation in case of mixed set theoretic and stochastic uncertainties},
+ title = {Zustandsschätzung im Fall simultan auftretender mengenbasierter und stochastischer Unsicherheiten},
  url = {https://www.degruyterbrill.com/document/doi/10.1524/auto.2000.48.6.265/html},
  volume = {48},
  year = {2000}
