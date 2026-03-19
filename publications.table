@@ -865,7 +865,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Benjamin Siebler, Stephan Sand, Uwe D. Hanebeck</i>,</br> <b>Accuracy of Magnetic Field-Based Train Localization and the Impact of Unknown Calibration Parameters</b>,</br>Proceedings of the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2024), Baltimore, Maryland, September, 2024.
-<p class="infolinks"> <a href="javascript:toggleInfo('ION-GNSS24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.ion.org/publications/abstract.cfm?articleID=19927" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ION-GNSS24_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ION-GNSS24_Siebler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.ion.org/publications/abstract.cfm?articleID=19927" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_ION-GNSS24_Siebler" class="bibtex noshow"><td></td>
@@ -877,6 +877,7 @@
  booktitle = {Proceedings of the 37th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2024)},
  doi = {10.33012/2024.19927},
  month = {September},
+ pdf = {ION-GNSS24_Siebler.pdf},
  title = {Accuracy of Magnetic Field-Based Train Localization and the Impact of Unknown Calibration Parameters},
  url = {https://www.ion.org/publications/abstract.cfm?articleID=19927},
  year = {2024}
