@@ -54,6 +54,55 @@
 </td>
 </tr>
 
+<tr id="ACC26_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Markus Walker, Daniel Frisch,, Uwe D. Hanebeck</i>,</br> <b>Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples</b>,</br>Proceedings of the 2026 American Control Conference (ACC 2026), New Orleans, Louisiana, May, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('ACC26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_ACC26_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{ACC26_Walker,
+ address = {New Orleans, Louisiana},
+ author = {Markus Walker, Daniel Frisch, and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2026 American Control Conference (ACC 2026)},
+ doitodo = {},
+ month = {May},
+ pdftodo = {ACC26_Walker.pdf},
+ title = {Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples},
+ urltodo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="SBSC26_Reith-Braun" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Marcel Reith-Braun, Georg Maier, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer, Florian Pfaff, Kevin Liang, Uwe D. Hanebeck</i>,</br> <b>Breaking the Pneumatic Barrier: Mechanically Actuated 2D Grids for High-throughput, Energy-Efficient Sensor-based Sorting</b>,</br>Proceedings of the 11th Sensor-Based Sorting & Control Conference (SBSC 2026), Aachen, Germany, March, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('SBSC26_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_SBSC26_Reith-Braun" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{SBSC26_Reith-Braun,
+ address = {Aachen, Germany},
+ author = {Marcel Reith-Braun and Georg Maier and Harald Kruggel-Emden and Thomas Längle and Jürgen Beyerer and Florian Pfaff and Kevin Liang and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 11th Sensor-Based Sorting & Control Conference (SBSC 2026)},
+ month = {March},
+ title = {Breaking the Pneumatic Barrier: Mechanically Actuated 2D Grids for High-throughput, Energy-Efficient Sensor-based Sorting},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="arXiv25_Walker_2" class="entry">
 <td><div class="balken-other"></div>
 </td>
