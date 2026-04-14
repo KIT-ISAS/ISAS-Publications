@@ -54,6 +54,110 @@
 </td>
 </tr>
 
+<tr id="IFAC26_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Markus Walker, Marcel Reith-Braun, Tai Hoang, Gerhard Neumann, Uwe D. Hanebeck</i>,</br> <b>Smooth Sampling-Based Model Predictive Control Using Deterministic Samples</b>,</br>Proceedings of the 23rd IFAC World Congress (IFAC 2026), Busan, Republic of Korea, August, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_IFAC26_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{IFAC26_Walker,
+ address = {Busan, Republic of Korea},
+ author = {Markus Walker and Marcel Reith-Braun and Tai Hoang and Gerhard Neumann and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 23rd IFAC World Congress (IFAC 2026)},
+ doi_todo = {},
+ month = {August},
+ pdf_todo = {IFAC26_Walker.pdf},
+ title = {Smooth Sampling-Based Model Predictive Control Using Deterministic Samples},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="IFAC26_Kim" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Sukkeun Kim, Uwe D. Hanebeck</i>,</br> <b>The Hitchhiker's Guide to Particle Flow-based Filters: A Survey</b>,</br>Proceedings of the 23rd IFAC World Congress (IFAC 2026), Busan, Republic of Korea, August, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Kim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_IFAC26_Kim" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{IFAC26_Kim,
+ address = {Busan, Republic of Korea},
+ author = {Sukkeun Kim and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 23rd IFAC World Congress (IFAC 2026)},
+ doi_todo = {},
+ month = {August},
+ pdf_todo = {IFAC26_Kim.pdf},
+ title = {The Hitchhiker's Guide to Particle Flow-based Filters: A Survey},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="IFAC26_Frisch" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Density Estimation from Weighted Samples with the Localized Cumulative Distribution</b>,</br>Proceedings of the 23rd IFAC World Congress (IFAC 2026), Busan, Republic of Korea, August, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_IFAC26_Frisch" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{IFAC26_Frisch,
+ address = {Busan, Republic of Korea},
+ author = {Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 23rd IFAC World Congress (IFAC 2026)},
+ doi_todo = {},
+ month = {August},
+ pdf_todo = {IFAC26_Frisch.pdf},
+ title = {Density Estimation from Weighted Samples with the Localized Cumulative Distribution},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="IFAC26_Zhou" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Jiachen Zhou, Yifei Zhang, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>S2CamP: Smart View-Frustum Sampling for Camera-Parameter Preconditioning</b>,</br>Proceedings of the 23rd IFAC World Congress (IFAC 2026), Busan, Republic of Korea, August, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_IFAC26_Zhou" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{IFAC26_Zhou,
+ address = {Busan, Republic of Korea},
+ author = {Jiachen Zhou and Yifei Zhang and Harald Kruggel-Emden and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 23rd IFAC World Congress (IFAC 2026)},
+ doi_todo = {},
+ month = {August},
+ pdf_todo = {IFAC26_Zhou.pdf},
+ title = {S2CamP: Smart View-Frustum Sampling for Camera-Parameter Preconditioning},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="ACC26_Walker" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
