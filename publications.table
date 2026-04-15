@@ -158,6 +158,318 @@
 </td>
 </tr>
 
+<tr id="FUSION26_Zhou" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Jiachen Zhou, Uwe D. Hanebeck</i>,</br> <b>Closed-Form Multi-Anchor Wasserstein Barycenters for High-Quality Assumed Gaussian Filtering</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Zhou" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Zhou,
+ address = {Trondheim, Norway},
+ author = {Jiachen Zhou and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Zhou.pdf},
+ title = {Closed-Form Multi-Anchor Wasserstein Barycenters for High-Quality Assumed Gaussian Filtering},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Korsakov" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Vlad M. Korsakov, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Deterministic Sampling of the Watson Distribution</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Korsakov','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Korsakov" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Korsakov,
+ address = {Trondheim, Norway},
+ author = {Vlad M. Korsakov and Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Korsakov.pdf},
+ title = {Deterministic Sampling of the Watson Distribution},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Prossel" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Dominik Prossel, Zhilun Li, Petr Novikov, Uwe D. Hanebeck</i>,</br> <b>Fast Deterministic Sampling of Gaussian Mixture Densities using Projected Cumulative Distributions</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Prossel','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Prossel" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Prossel,
+ address = {Trondheim, Norway},
+ author = {Dominik Prossel and Zhilun Li and Petr Novikov and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Prossel.pdf},
+ title = {Fast Deterministic Sampling of Gaussian Mixture Densities using Projected Cumulative Distributions},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Frisch" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Interpolation of Probability Densities on a Grid \\ in Tensor Decomposition Representation</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Frisch" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Frisch,
+ address = {Trondheim, Norway},
+ author = {Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Frisch.pdf},
+ title = {Interpolation of Probability Densities on a Grid \\ in Tensor Decomposition Representation},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Jabbar" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Zain Jabbar, Uwe D. Hanebeck, Andrey A. Popov</i>,</br> <b>On the Properties of the Spherical Analogue of the Epanechnikov Kernel for Directional Kernel Density Estimation</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Jabbar','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Jabbar" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Jabbar,
+ address = {Trondheim, Norway},
+ author = {Zain Jabbar and Uwe D. Hanebeck and Andrey A. Popov},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Jabbar.pdf},
+ title = {On the Properties of the Spherical Analogue of the Epanechnikov Kernel for Directional Kernel Density Estimation},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Hanebeck" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Uwe D. Hanebeck, Ryne Beeson</i>,</br> <b>Low-discrepany Ensemble Kalman Filter</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Hanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Hanebeck" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Hanebeck,
+ address = {Trondheim, Norway},
+ author = {Uwe D. Hanebeck and Ryne Beeson},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Hanebeck.pdf},
+ title = {Low-discrepany Ensemble Kalman Filter},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Winheim_Localization" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Leon Winheim, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Zone-Based Indoor Localization with Efficient Incomplete RSSI Data Handling through Gaussian Mixture Classification</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Winheim_Localization','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Winheim_Localization" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Winheim_Localization,
+ address = {Trondheim, Norway},
+ author = {Leon Winheim and Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Winheim.pdf},
+ title = {Zone-Based Indoor Localization with Efficient Incomplete RSSI Data Handling through Gaussian Mixture Classification},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Pikos" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Dominik Pikos, Uwe D. Hanebeck</i>,</br> <b>Direct Haptic Rendering of 3D Gaussian Splatting Scenes via Ellipsoid Overlap Check</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Pikos','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Pikos" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Pikos,
+ address = {Trondheim, Norway},
+ author = {Dominik Pikos and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Pikos.pdf},
+ title = {Direct Haptic Rendering of 3D Gaussian Splatting Scenes via Ellipsoid Overlap Check},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Winheim_NNEnsembles" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Leon Winheim, Hayk Amirkhanian, Markus Walker, Uwe D. Hanebeck, Marco Huber</i>,</br> <b>Probabilistic Regression with Neural Network Ensembles</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Winheim_NNEnsembles','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Winheim_NNEnsembles" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Winheim_NNEnsembles,
+ address = {Trondheim, Norway},
+ author = {Leon Winheim and Hayk Amirkhanian and Markus Walker and Uwe D. Hanebeck and Marco Huber},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Winheim_NNEnsembles.pdf},
+ title = {Probabilistic Regression with Neural Network Ensembles},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Markus Walker, Simon Klaus, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Local Modified Cramér-von Mises Distance for Uncertainty Calibration Assessment in Regression</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Walker,
+ address = {Trondheim, Norway},
+ author = {Markus Walker and Simon Klaus and Marcel Reith-Braun and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Walker.pdf},
+ title = {Local Modified Cramér-von Mises Distance for Uncertainty Calibration Assessment in Regression},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Siebler" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Benjamin Siebler, Stefan Sand, Uwe D. Hanebeck</i>,</br> <b>Magnetic Field Localization</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Siebler" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Siebler,
+ address = {Trondheim, Norway},
+ author = {Benjamin Siebler and Stefan Sand and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Siebler.pdf},
+ title = {Magnetic Field Localization},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="FUSION26_Kim" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Sukkeun Kim, Uwe D. Hanebeck</i>,</br> <b>Deterministic Prior Sample Set Prediction Approaches for Newton-Flow Particle Filters</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Kim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_FUSION26_Kim" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{FUSION26_Kim,
+ address = {Trondheim, Norway},
+ author = {Sukkeun Kim and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
+ doi_todo = {},
+ month = {June},
+ pdf_todo = {FUSION26_Kim.pdf},
+ title = {Deterministic Prior Sample Set Prediction Approaches for Newton-Flow Particle Filters},
+ url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="ACC26_Walker" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
