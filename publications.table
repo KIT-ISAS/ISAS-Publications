@@ -421,7 +421,7 @@
 <tr id="FUSION26_Siebler" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Benjamin Siebler, Stefan Sand, Uwe D. Hanebeck</i>,</br> <b>Magnetic Field Localization</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<td> <i>Benjamin Siebler, Stefan Sand, Uwe D. Hanebeck</i>,</br> <b>Simultaneous Train Localization and Radio Transmitter Mapping with TDoA and Magnetic Field Measurements</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
 <p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Siebler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
@@ -435,7 +435,7 @@
  doi_todo = {},
  month = {June},
  pdf_todo = {FUSION26_Siebler.pdf},
- title = {Magnetic Field Localization},
+ title = {Simultaneous Train Localization and Radio Transmitter Mapping with TDoA and Magnetic Field Measurements},
  url_todo = {},
  year = {2026}
 }
