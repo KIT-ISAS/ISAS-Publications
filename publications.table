@@ -395,7 +395,7 @@
 <tr id="FUSION26_Walker" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Markus Walker, Simon Klaus, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Local Modified Cramér-von Mises Distance for Uncertainty Calibration Assessment in Regression</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<td> <i>Markus Walker, Simon Klaus, Marcel Reith-Braun, Uwe D. Hanebeck</i>,</br> <b>Local Modified Cramér–von Mises Distance for Uncertainty Calibration Assessment in Regression</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
 <p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
@@ -409,7 +409,7 @@
  doi_todo = {},
  month = {June},
  pdf_todo = {FUSION26_Walker.pdf},
- title = {Local Modified Cramér-von Mises Distance for Uncertainty Calibration Assessment in Regression},
+ title = {Local Modified Cramér–von Mises Distance for Uncertainty Calibration Assessment in Regression},
  url_todo = {},
  year = {2026}
 }
@@ -473,7 +473,7 @@
 <tr id="ACC26_Walker" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Markus Walker, Daniel Frisch,, Uwe D. Hanebeck</i>,</br> <b>Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples</b>,</br>Proceedings of the 2026 American Control Conference (ACC 2026), New Orleans, Louisiana, May, 2026.
+<td> <i>Markus Walker, Daniel Frisch, and Uwe D. Hanebeck</i>,</br> <b>Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples</b>,</br>Proceedings of the 2026 American Control Conference (ACC 2026), New Orleans, Louisiana, May, 2026.
 <p class="infolinks"> <a href="javascript:toggleInfo('ACC26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
@@ -482,7 +482,7 @@
 <pre>
 @inproceedings{ACC26_Walker,
  address = {New Orleans, Louisiana},
- author = {Markus Walker, Daniel Frisch, and Uwe D. Hanebeck},
+ author = {Markus Walker and Daniel Frisch and and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2026 American Control Conference (ACC 2026)},
  doi_todo = {},
  month = {May},
@@ -500,7 +500,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Marcel Reith-Braun, Georg Maier, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer, Florian Pfaff, Kevin Liang, Uwe D. Hanebeck</i>,</br> <b>Breaking the Pneumatic Barrier: Mechanically Actuated 2D Grids for High-throughput, Energy-Efficient Sensor-based Sorting</b>,</br>Proceedings of the 11th Sensor-Based Sorting & Control Conference (SBSC 2026), Aachen, Germany, March, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('SBSC26_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('SBSC26_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC26_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_SBSC26_Reith-Braun" class="bibtex noshow"><td></td>
@@ -511,6 +511,7 @@
  author = {Marcel Reith-Braun and Georg Maier and Harald Kruggel-Emden and Thomas Längle and Jürgen Beyerer and Florian Pfaff and Kevin Liang and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 11th Sensor-Based Sorting & Control Conference (SBSC 2026)},
  month = {March},
+ pdf = {SBSC26_Reith-Braun.pdf},
  title = {Breaking the Pneumatic Barrier: Mechanically Actuated 2D Grids for High-throughput, Energy-Efficient Sensor-based Sorting},
  year = {2026}
 }
