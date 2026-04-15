@@ -239,7 +239,7 @@
 <tr id="FUSION26_Frisch" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Interpolation of Probability Densities on a Grid \\ in Tensor Decomposition Representation</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Interpolation of Probability Densities on a Grid in Tensor Decomposition Representation</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
 <p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
@@ -253,7 +253,7 @@
  doi_todo = {},
  month = {June},
  pdf_todo = {FUSION26_Frisch.pdf},
- title = {Interpolation of Probability Densities on a Grid \\ in Tensor Decomposition Representation},
+ title = {Interpolation of Probability Densities on a Grid in Tensor Decomposition Representation},
  url_todo = {},
  year = {2026}
 }
@@ -484,11 +484,11 @@
  address = {New Orleans, Louisiana},
  author = {Markus Walker, Daniel Frisch, and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2026 American Control Conference (ACC 2026)},
- doitodo = {},
+ doi_todo = {},
  month = {May},
- pdftodo = {ACC26_Walker.pdf},
+ pdf_todo = {ACC26_Walker.pdf},
  title = {Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples},
- urltodo = {},
+ url_todo = {},
  year = {2026}
 }
 
