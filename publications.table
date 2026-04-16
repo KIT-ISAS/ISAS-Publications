@@ -369,7 +369,7 @@
 <tr id="FUSION26_Winheim_NNEnsembles" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Leon Winheim, Hayk Amirkhanian, Markus Walker, Uwe D. Hanebeck, Marco Huber</i>,</br> <b>Probabilistic Regression with Neural Network Ensembles</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
+<td> <i>Leon Winheim, Hayk Amirkhanian, Markus Walker, Uwe D. Hanebeck, Marco Huber</i>,</br> <b>Probabilistic Regression via Neural Network Ensembles</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
 <p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Winheim_NNEnsembles','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
@@ -383,7 +383,7 @@
  doi_todo = {},
  month = {June},
  pdf_todo = {FUSION26_Winheim_NNEnsembles.pdf},
- title = {Probabilistic Regression with Neural Network Ensembles},
+ title = {Probabilistic Regression via Neural Network Ensembles},
  url_todo = {},
  year = {2026}
 }
