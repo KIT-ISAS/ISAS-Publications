@@ -474,7 +474,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Daniel Frisch, and Uwe D. Hanebeck</i>,</br> <b>Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples</b>,</br>Proceedings of the 2026 American Control Conference (ACC 2026), New Orleans, Louisiana, May, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('ACC26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('ACC26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC26_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_ACC26_Walker" class="bibtex noshow"><td></td>
@@ -486,9 +486,33 @@
  booktitle = {Proceedings of the 2026 American Control Conference (ACC 2026)},
  doi_todo = {},
  month = {May},
- pdf_todo = {ACC26_Walker.pdf},
+ pdf = {ACC26_Walker.pdf},
  title = {Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples},
  url_todo = {},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="arXiv26_Walker" class="entry">
+<td><div class="balken-other"></div>
+</td>
+<td> <i>Markus Walker, Marcel Reith-Braun, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Sampling-based Model Predictive Control Using Trust Regions</b>,</br>arXiv preprint: 2605.07801, May, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2605.07801" target="_blank">URL</a></p>
+</td>
+</tr>
+<tr id="bib_arXiv26_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@misc{arXiv26_Walker,
+ author = {Markus Walker and Marcel Reith-Braun and Daniel Frisch and Uwe D. Hanebeck},
+ doi = {10.48550/arXiv.2605.078013},
+ journal = {arXiv preprint: 2605.07801},
+ month = {May},
+ title = {Sampling-based Model Predictive Control Using Trust Regions},
+ url = {https://arxiv.org/abs/2605.07801},
  year = {2026}
 }
 
