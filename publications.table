@@ -548,7 +548,7 @@
 <td><div class="balken-other"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Tai Hoang, Gerhard Neumann, Uwe D. Hanebeck</i>,</br> <b>Smooth Sampling-Based Model Predictive Control Using Deterministic Samples</b>,</br>arXiv preprint: 2601.03893, January, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Walker_2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv25_Walker_2.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/2601.03893" target="_blank">URL</a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('arXiv25_Walker_2','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://arxiv.org/abs/2601.03893" target="_blank">URL</a></p>
 </td>
 </tr>
 <tr id="bib_arXiv25_Walker_2" class="bibtex noshow"><td></td>
@@ -559,7 +559,6 @@
  doi = {10.48550/arXiv.2601.03893},
  journal = {arXiv preprint: 2601.03893},
  month = {January},
- pdf = {arXiv25_Walker_2.pdf},
  title = {Smooth Sampling-Based Model Predictive Control Using Deterministic Samples},
  url = {https://arxiv.org/abs/2601.03893},
  year = {2026}
