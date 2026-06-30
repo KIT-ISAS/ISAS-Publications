@@ -318,7 +318,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Leon Winheim, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Zone-Based Indoor Localization from Incomplete RSSI Fingerprints via Missing Data Marginalization</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Winheim_Localization','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION26_Winheim.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Winheim_Localization','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION26_Winheim_Localization.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_FUSION26_Winheim_Localization" class="bibtex noshow"><td></td>
@@ -330,7 +330,7 @@
  booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
  doi_todo = {},
  month = {June},
- pdf = {FUSION26_Winheim.pdf},
+ pdf = {FUSION26_Winheim_Localization.pdf},
  title = {Zone-Based Indoor Localization from Incomplete RSSI Fingerprints via Missing Data Marginalization},
  url_todo = {},
  year = {2026}
