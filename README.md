@@ -77,11 +77,18 @@ Auf der ISAS-Publikationsseite (isas.iar.kit.edu/Publications.php) werden die Pu
 - [ ] Postprint-PDFs auf KITopen hochladen
 - [ ] KITopen DOI in `ISASPublikationen.bib` eintragen, wenn sonst keine DOI verfügbar
 
+### Weitere
+- [ ] OpenAlex
+- [ ] Semantic Scholar
+- [ ] DBLP
+
 ### Weitere Verbesserungen
 - [ ] fehlende Postprints einfügen
 - [ ] Links überprüfen
 - [ ] alle PDF-Dateinamen gleich korrespondierendem Bib-Key
 - [ ] JAIF auf neue Links umstellen, wenn verfügbar
+- [ ] wichtige Papers auf Arxiv
+- [ ] HTML-Versionen der Papers
 
 
 
