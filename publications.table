@@ -266,7 +266,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Zain Jabbar, Uwe D. Hanebeck, Andrey A. Popov</i>,</br> <b>On the Properties of the Spherical Analogue of the Epanechnikov Kernel for Directional Kernel Density Estimation</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Jabbar','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Jabbar','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION26_Jabbar.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_FUSION26_Jabbar" class="bibtex noshow"><td></td>
@@ -278,7 +278,7 @@
  booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
  doi_todo = {},
  month = {June},
- pdf_todo = {FUSION26_Jabbar.pdf},
+ pdf = {FUSION26_Jabbar.pdf},
  title = {On the Properties of the Spherical Analogue of the Epanechnikov Kernel for Directional Kernel Density Estimation},
  url_todo = {},
  year = {2026}
