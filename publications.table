@@ -54,6 +54,150 @@
 </td>
 </tr>
 
+<tr id="CDC19_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Markus Walker, Marcel Reith-Braun, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Sampling-based Model Predictive Control Using Trust Regions</b>,</br>Proceedings of the 65th IEEE Conference on Decision and Control (CDC 2026), Honolulu, Hawaii, December, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('CDC19_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_CDC19_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{CDC19_Walker,
+ address = {Honolulu, Hawaii},
+ author = {Markus Walker and Marcel Reith-Braun and Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 65th IEEE Conference on Decision and Control (CDC 2026)},
+ month = {December},
+ title = {Sampling-based Model Predictive Control Using Trust Regions},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="MFI26_Frisch" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Estimating Rotation Speed on the Sphere: Low-Rank Fokker–Planck Prediction on $핊^2 \times ℝ$</b>,</br>Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026), Pilsen, Czechia, September, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI26_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI26_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_MFI26_Frisch" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{MFI26_Frisch,
+ address = {Pilsen, Czechia},
+ author = {Daniel Frisch and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026)},
+ latex_require_comment = {s̆epackageamssymb},
+ month = {September},
+ pdf = {MFI26_Frisch.pdf},
+ title = {Estimating Rotation Speed on the Sphere: Low-Rank Fokker--Planck Prediction on $핊^2 \times ℝ$},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="MFI26_Luo" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Xiaozhu Luo, Markus Walker, Uwe D. Hanebeck</i>,</br> <b>Gaussian Homotopy Optimization with Predictor–Corrector Path Tracking and Deterministic Sampling</b>,</br>Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026), Pilsen, Czechia, September, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI26_Luo','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI26_Luo.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_MFI26_Luo" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{MFI26_Luo,
+ address = {Pilsen, Czechia},
+ author = {Xiaozhu Luo and Markus Walker and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026)},
+ month = {September},
+ pdf = {MFI26_Luo.pdf},
+ title = {Gaussian Homotopy Optimization with Predictor--Corrector Path Tracking and Deterministic Sampling},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="MFI26_Schreiber" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Julian Schreiber, Daniel Frisch, Brandon A. Jones, Uwe D. Hanebeck</i>,</br> <b>LCD Sampling Strategies for Trajectory-Based Bi-Fidelity Stochastic Collocation</b>,</br>Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026), Pilsen, Czechia, September, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI26_Schreiber','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI26_Schreiber.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_MFI26_Schreiber" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{MFI26_Schreiber,
+ address = {Pilsen, Czechia},
+ author = {Julian Schreiber and Daniel Frisch and Brandon A. Jones and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026)},
+ month = {September},
+ pdf = {MFI26_Schreiber.pdf},
+ title = {LCD Sampling Strategies for Trajectory-Based Bi-Fidelity Stochastic Collocation},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="MFI26_Winheim" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Leon Winheim, Uwe D. Hanebeck</i>,</br> <b>Layer-wise Training of a BNN Based on Progressive Gaussian Filtering</b>,</br>Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026), Pilsen, Czechia, September, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI26_Winheim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI26_Winheim.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_MFI26_Winheim" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{MFI26_Winheim,
+ address = {Pilsen, Czechia},
+ author = {Leon Winheim and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026)},
+ month = {September},
+ pdf = {MFI26_Winheim.pdf},
+ title = {Layer-wise Training of a BNN Based on Progressive Gaussian Filtering},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
+<tr id="MFI26_Zhou" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Jiachen Zhou, Marvin Schanz, Noah Jens, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>Parametric and Tensor-Based Nonparametric Filtering for Extended Object Tracking with Mixed Euclidean–Directional States</b>,</br>Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026), Pilsen, Czechia, September, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('MFI26_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MFI26_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+</td>
+</tr>
+<tr id="bib_MFI26_Zhou" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{MFI26_Zhou,
+ address = {Pilsen, Czechia},
+ author = {Jiachen Zhou and Marvin Schanz and Noah Jens and Harald Kruggel-Emden and Uwe D. Hanebeck},
+ booktitle = {Proceedings of the 2026 IEEE International Conference on Multisensor Fusion and Integration (MFI 2026)},
+ month = {September},
+ pdf = {MFI26_Zhou.pdf},
+ title = {Parametric and Tensor-Based Nonparametric Filtering for Extended Object Tracking with Mixed Euclidean--Directional States},
+ year = {2026}
+}
+
+</pre>
+</td>
+</tr>
+
 <tr id="IFAC26_Walker" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
@@ -266,7 +410,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Zain Jabbar, Uwe D. Hanebeck, Andrey A. Popov</i>,</br> <b>On the Properties of the Spherical Analogue of the Epanechnikov Kernel for Directional Kernel Density Estimation</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Jabbar','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION26_Jabbar.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Jabbar','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
 </td>
 </tr>
 <tr id="bib_FUSION26_Jabbar" class="bibtex noshow"><td></td>
@@ -278,7 +422,7 @@
  booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
  doi_todo = {},
  month = {June},
- pdf = {FUSION26_Jabbar.pdf},
+ pdf_todo = {FUSION26_Jabbar.pdf},
  title = {On the Properties of the Spherical Analogue of the Epanechnikov Kernel for Directional Kernel Density Estimation},
  url_todo = {},
  year = {2026}
