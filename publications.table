@@ -202,7 +202,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Markus Walker, Marcel Reith-Braun, Tai Hoang, Gerhard Neumann, Uwe D. Hanebeck</i>,</br> <b>Smooth Sampling-Based Model Predictive Control Using Deterministic Samples</b>,</br>Proceedings of the 23rd IFAC World Congress (IFAC 2026), Busan, Republic of Korea, August, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IFAC26_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_IFAC26_Walker" class="bibtex noshow"><td></td>
@@ -214,7 +214,7 @@
  booktitle = {Proceedings of the 23rd IFAC World Congress (IFAC 2026)},
  doi_todo = {},
  month = {August},
- pdf_todo = {IFAC26_Walker.pdf},
+ pdf = {IFAC26_Walker.pdf},
  title = {Smooth Sampling-Based Model Predictive Control Using Deterministic Samples},
  url_todo = {},
  year = {2026}
@@ -228,7 +228,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Sukkeun Kim, Uwe D. Hanebeck</i>,</br> <b>The Hitchhiker's Guide to Particle Flow-based Filters: A Survey</b>,</br>Proceedings of the 23rd IFAC World Congress (IFAC 2026), Busan, Republic of Korea, August, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Kim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Kim','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IFAC26_Kim.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_IFAC26_Kim" class="bibtex noshow"><td></td>
@@ -240,7 +240,7 @@
  booktitle = {Proceedings of the 23rd IFAC World Congress (IFAC 2026)},
  doi_todo = {},
  month = {August},
- pdf_todo = {IFAC26_Kim.pdf},
+ pdf = {IFAC26_Kim.pdf},
  title = {The Hitchhiker's Guide to Particle Flow-based Filters: A Survey},
  url_todo = {},
  year = {2026}
@@ -254,7 +254,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Density Estimation from Weighted Samples with the Localized Cumulative Distribution</b>,</br>Proceedings of the 23rd IFAC World Congress (IFAC 2026), Busan, Republic of Korea, August, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Frisch','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IFAC26_Frisch.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_IFAC26_Frisch" class="bibtex noshow"><td></td>
@@ -266,7 +266,7 @@
  booktitle = {Proceedings of the 23rd IFAC World Congress (IFAC 2026)},
  doi_todo = {},
  month = {August},
- pdf_todo = {IFAC26_Frisch.pdf},
+ pdf = {IFAC26_Frisch.pdf},
  title = {Density Estimation from Weighted Samples with the Localized Cumulative Distribution},
  url_todo = {},
  year = {2026}
@@ -280,7 +280,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Jiachen Zhou, Yifei Zhang, Harald Kruggel-Emden, Uwe D. Hanebeck</i>,</br> <b>S2CamP: Smart View-Frustum Sampling for Camera-Parameter Preconditioning</b>,</br>Proceedings of the 23rd IFAC World Congress (IFAC 2026), Busan, Republic of Korea, August, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('IFAC26_Zhou','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/IFAC26_Zhou.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_IFAC26_Zhou" class="bibtex noshow"><td></td>
@@ -292,7 +292,7 @@
  booktitle = {Proceedings of the 23rd IFAC World Congress (IFAC 2026)},
  doi_todo = {},
  month = {August},
- pdf_todo = {IFAC26_Zhou.pdf},
+ pdf = {IFAC26_Zhou.pdf},
  title = {S2CamP: Smart View-Frustum Sampling for Camera-Parameter Preconditioning},
  url_todo = {},
  year = {2026}
@@ -410,7 +410,7 @@
 <td><div class="balken-inproceedings"></div>
 </td>
 <td> <i>Zain Jabbar, Uwe D. Hanebeck, Andrey A. Popov</i>,</br> <b>On the Properties of the Spherical Analogue of the Epanechnikov Kernel for Directional Kernel Density Estimation</b>,</br>Proceedings of the 29th International Conference on Information Fusion (FUSION 2026), Trondheim, Norway, June, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Jabbar','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<p class="infolinks"> <a href="javascript:toggleInfo('FUSION26_Jabbar','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/FUSION26_Jabbar.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
 <tr id="bib_FUSION26_Jabbar" class="bibtex noshow"><td></td>
@@ -422,7 +422,7 @@
  booktitle = {Proceedings of the 29th International Conference on Information Fusion (FUSION 2026)},
  doi_todo = {},
  month = {June},
- pdf_todo = {FUSION26_Jabbar.pdf},
+ pdf = {FUSION26_Jabbar.pdf},
  title = {On the Properties of the Spherical Analogue of the Epanechnikov Kernel for Directional Kernel Density Estimation},
  url_todo = {},
  year = {2026}
@@ -617,7 +617,7 @@
 <tr id="ACC26_Walker" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Markus Walker, Daniel Frisch, and Uwe D. Hanebeck</i>,</br> <b>Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples</b>,</br>Proceedings of the 2026 American Control Conference (ACC 2026), New Orleans, Louisiana, May, 2026.
+<td> <i>Markus Walker, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Sample-Efficient and Smooth Cross-Entropy Method Model Predictive Control Using Deterministic Samples</b>,</br>Proceedings of the 2026 American Control Conference (ACC 2026), New Orleans, Louisiana, May, 2026.
 <p class="infolinks"> <a href="javascript:toggleInfo('ACC26_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/ACC26_Walker.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
@@ -626,7 +626,7 @@
 <pre>
 @inproceedings{ACC26_Walker,
  address = {New Orleans, Louisiana},
- author = {Markus Walker and Daniel Frisch and and Uwe D. Hanebeck},
+ author = {Markus Walker and Daniel Frisch and Uwe D. Hanebeck},
  booktitle = {Proceedings of the 2026 American Control Conference (ACC 2026)},
  doi_todo = {},
  month = {May},
