@@ -5,6 +5,10 @@ on:
     branches:
       - '**'
 
+concurrency:
+  group: publication-table-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -43,7 +47,7 @@ jobs:
       - name: Commit and push publications.table
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          branch: ${{ github.ref }}
+          branch: ${{ github.ref_name }}
           commit_message: "Update publications.table and publ_counter.html"
           commit_user_name: publication-bot
           commit_user_email: publication-bot@iar.kit.edu
