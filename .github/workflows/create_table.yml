@@ -12,7 +12,7 @@ jobs:
     steps:
       # Checkout the current repository
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Concatenate the .bib files
       - name: Concatenate .bib files
@@ -41,7 +41,7 @@ jobs:
 
       # Commit and push using git-auto-commit-action
       - name: Commit and push publications.table
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: ${{ github.ref }}
           commit_message: "Update publications.table and publ_counter.html"
