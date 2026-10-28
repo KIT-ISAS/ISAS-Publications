@@ -28,7 +28,7 @@ jobs:
 
       # Install Python package dependencies
       - name: Install Python packages
-        run: pip install "bibtexparser<2"
+        run: pip install "bibtexparser<2" "pylatexenc>=2.10,<3"
 
       # Run the code from bibtexToTable
       - name: Run bibtexToTable
