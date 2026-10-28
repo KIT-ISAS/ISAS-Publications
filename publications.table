@@ -112,7 +112,7 @@
 	booktitle = {IEEE Navigation Conference (NAVICON 2026)},
 	address = {Munich, Germany},
 	month = dec,
-	year = {2026},
+	year = {2026}, 
 }
 </pre>
 </td>
@@ -774,7 +774,7 @@
 <tr id="SBSC26_Reith-Braun" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Marcel Reith-Braun, Georg Maier, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer, Florian Pfaff, Kevin Liang, Uwe D. Hanebeck</i>,</br> <b>Breaking the Pneumatic Barrier: Mechanically Actuated 2D Grids for High-throughput, Energy-Efficient Sensor-based Sorting</b>,</br>Proceedings of the 11th Sensor-Based Sorting \&amp; Control Conference (SBSC 2026), Aachen, Germany, March, 2026.
+<td> <i>Marcel Reith-Braun, Georg Maier, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer, Florian Pfaff, Kevin Liang, Uwe D. Hanebeck</i>,</br> <b>Breaking the Pneumatic Barrier: Mechanically Actuated 2D Grids for High-throughput, Energy-Efficient Sensor-based Sorting</b>,</br>Proceedings of the 11th Sensor-Based Sorting &amp; Control Conference (SBSC 2026), Aachen, Germany, March, 2026.
 <p class="infolinks"> <a href="javascript:toggleInfo('SBSC26_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC26_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
@@ -1824,7 +1824,7 @@
 <tr id="SBSC24_Reith-Braun" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Marcel Reith-Braun, Kevin Liang, Florian Pfaff, Georg Maier, Robin Gruna, Albert Bauer, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer,  Uwe D. Hanebeck</i>,</br> <b>Particle-Specific Deflection Windows for Optical Sorting by Uncertainty Quantification</b>,</br>Proceedings of the 10th Sensor-Based Sorting \&amp; Control Conference (SBSC 2024), Aachen, Germany, March, 2024.
+<td> <i>Marcel Reith-Braun, Kevin Liang, Florian Pfaff, Georg Maier, Robin Gruna, Albert Bauer, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer,  Uwe D. Hanebeck</i>,</br> <b>Particle-Specific Deflection Windows for Optical Sorting by Uncertainty Quantification</b>,</br>Proceedings of the 10th Sensor-Based Sorting &amp; Control Conference (SBSC 2024), Aachen, Germany, March, 2024.
 <p class="infolinks"> <a href="javascript:toggleInfo('SBSC24_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC24_Reith-Braun.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.shaker.de/shop/978-3-8440-9413-8" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -3066,7 +3066,7 @@
 <tr id="SBSC22_Ludwig" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Jan Niklas Ludwig, Merle Flitter, Georg Maier, Albert Bauer, Marcel Reith-Braun, Robin Gruna, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer</i>,</br> <b>Systematic Determination of the Influence of Factors Relevant to Operating Costs of Sensor-based Sorting Systems</b>,</br>Proceedings of the 9th Sensor-Based Sorting \&amp; Control Conference (SBSC 2022), pp. 113–132, Aachen, Germany, April, 2022.
+<td> <i>Jan Niklas Ludwig, Merle Flitter, Georg Maier, Albert Bauer, Marcel Reith-Braun, Robin Gruna, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer</i>,</br> <b>Systematic Determination of the Influence of Factors Relevant to Operating Costs of Sensor-based Sorting Systems</b>,</br>Proceedings of the 9th Sensor-Based Sorting &amp; Control Conference (SBSC 2022), pp. 113–132, Aachen, Germany, April, 2022.
 <p class="infolinks"> <a href="javascript:toggleInfo('SBSC22_Ludwig','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC22_Ludwig.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://www.shaker.de/shop/978-3-8440-8545-7" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -5355,7 +5355,7 @@
 <tr id="CCNC19_Rosenthal" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Florian Rosenthal, Markus Jung, Martina Zitterbart, Uwe D. Hanebeck</i>,</br> <b>CoCPN – Towards Flexible and Adaptive Cyber-Physical Systems Through Cooperation</b>,</br>Proceedings of the 2019 16th IEEE Annual Consumer Communications \&amp; Networking Conference (CCNC 2019), Las Vegas, USA, January, 2019.
+<td> <i>Florian Rosenthal, Markus Jung, Martina Zitterbart, Uwe D. Hanebeck</i>,</br> <b>CoCPN – Towards Flexible and Adaptive Cyber-Physical Systems Through Cooperation</b>,</br>Proceedings of the 2019 16th IEEE Annual Consumer Communications &amp; Networking Conference (CCNC 2019), Las Vegas, USA, January, 2019.
 <p class="infolinks"> <a href="javascript:toggleInfo('CCNC19_Rosenthal','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CCNC19_Rosenthal.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/8651882/" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -5885,7 +5885,7 @@
 <tr id="SBSC18_Maier" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Georg Maier, Florian Pfaff, Christoph Pieper, Robin Gruna, Benjamin Noack, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Siegmar Wirtz, Viktor Scherer, Jürgen Beyerer</i>,</br> <b>Application of Area-Scan Sensors in Sensor-Based Sorting</b>,</br>Proceedings of the Eighth Conference on Sensor-Based Sorting \&amp; Control 2018 (SBSC 2018), Aachen, Germany, March, 2018.
+<td> <i>Georg Maier, Florian Pfaff, Christoph Pieper, Robin Gruna, Benjamin Noack, Harald Kruggel-Emden, Thomas Längle, Uwe D. Hanebeck, Siegmar Wirtz, Viktor Scherer, Jürgen Beyerer</i>,</br> <b>Application of Area-Scan Sensors in Sensor-Based Sorting</b>,</br>Proceedings of the Eighth Conference on Sensor-Based Sorting &amp; Control 2018 (SBSC 2018), Aachen, Germany, March, 2018.
 <p class="infolinks"> <a href="javascript:toggleInfo('SBSC18_Maier','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/SBSC18_Maier.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://publica.fraunhofer.de/handle/publica/399971" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -8652,7 +8652,7 @@
 <tr id="arXiv14_Baeuerle" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>Nicole B\&quot;auerle, Igor Gilitschenski, Uwe D. Hanebeck</i>,</br> <b>Exact and Approximate Hidden Markov Chain Filters Based on Discrete Observations</b>,</br>arXiv preprint: Probability (math.PR), November, 2014.
+<td> <i>Nicole Bäuerle, Igor Gilitschenski, Uwe D. Hanebeck</i>,</br> <b>Exact and Approximate Hidden Markov Chain Filters Based on Discrete Observations</b>,</br>arXiv preprint: Probability (math.PR), November, 2014.
 <p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Baeuerle','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv14_Baeuerle.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1411.0849" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -8976,7 +8976,7 @@
 <tr id="arXiv14_Munoz" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>Jes\&#x27;us Mu\~noz Morcillo, Florian Faion, Antonio Zea, Uwe D. Hanebeck, Caroline Y. Robertson-von Trotha</i>,</br> <b>e-Installation: Synesthetic Documentation of Media Art via Telepresence Technologies</b>,</br>arXiv preprint: Other Computer Science (cs.OH), August, 2014.
+<td> <i>Jesús Muñoz Morcillo, Florian Faion, Antonio Zea, Uwe D. Hanebeck, Caroline Y. Robertson-von Trotha</i>,</br> <b>e-Installation: Synesthetic Documentation of Media Art via Telepresence Technologies</b>,</br>arXiv preprint: Other Computer Science (cs.OH), August, 2014.
 <p class="infolinks"> <a href="javascript:toggleInfo('arXiv14_Munoz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv14_Munoz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1408.1362v1" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -10517,7 +10517,7 @@
 <tr id="arXiv12_FischerLQG" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>J{\&quot;{o}}rg Fischer, Achim Hekler, Maxim Dolgov, Uwe D. Hanebeck</i>,</br> <b>Optimal Sequence-Based LQG Control over TCP-like Networks Subject to Random Transmission Delays and Packet Losses</b>,</br>arXiv preprint: Systems and Control (cs.SY), November, 2012.
+<td> <i>Jörg Fischer, Achim Hekler, Maxim Dolgov, Uwe D. Hanebeck</i>,</br> <b>Optimal Sequence-Based LQG Control over TCP-like Networks Subject to Random Transmission Delays and Packet Losses</b>,</br>arXiv preprint: Systems and Control (cs.SY), November, 2012.
 <p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_FischerLQG','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_FischerLQG.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1211.3020" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -10646,7 +10646,7 @@
 <tr id="arXiv12_Fischer" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>J{\&quot;{o}}rg Fischer, Marc Reinhardt, Uwe D. Hanebeck</i>,</br> <b>Optimal Sequence-Based Control and Estimation of Networked Linear Systems</b>,</br>arXiv preprint: Systems and Control (cs.SY), August, 2012.
+<td> <i>Jörg Fischer, Marc Reinhardt, Uwe D. Hanebeck</i>,</br> <b>Optimal Sequence-Based Control and Estimation of Networked Linear Systems</b>,</br>arXiv preprint: Systems and Control (cs.SY), August, 2012.
 <p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Fischer','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_Fischer.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1211.5086v1" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -11086,7 +11086,7 @@
 <tr id="arXiv12_Hekler" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>Achim Hekler, J{\&quot;{o}}rg Fischer, Uwe D. Hanebeck</i>,</br> <b>Sequence-Based Control for Networked Control Systems Based on Virtual
+<td> <i>Achim Hekler, Jörg Fischer, Uwe D. Hanebeck</i>,</br> <b>Sequence-Based Control for Networked Control Systems Based on Virtual
 Control Inputs</b>,</br>arXiv preprint: Systems and Control (cs.SY), June, 2012.
 <p class="infolinks"> <a href="javascript:toggleInfo('arXiv12_Hekler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv12_Hekler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1206.0549" target="_blank">URL</a></p>
 </td>
@@ -11288,7 +11288,7 @@ Control Inputs</b>,</br>arXiv preprint: Systems and Control (cs.SY), June, 2012.
 <tr id="arXiv11_Kretz" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>Tobias Kretz, Stefan Hengst, Antonia P{\&#x27;{e}}rez Arias and
+<td> <i>Tobias Kretz, Stefan Hengst, Antonia Pérez Arias and
 Simon Friedberger, Uwe D. Hanebeck</i>,</br> <b>Using a Telepresence System to Investigate Route Choice Behavior</b>,</br>arXiv preprint: Human-Computer Interaction (cs.HC), November, 2011.
 <p class="infolinks"> <a href="javascript:toggleInfo('arXiv11_Kretz','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv11_Kretz.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1111.1103" target="_blank">URL</a></p>
 </td>
@@ -12906,7 +12906,7 @@ Simon Friedberger, Uwe D. Hanebeck</i>,</br> <b>Using a Telepresence System to I
 <tr id="arXiv10_Perez" class="entry">
 <td><div class="balken-preprint"></div>
 </td>
-<td> <i>Antonia P{\&#x27;{e}}rez Arias, Uwe D. Hanebeck, Peter Ehrhardt
+<td> <i>Antonia Pérez Arias, Uwe D. Hanebeck, Peter Ehrhardt
 and Stefan Hengst, Tobias Kretz, Peter Vortisch</i>,</br> <b>Extended Range Telepresence for Evacuation Training in Pedestrian
 Simulations</b>,</br>arXiv preprint: Human-Computer Interaction (cs.HC), February, 2010.
 <p class="infolinks"> <a href="javascript:toggleInfo('arXiv10_Perez','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/arXiv10_Perez.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://arxiv.org/abs/1002.3770" target="_blank">URL</a></p>
@@ -13353,7 +13353,7 @@ Simulations</b>,</br>arXiv preprint: Human-Computer Interaction (cs.HC), Februar
 <tr id="CCA09_RauhHanebeck" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Andreas Rauh, Kai Briechle, Uwe D. Hanebeck</i>,</br> <b>Nonlinear Measurement Update and Prediction: Prior Density Splitting Mixture Estimator</b>,</br>Proceedings of the 2009 IEEE Control Applications, (CCA) \&amp; Intelligent Control, (ISIC), July, 2009.
+<td> <i>Andreas Rauh, Kai Briechle, Uwe D. Hanebeck</i>,</br> <b>Nonlinear Measurement Update and Prediction: Prior Density Splitting Mixture Estimator</b>,</br>Proceedings of the 2009 IEEE Control Applications, (CCA) &amp; Intelligent Control, (ISIC), July, 2009.
 <p class="infolinks"> <a href="javascript:toggleInfo('CCA09_RauhHanebeck','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/CCA09_RauhHanebeck.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a> <a href="https://ieeexplore.ieee.org/document/5281167/" target="_blank">URL</a></p>
 </td>
 </tr>
@@ -16072,7 +16072,7 @@ Informatik (IBFI), Schloss Dagstuhl, Germany, Dagstuhl Seminar Proceedings, Sept
 <tr id="MECHROB04_Roessler" class="entry">
 <td><div class="balken-inproceedings"></div>
 </td>
-<td> <i>Patrick Rößler, Uwe D. Hanebeck, Norbert Nitzsche</i>,</br> <b>Feedback Controlled Motion Compression for Extended Range Telepresence</b>,</br>Proceedings of the 2004 IEEE International Conference on Mechatronics \&amp; Robotics (MechRob 2004), pp. 1447–1452, Aachen, Germany, September, 2004.
+<td> <i>Patrick Rößler, Uwe D. Hanebeck, Norbert Nitzsche</i>,</br> <b>Feedback Controlled Motion Compression for Extended Range Telepresence</b>,</br>Proceedings of the 2004 IEEE International Conference on Mechatronics &amp; Robotics (MechRob 2004), pp. 1447–1452, Aachen, Germany, September, 2004.
 <p class="infolinks"> <a href="javascript:toggleInfo('MECHROB04_Roessler','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://isas.iar.kit.edu/pdf/MECHROB04_Roessler.pdf" target="_blank"><img src="https://isas.iar.kit.edu/img/PDF.png" alt="PDF" /></a></p>
 </td>
 </tr>
