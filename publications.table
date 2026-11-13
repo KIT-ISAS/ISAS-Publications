@@ -52,23 +52,27 @@
 </td>
 </tr>
 
-<tr id="CDC19_Walker" class="entry">
-<td><div class="balken-inproceedings"></div>
+<tr id="Sensors2026_Reith-Braun" class="entry">
+<td><div class="balken-article"></div>
 </td>
-<td> <i>Markus Walker, Marcel Reith-Braun, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Sampling-based Model Predictive Control Using Trust Regions</b>,</br>Proceedings of the 65th IEEE Conference on Decision and Control (CDC 2026), Honolulu, Hawaii, December, 2026.
-<p class="infolinks"> <a href="javascript:toggleInfo('CDC19_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+<td> <i>Marcel Reith-Braun, Felix Kronenwett, Preetham Suresh, Georg Maier, Harald Kruggel-Emden, Thomas Längle, Jürgen Beyerer, Florian Pfaff, Uwe D. Hanebeck</i>,</br> <b>Breaking the Pneumatic Barrier: Optimal Control of Mechanically Actuated 2D Grids for High-Throughput, Energy-Efficient Sensor-Based Sorting</b>,</br>Sensors, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('Sensors2026_Reith-Braun','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a> <a href="https://www.mdpi.com/1424-8220/26/21/7030" target="_blank">URL</a></p>
 </td>
 </tr>
-<tr id="bib_CDC19_Walker" class="bibtex noshow"><td></td>
+<tr id="bib_Sensors2026_Reith-Braun" class="bibtex noshow"><td></td>
 <td><b>BibTeX</b>:
 <pre>
-@inproceedings{CDC19_Walker,
-	author = {Markus Walker and Marcel Reith-Braun and Daniel Frisch and Uwe D. Hanebeck},
-	title = {Sampling-based Model Predictive Control Using Trust Regions},
-	booktitle = {Proceedings of the 65th IEEE Conference on Decision and Control (CDC 2026)},
-	address = {Honolulu, Hawaii},
-	year = {2026},
-	month = dec,
+@Article{Sensors2026_Reith-Braun,
+AUTHOR = {Marcel Reith-Braun and Felix Kronenwett and Preetham Suresh and Georg Maier and Harald Kruggel-Emden and Thomas Längle and Jürgen Beyerer and Florian Pfaff and Uwe D. Hanebeck},
+TITLE = {Breaking the Pneumatic Barrier: Optimal Control of Mechanically Actuated 2D Grids for High-Throughput, Energy-Efficient Sensor-Based Sorting},
+JOURNAL = {Sensors},
+VOLUME = {26},
+YEAR = {2026},
+NUMBER = {21},
+ARTICLE-NUMBER = {7030},
+URL = {https://www.mdpi.com/1424-8220/26/21/7030},
+ISSN = {1424-8220},
+DOI = {10.3390/s26217030}
 }
 </pre>
 </td>
@@ -113,6 +117,28 @@
 	address = {Munich, Germany},
 	month = dec,
 	year = {2026}, 
+}
+</pre>
+</td>
+</tr>
+
+<tr id="CDC19_Walker" class="entry">
+<td><div class="balken-inproceedings"></div>
+</td>
+<td> <i>Markus Walker, Marcel Reith-Braun, Daniel Frisch, Uwe D. Hanebeck</i>,</br> <b>Sampling-based Model Predictive Control Using Trust Regions</b>,</br>Proceedings of the 65th IEEE Conference on Decision and Control (CDC 2026), Honolulu, Hawaii, December, 2026.
+<p class="infolinks"> <a href="javascript:toggleInfo('CDC19_Walker','bibtex')"><img src="https://isas.iar.kit.edu/img/BibTeX.png" alt="BibTeX" /></a></p>
+</td>
+</tr>
+<tr id="bib_CDC19_Walker" class="bibtex noshow"><td></td>
+<td><b>BibTeX</b>:
+<pre>
+@inproceedings{CDC19_Walker,
+	author = {Markus Walker and Marcel Reith-Braun and Daniel Frisch and Uwe D. Hanebeck},
+	title = {Sampling-based Model Predictive Control Using Trust Regions},
+	booktitle = {Proceedings of the 65th IEEE Conference on Decision and Control (CDC 2026)},
+	address = {Honolulu, Hawaii},
+	year = {2026},
+	month = dec,
 }
 </pre>
 </td>
